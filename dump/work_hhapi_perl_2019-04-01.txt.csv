@@ -1,0 +1,7 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;5;59.981924;30.33052;;Кантемировская улица;Санкт-Петербург;НИИ МАСШТАБ;https://api.hh.ru/employers/841097;https://hh.ru/vacancy/29370938;RUR;75000;110000.0;Разработчик C
+1;80;59.984922;30.333547;Лесная;Большой Сампсониевский проспект;Санкт-Петербург;КофеБон РУС;https://api.hh.ru/employers/1900847;https://hh.ru/vacancy/30289995;RUR;70000;100000.0;Программист
+2;16;59.944576;30.294928;Спортивная;Биржевая линия;Санкт-Петербург;НПФ СофтДжойс;https://api.hh.ru/employers/150389;https://hh.ru/vacancy/30729872;RUR;150000;200000.0;Linux Software Developer
+3;;;;Площадь Восстания;;Санкт-Петербург;ОБИТ;https://api.hh.ru/employers/53676;https://hh.ru/vacancy/29842620;RUR;90000;;Веб-программист
+4;;;;Площадь Восстания;;Санкт-Петербург;ОБИТ;https://api.hh.ru/employers/53676;https://hh.ru/vacancy/29810366;RUR;90000;;PHP-разработчик
+5;3к1;60.063554;30.358008;Проспект Просвещения;3-й Верхний переулок;Санкт-Петербург;Леко Стайл;https://api.hh.ru/employers/192775;https://hh.ru/vacancy/27158031;RUR;80000;;Системный инженер

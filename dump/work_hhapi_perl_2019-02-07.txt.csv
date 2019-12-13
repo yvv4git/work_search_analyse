@@ -1,0 +1,12 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;22;59.937887;30.267161;Василеостровская;17-я линия В.О.;Санкт-Петербург;220 Вольт;https://api.hh.ru/employers/824009;https://hh.ru/vacancy/29935359;RUR;80000;140000.0;Perl-программист
+1;;;;Московские ворота;;Санкт-Петербург;ОБИТ;https://api.hh.ru/employers/53676;https://hh.ru/vacancy/29842620;RUR;90000;;Веб-программист
+2;;;;Московские ворота;;Санкт-Петербург;ОБИТ;https://api.hh.ru/employers/53676;https://hh.ru/vacancy/29810366;RUR;90000;;PHP-разработчик
+3;5;59.981924;30.33052;;Кантемировская улица;Санкт-Петербург;НИИ МАСШТАБ;https://api.hh.ru/employers/841097;https://hh.ru/vacancy/29370938;RUR;75000;110000.0;Разработчик C
+4;22;59.98688;30.316892;Чёрная речка;Белоостровская;Санкт-Петербург;Коддан Текнолоджис;https://api.hh.ru/employers/35795;https://hh.ru/vacancy/30014322;RUR;65000;100000.0;Web-разработчик
+5;18;59.959269;30.334409;Площадь Ленина;Петроградская набережная;Санкт-Петербург;АДМ СИСТЕМЫ;https://api.hh.ru/employers/1698593;https://hh.ru/vacancy/29604058;RUR;100000;;Системный инженер / Инженер DevOps
+6;;;;;;Санкт-Петербург;БАЛТБЕТ;https://api.hh.ru/employers/782901;https://hh.ru/vacancy/29840003;RUR;90000;;Database developer
+7;;;;;;Санкт-Петербург;Crossover;https://api.hh.ru/employers/1482197;https://hh.ru/vacancy/29955129;USD;2500;2500.0;SaaSOps Engineer
+8;3к1;60.063554;30.358008;Проспект Просвещения;3-й Верхний переулок;Санкт-Петербург;Леко Стайл;https://api.hh.ru/employers/192775;https://hh.ru/vacancy/27158031;RUR;80000;;Системный инженер (DevOps)
+9;;;;;;Санкт-Петербург;Crossover;https://api.hh.ru/employers/1482197;https://hh.ru/vacancy/29955724;USD;2500;2500.0;Database Engineer
+10;;;;;;Санкт-Петербург;Crossover;https://api.hh.ru/employers/1482197;https://hh.ru/vacancy/29953058;USD;5000;5000.0;SaaSOps Architect

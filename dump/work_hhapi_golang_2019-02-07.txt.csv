@@ -1,0 +1,15 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;4;59.981271;30.326118;;Кантемировская улица;Санкт-Петербург;Эддреалити;https://api.hh.ru/employers/1967022;https://hh.ru/vacancy/29970206;RUR;150000.0;200000.0;Golang Developer
+1;;;;;;Санкт-Петербург;MediaTech;https://api.hh.ru/employers/115009;https://hh.ru/vacancy/29645942;RUR;150000.0;200000.0;Senior Golang Developer
+2;3;59.9311143089;30.4377551019;Ладожская;проспект Энергетиков;Санкт-Петербург;LTD BeGet;https://api.hh.ru/employers/656641;https://hh.ru/vacancy/30028295;RUR;100000.0;;Golang / Python программист / Back-end developer
+3;;;;;;Санкт-Петербург;Pleexy;https://api.hh.ru/employers/3315781;https://hh.ru/vacancy/29986624;USD;3800.0;;Senior Go Developer
+4;;;;;;Санкт-Петербург;ФИНТЕХ;https://api.hh.ru/employers/2933713;https://hh.ru/vacancy/29524014;EUR;2500.0;4000.0;Senior Java Developer
+5;;;;Сенная площадь;;Санкт-Петербург;Корпорация  Сибирское здоровье;https://api.hh.ru/employers/51900;https://hh.ru/vacancy/30016815;RUR;100000.0;120000.0;Backend программист
+6;22к2;59.888591;30.327672;Московские ворота;Заставская улица;Санкт-Петербург;SEMrush;https://api.hh.ru/employers/789662;https://hh.ru/vacancy/29943239;RUR;160000.0;;C/Golang Developer (Blue team)
+7;;;;Спортивная;;Санкт-Петербург;SEO PRO;https://api.hh.ru/employers/1905543;https://hh.ru/vacancy/29920197;USD;;3000.0;Go/Golang разработчик
+8;1;59.959251;30.311583;Горьковская;улица Кропоткина;Санкт-Петербург;Space307;https://api.hh.ru/employers/2913350;https://hh.ru/vacancy/27581693;RUR;100000.0;;Golang developer
+9;69;55.778897;37.690614;Бауманская;Бакунинская улица;Санкт-Петербург;Левел Тревел;https://api.hh.ru/employers/1278562;https://hh.ru/vacancy/29367777;RUR;120000.0;180000.0;Middle/Senior Ruby on Rails / Back-end developer
+10;;;;;;Санкт-Петербург;Star-staff;https://api.hh.ru/employers/1111058;https://hh.ru/vacancy/29549064;RUR;;300000.0;Java developer (remote)
+11;126Б;59.985926;30.202743;Беговая;улица Савушкина;Санкт-Петербург;Devim;https://api.hh.ru/employers/2097195;https://hh.ru/vacancy/28300731;RUR;120000.0;;Senior PHP Developer
+12;23Д;59.97233;30.311403;Петроградская;улица Профессора Попова;Санкт-Петербург;Click;https://api.hh.ru/employers/2053040;https://hh.ru/vacancy/28448676;RUR;80000.0;120000.0;Middle back-end developer / Бэкэнд разработчик
+13;;;;;;Санкт-Петербург;Микрофинансовая организация До Зарплаты;https://api.hh.ru/employers/648937;https://hh.ru/vacancy/29553977;RUR;120000.0;;Senior PHP-Developer

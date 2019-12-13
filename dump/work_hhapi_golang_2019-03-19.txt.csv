@@ -1,0 +1,14 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;29А;59.958142;30.300121;Спортивная;Большой проспект Петроградской стороны;Санкт-Петербург;А3 Технолоджи;https://api.hh.ru/employers/2270363;https://hh.ru/vacancy/30532683;RUR;70000.0;100000.0;PHP/Go разработчик (middle)
+1;;;;;;Санкт-Петербург;Privatix;https://api.hh.ru/employers/3698859;https://hh.ru/vacancy/30461547;USD;2500.0;4000.0;Senior Unix / DevOps Engineer
+2;4;59.981271;30.326118;;Кантемировская улица;Санкт-Петербург;Эддреалити;https://api.hh.ru/employers/1967022;https://hh.ru/vacancy/29970206;RUR;100000.0;200000.0;Golang Developer
+3;69;55.778897;37.690614;Бауманская;Бакунинская улица;Санкт-Петербург;Левел Тревел;https://api.hh.ru/employers/1278562;https://hh.ru/vacancy/29367777;RUR;120000.0;200000.0;Middle/Senior Ruby on Rails / Back-end developer
+4;;;;;;Санкт-Петербург;АППНЕСС РАЗРАБОТКА;https://api.hh.ru/employers/3233796;https://hh.ru/vacancy/30440302;RUR;150000.0;;DevOps Engineer
+5;40к4;59.818079;30.328004;;Пулковское шоссе;Санкт-Петербург;Макспостер;https://api.hh.ru/employers/1502110;https://hh.ru/vacancy/30222919;RUR;;190000.0;Front-end разработчик
+6;40к4;59.818079;30.328004;;Пулковское шоссе;Санкт-Петербург;Макспостер;https://api.hh.ru/employers/1502110;https://hh.ru/vacancy/30222895;RUR;;190000.0;Android Developer
+7;40к4;59.818079;30.328004;;Пулковское шоссе;Санкт-Петербург;Макспостер;https://api.hh.ru/employers/1502110;https://hh.ru/vacancy/30222947;RUR;;190000.0;Back-end разработчик PHP
+8;28Б;59.886871;30.325678;Московские ворота;улица Коли Томчака;Санкт-Петербург;Selectel;https://api.hh.ru/employers/633069;https://hh.ru/vacancy/30590994;RUR;100000.0;;Go-разработчик Virtual Private Cloud
+9;126;59.987407;30.204342;Беговая;улица Савушкина;Санкт-Петербург;Devim;https://api.hh.ru/employers/2097195;https://hh.ru/vacancy/28665320;RUR;100000.0;;Golang Developer
+10;;;;;;Санкт-Петербург;Star-staff;https://api.hh.ru/employers/1111058;https://hh.ru/vacancy/29549064;RUR;;300000.0;Java developer (remote)
+11;67;59.931206;30.353777;Маяковская;Невский проспект;Санкт-Петербург;Bnovo;https://api.hh.ru/employers/1222051;https://hh.ru/vacancy/30129957;RUR;95000.0;135000.0;Middle PHP developer/ программист
+12;;;;Сенная площадь;;Санкт-Петербург;Корпорация  Сибирское здоровье;https://api.hh.ru/employers/51900;https://hh.ru/vacancy/30490305;RUR;100000.0;120000.0;Backend программист

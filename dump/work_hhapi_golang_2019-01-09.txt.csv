@@ -1,0 +1,7 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;4;59.981271;30.326118;;Кантемировская улица;Санкт-Петербург;Эддреалити;https://api.hh.ru/employers/1967022;https://hh.ru/vacancy/29148581;RUR;100000;200000.0;Golang Developer
+1;;;;;;Санкт-Петербург;ФИНТЕХ;https://api.hh.ru/employers/2933713;https://hh.ru/vacancy/29524014;EUR;2500;4000.0;Senior Java Developer
+2;;;;;;Санкт-Петербург;Аппкрафт;https://api.hh.ru/employers/2460106;https://hh.ru/vacancy/29471082;RUR;100000;200000.0;Fullstack-разработчик (Python+React)
+3;;;;;;Санкт-Петербург;SKU Grid;https://api.hh.ru/employers/2470951;https://hh.ru/vacancy/29512979;RUR;120000;;DevOps инженер
+4;3;59.8505;30.305825;Московская;площадь Конституции;Санкт-Петербург;QBAR;https://api.hh.ru/employers/1891995;https://hh.ru/vacancy/29269495;RUR;80000;;Программист / Разработчик / Full Stack Developer (JavaScript / Node.js)
+5;23Д;59.97233;30.311403;Петроградская;улица Профессора Попова;Санкт-Петербург;Click;https://api.hh.ru/employers/2053040;https://hh.ru/vacancy/28448676;RUR;80000;120000.0;Middle back-end developer / Бэкэнд разработчик

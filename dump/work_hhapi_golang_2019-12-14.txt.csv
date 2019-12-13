@@ -1,0 +1,25 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;;;;Петроградская;;Санкт-Петербург;B2Broker;https://api.hh.ru/employers/2234168;https://hh.ru/vacancy/34869576;RUR;100000.0;180000.0;Golang developer
+1;50;59.967358;30.299339;;Чкаловский проспект;Санкт-Петербург;Софтвайс;https://api.hh.ru/employers/4295296;https://hh.ru/vacancy/34349636;RUR;139000.0;175000.0;Backend Golang Developer / Go разработчик
+2;;;;;;Санкт-Петербург;Ласт Левел;https://api.hh.ru/employers/2523802;https://hh.ru/vacancy/33788445;RUR;160000.0;;Go developer
+3;;;;;;Санкт-Петербург;Cryptopay Ltd.;https://api.hh.ru/employers/2342447;https://hh.ru/vacancy/34190534;RUR;200000.0;;Senior Go backend developer
+4;50;59.967358;30.299339;;Чкаловский проспект;Санкт-Петербург;Софтвайс;https://api.hh.ru/employers/4295296;https://hh.ru/vacancy/34909077;RUR;139000.0;175000.0;Middle to Senior PHP Developer / Разработчик на PHP
+5;17;59.987226;30.320467;Чёрная речка;Белоостровская улица;Санкт-Петербург;МиАТел;https://api.hh.ru/employers/1585617;https://hh.ru/vacancy/34904802;RUR;70000.0;100000.0;Backend разработчик
+6;64;59.976481;30.337985;Выборгская;Большой Сампсониевский проспект;Санкт-Петербург;Goodwix;https://api.hh.ru/employers/2014783;https://hh.ru/vacancy/34613586;RUR;160000.0;;Senior PHP/Go Developer
+7;;;;;;Санкт-Петербург;Searchinform;https://api.hh.ru/employers/534283;https://hh.ru/vacancy/34912543;RUR;80000.0;120000.0;Delphi разработчик
+8;;;;;;Санкт-Петербург;IQ Орtiоn Sоftwаre;https://api.hh.ru/employers/1876072;https://hh.ru/vacancy/33303422;RUR;150000.0;;Golang Developer (в команду Payment Processing)
+9;;;;;;Санкт-Петербург;Egamings, филиал г. Псков;https://api.hh.ru/employers/2661787;https://hh.ru/vacancy/34595613;RUR;60000.0;110000.0;Middle/ Senior Node.JS - разработчик
+10;;;;;;Санкт-Петербург;4xxi;https://api.hh.ru/employers/1536449;https://hh.ru/vacancy/34746633;RUR;140000.0;;Senior PHP-разработчик
+11;123;59.918485;30.352232;Лиговский проспект;Лиговский проспект;Санкт-Петербург;Тамтэк;https://api.hh.ru/employers/869395;https://hh.ru/vacancy/34909045;RUR;237200.0;258000.0;Системный архитектор
+12;;;;Ладожская;;Санкт-Петербург;LTD BeGet;https://api.hh.ru/employers/656641;https://hh.ru/vacancy/34105572;RUR;100000.0;120000.0;DevOps-инженер
+13;5А;59.963224;30.320117;Петроградская;улица Рентгена;Санкт-Петербург;Click;https://api.hh.ru/employers/2053040;https://hh.ru/vacancy/34353649;RUR;180000.0;250000.0;Senior Go Developer
+14;5А;59.963224;30.320117;Петроградская;улица Рентгена;Санкт-Петербург;Click;https://api.hh.ru/employers/2053040;https://hh.ru/vacancy/34353597;RUR;140000.0;180000.0;Middle Go Developer
+15;;;;Удельная;;Санкт-Петербург;YAMI YAMI;https://api.hh.ru/employers/3520097;https://hh.ru/vacancy/34689376;RUR;90000.0;;PHP Разработчик, full stack developer PHP
+16;40к4;59.818079;30.328004;;Пулковское шоссе;Санкт-Петербург;Макспостер;https://api.hh.ru/employers/1502110;https://hh.ru/vacancy/34923352;RUR;140000.0;200000.0;Android-разработчик (Kotlin)
+17;22к2;59.888591;30.327672;Московские ворота;Заставская улица;Санкт-Петербург;SEMrush;https://api.hh.ru/employers/789662;https://hh.ru/vacancy/34009250;RUR;180000.0;;Senior Backend Developer (Red Team)
+18;;59.932274;30.401639;;Малоохтинский проспект;Санкт-Петербург;IQ Орtiоn Sоftwаre;https://api.hh.ru/employers/1876072;https://hh.ru/vacancy/34192070;RUR;100000.0;150000.0;Руководитель отдела подбора персонала
+19;24;59.963656;30.287077;Чкаловская;Большая Зеленина улица;Санкт-Петербург;Just AI;https://api.hh.ru/employers/3833791;https://hh.ru/vacancy/34558342;RUR;;150000.0;Системный администратор / DevOps Engineer
+20;22а;59.888487;30.327708;Московские ворота;Заставская улица;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/31252701;RUR;100000.0;;Системный администратор Linux
+21;24;59.963656;30.287077;Чкаловская;Большая Зеленина улица;Санкт-Петербург;i-FREE;https://api.hh.ru/employers/18062;https://hh.ru/vacancy/34558851;RUR;;150000.0;Системный администратор / DevOps Engineer
+22;7;59.971168;30.337679;;Зеленков переулок;Санкт-Петербург;Орка Софтвер;https://api.hh.ru/employers/4246225;https://hh.ru/vacancy/34825880;RUR;180000.0;280000.0;Senior Golang developer
+23;;;;;;Санкт-Петербург;Airpush;https://api.hh.ru/employers/2063875;https://hh.ru/vacancy/34868576;USD;2500.0;3200.0;Remote Go Developer

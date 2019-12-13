@@ -1,0 +1,5 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;;;;;;Санкт-Петербург;Это элементарно;https://api.hh.ru/employers/1494162;https://hh.ru/vacancy/34967540;RUR;90000;;PHP-разработчик (middle)
+1;22;59.937887;30.267161;Василеостровская;17-я линия В.О.;Санкт-Петербург;220 Вольт;https://api.hh.ru/employers/824009;https://hh.ru/vacancy/34939581;RUR;80000;120000.0;Front-end разработчик
+2;49;59.994216;30.388048;;проспект Непокорённых;Санкт-Петербург;Специальный Технологический Центр;https://api.hh.ru/employers/2519536;https://hh.ru/vacancy/17217849;RUR;100000;;Системный программист
+3;22а;59.888487;30.327708;Московские ворота;Заставская улица;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/31252701;RUR;100000;;Системный администратор Linux

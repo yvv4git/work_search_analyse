@@ -1,0 +1,6 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;25Ж;59.960269;30.279783;;улица Красного Курсанта;Санкт-Петербург;СевенТест, НТЦ;https://api.hh.ru/employers/887195;https://hh.ru/vacancy/31192987;RUR;40000;107000.0;Программист C/C++
+1;3к1;60.063554;30.358008;Проспект Просвещения;3-й Верхний переулок;Санкт-Петербург;Леко Стайл;https://api.hh.ru/employers/192775;https://hh.ru/vacancy/27158031;RUR;80000;;Системный инженер
+2;5;59.981924;30.33052;;Кантемировская улица;Санкт-Петербург;НИИ МАСШТАБ;https://api.hh.ru/employers/841097;https://hh.ru/vacancy/29370938;RUR;75000;110000.0;Разработчик C
+3;49;59.994216;30.388048;;проспект Непокорённых;Санкт-Петербург;Специальный Технологический Центр;https://api.hh.ru/employers/2519536;https://hh.ru/vacancy/17217849;RUR;100000;;Системный программист
+4;;;;;;Санкт-Петербург;Altruist Corp;https://api.hh.ru/employers/3993796;https://hh.ru/vacancy/31055753;RUR;150000;175000.0;Senior DevOps Engineer

@@ -1,0 +1,15 @@
+1;	Golang Developer;	100000;	RUR;	200000;	Санкт-Петербург;	Эддреалити;	https://api.hh.ru/employers/1967022;	https://hh.ru/vacancy/29613043;	;	Кантемировская улица;	4
+2;	Delphi разработчик (Senior);	100000;	RUR;	150000;	Санкт-Петербург;	Searchinform;	https://api.hh.ru/employers/534283;	https://hh.ru/vacancy/29619111;	;	;	;	;	
+3;	Golang Developer;	EUR;	2500;	Санкт-Петербург;	Wisebits;	https://api.hh.ru/employers/1689648;	https://hh.ru/vacancy/29558784;	;	;	;	;	
+4;	Golang developer;	100000;	RUR;	Санкт-Петербург;	Space307;	https://api.hh.ru/employers/2913350;	https://hh.ru/vacancy/27581693;	Горьковская;	улица Кропоткина;	1
+5;	DevOps инженер;	120000;	RUR;	Санкт-Петербург;	SKU Grid;	https://api.hh.ru/employers/2470951;	https://hh.ru/vacancy/29512979;	;	;	;	;	
+6;	Senior Java Developer;	2500;	EUR;	4000;	Санкт-Петербург;	ФИНТЕХ;	https://api.hh.ru/employers/2933713;	https://hh.ru/vacancy/29524014;	;	;	;	;	
+7;	Программист / Разработчик / Full Stack Developer (JavaScript / Node.js);	80000;	RUR;	Санкт-Петербург;	QBAR;	https://api.hh.ru/employers/1891995;	https://hh.ru/vacancy/29269495;	Московская;	площадь Конституции;	3
+8;	Программист-разработчик Python;	100000;	RUR;	Санкт-Петербург;	АКУТА;	https://api.hh.ru/employers/751957;	https://hh.ru/vacancy/29630668;	;	Московский район, Цветочная улица;	25А
+9;	Lead Golang Developer;	180000;	RUR;	220000;	Санкт-Петербург;	Новые Рекламные Технологии;	https://api.hh.ru/employers/2468063;	https://hh.ru/vacancy/29075810;	Чкаловская
+10;	Fullstack-разработчик (Python+React);	100000;	RUR;	200000;	Санкт-Петербург;	Аппкрафт;	https://api.hh.ru/employers/2460106;	https://hh.ru/vacancy/29471082;	;	;	;	;	
+11;	JavaScript разработчик;	RUR;	200000;	Санкт-Петербург;	Stadyel;	https://api.hh.ru/employers/3410563;	https://hh.ru/vacancy/29610380;	;	;	;	;	
+12;	Java developer;	RUR;	280000;	Санкт-Петербург;	Star-staff;	https://api.hh.ru/employers/1111058;	https://hh.ru/vacancy/29549064;	;	;	;	;	
+13;	Senior PHP-Developer;	100000;	RUR;	Санкт-Петербург;	Микрофинансовая организация До Зарплаты;	https://api.hh.ru/employers/648937;	https://hh.ru/vacancy/29553977;	;	;	;	;	
+14;	Middle/Senior Ruby on Rails / Back-end developer;	120000;	RUR;	180000;	Санкт-Петербург;	Левел Тревел;	https://api.hh.ru/employers/1278562;	https://hh.ru/vacancy/29367777;	Бауманская;	Бакунинская улица;	69
+15;	Middle back-end developer / Бэкэнд разработчик;	80000;	RUR;	120000;	Санкт-Петербург;	Click;	https://api.hh.ru/employers/2053040;	https://hh.ru/vacancy/28448676;	Петроградская;	улица Профессора Попова;	23Д

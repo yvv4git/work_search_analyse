@@ -1,0 +1,10 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;;;;Новочеркасская;;Санкт-Петербург;Pushapp;https://api.hh.ru/employers/2120114;https://hh.ru/vacancy/30792004;RUR;90000;120000;Middle Backend Developer (php, golang)
+1;105;59.890871;30.318707;Московские ворота;Московский проспект;Санкт-Петербург;АпТрейдер (UpTrader);https://api.hh.ru/employers/2365329;https://hh.ru/vacancy/30925663;RUR;140000;180000;GoLang Developer
+2;;;;;;Санкт-Петербург;ДИДЖИТАЛ ТРЕЙД СОЛЮШНС;https://api.hh.ru/employers/3574533;https://hh.ru/vacancy/30642397;RUR;120000;170000;Аналитик-разработчик (Python, NodeJS, Golang)
+3;метро Петроградская;59.966394;30.311502;Петроградская;Московско-Петроградская линия;Санкт-Петербург;Новые Технологии;https://api.hh.ru/employers/1019812;https://hh.ru/vacancy/31191792;RUR;80000;140000;PHP Developer (PHP-разработчик)
+4;;;;;;Санкт-Петербург;MediaTech;https://api.hh.ru/employers/115009;https://hh.ru/vacancy/31006628;RUR;139000;155000;Разработчик баз данных / Senior DB Developer
+5;17;59.987226;30.320467;Чёрная речка;Белоостровская улица;Санкт-Петербург;МиАТел;https://api.hh.ru/employers/1585617;https://hh.ru/vacancy/30726311;RUR;70000;100000;Backend программист
+6;67;59.931206;30.353777;Маяковская;Невский проспект;Санкт-Петербург;Bnovo;https://api.hh.ru/employers/1222051;https://hh.ru/vacancy/30129957;RUR;95000;135000;Middle PHP developer/ программист
+7;;;;;;Санкт-Петербург;Searchinform;https://api.hh.ru/employers/534283;https://hh.ru/vacancy/31170469;RUR;80000;120000;Delphi разработчик
+8;;;;Сенная площадь;;Санкт-Петербург;Корпорация  Сибирское здоровье;https://api.hh.ru/employers/51900;https://hh.ru/vacancy/31130474;RUR;100000;130000;Backend программист

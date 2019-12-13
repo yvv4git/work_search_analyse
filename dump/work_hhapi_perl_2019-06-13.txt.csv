@@ -1,0 +1,10 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;12;59.96584;30.292997;Чкаловская;Левашовский проспект;Санкт-Петербург;Группа Компаний MVS;https://api.hh.ru/employers/964957;https://hh.ru/vacancy/31473362;RUR;150000;;DevOps
+1;;;;;;Санкт-Петербург;KPILead;https://api.hh.ru/employers/2914168;https://hh.ru/vacancy/31780005;RUR;100000;;DevOps / Системный администратор
+2;22а;59.888487;30.327708;Московские ворота;Заставская улица;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/31252701;RUR;100000;;Системный администратор Linux
+3;;;;Ладожская;;Санкт-Петербург;Adwirk Group;https://api.hh.ru/employers/1524165;https://hh.ru/vacancy/31538753;RUR;70000;100000.0;System Administrator ( DevOps )
+4;22;59.937887;30.267161;Василеостровская;17-я линия В.О.;Санкт-Петербург;220 Вольт;https://api.hh.ru/employers/824009;https://hh.ru/vacancy/30500374;RUR;80000;140000.0;Perl-программист
+5;126б;59.985863;30.202734;;улица Савушкина;Санкт-Петербург;Неотек;https://api.hh.ru/employers/1776376;https://hh.ru/vacancy/31915669;RUR;120000;;Системный администратор/DevOps
+6;4а;59.957769;30.342054;Площадь Ленина;Финляндский проспект;Санкт-Петербург;Акрибия;https://api.hh.ru/employers/1481235;https://hh.ru/vacancy/31829480;RUR;90000;;Pentester
+7;49;59.994216;30.388048;;проспект Непокорённых;Санкт-Петербург;Специальный Технологический Центр;https://api.hh.ru/employers/2519536;https://hh.ru/vacancy/17217849;RUR;100000;;Системный программист
+8;3к1;60.063554;30.358008;Проспект Просвещения;3-й Верхний переулок;Санкт-Петербург;Леко Стайл;https://api.hh.ru/employers/192775;https://hh.ru/vacancy/27158031;RUR;80000;;Системный инженер

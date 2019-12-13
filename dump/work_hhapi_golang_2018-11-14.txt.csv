@@ -1,0 +1,15 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;126;59.987407;30.204342;Беговая;улица Савушкина;Санкт-Петербург;Devim;https://api.hh.ru/employers/2097195;https://hh.ru/vacancy/28665320;RUR;100000.0;150000.0;Golang Developer
+1;7Ф;59.990804;30.260056;Старая Деревня;Торфяная дорога;Санкт-Петербург;Nethouse;https://api.hh.ru/employers/1109285;https://hh.ru/vacancy/28619431;RUR;100000.0;150000.0;Программист Go
+2;;;;;;Санкт-Петербург;SkyTech Solutions;https://api.hh.ru/employers/3765904;https://hh.ru/vacancy/28782260;RUR;180000.0;;Golang Developer
+3;;1.318308;103.82967;;;Санкт-Петербург;Spiking;https://api.hh.ru/employers/3743196;https://hh.ru/vacancy/28638203;USD;;5000.0;Backend Engineer
+4;4;60.07028;30.334948;Парнас;улица Фёдора Абрамова;Санкт-Петербург;Vallexsoftware;https://api.hh.ru/employers/2291011;https://hh.ru/vacancy/27540017;RUR;160000.0;220000.0;Web developer (middle-senior level)
+5;;;;;;Санкт-Петербург;Аппкрафт;https://api.hh.ru/employers/2460106;https://hh.ru/vacancy/28486982;RUR;80000.0;150000.0;Fullstack-разработчик (Python+JavaScript)
+6;;;;;;Санкт-Петербург;Stadyel;https://api.hh.ru/employers/3410563;https://hh.ru/vacancy/28726970;RUR;;200000.0;JavaScript разработчик
+7;25А;59.885769;30.329469;;Московский район, Цветочная улица;Санкт-Петербург;АКУТА;https://api.hh.ru/employers/751957;https://hh.ru/vacancy/28799330;RUR;90000.0;;Ведущий программист-разработчик С/С++
+8;5;59.981924;30.33052;;Кантемировская улица;Санкт-Петербург;НИИ МАСШТАБ;https://api.hh.ru/employers/841097;https://hh.ru/vacancy/28320976;RUR;70000.0;130000.0;Backend-разработчик
+9;;;;;;Санкт-Петербург;SMART HR;https://api.hh.ru/employers/2389305;https://hh.ru/vacancy/28562844;RUR;120000.0;;Программист Python
+10;;;;;;Санкт-Петербург;HR-PROFI;https://api.hh.ru/employers/1883675;https://hh.ru/vacancy/28474800;RUR;150000.0;;Full Stack Разработчик
+11;23Д;59.97233;30.311403;Петроградская;улица Профессора Попова;Санкт-Петербург;Click;https://api.hh.ru/employers/2053040;https://hh.ru/vacancy/28448676;RUR;80000.0;120000.0;Middle back-end developer / Бэкэнд разработчик
+12;22а;59.888487;30.327708;Московские ворота;Заставская улица;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/28580957;RUR;80000.0;;Системный администратор Linux
+13;25А;59.885769;30.329469;;Московский район, Цветочная улица;Санкт-Петербург;АКУТА;https://api.hh.ru/employers/751957;https://hh.ru/vacancy/28658585;RUR;90000.0;;Ведущий программист-разработчик Python

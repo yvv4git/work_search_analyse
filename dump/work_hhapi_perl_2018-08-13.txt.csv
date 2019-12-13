@@ -1,0 +1,13 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;83к3;59.984926;30.250174;Старая Деревня;улица Савушкина;Санкт-Петербург;Internest;https://api.hh.ru/employers/41138;https://hh.ru/vacancy/25650667;RUR;60000.0;110000.0;Программист Perl
+1;;;;;;Санкт-Петербург;ОнТаргет ЛАБС;https://api.hh.ru/employers/850334;https://hh.ru/vacancy/27086572;USD;1500.0;2500.0;DevOps engineer
+2;83к3;59.984926;30.250174;Старая Деревня;улица Савушкина;Санкт-Петербург;Internest;https://api.hh.ru/employers/41138;https://hh.ru/vacancy/26366106;RUR;80000.0;;Тестировщик / Инженер по тестированию
+3;3к1;59.803255;30.403463;Купчино;2-й Бадаевский проезд;Санкт-Петербург;Автоконтинент;https://api.hh.ru/employers/2598555;https://hh.ru/vacancy/27126603;RUR;120000.0;;Web-программист
+4;44;59.98994;30.318815;;Сердобольская улица;Санкт-Петербург;Lenvendo;https://api.hh.ru/employers/1227460;https://hh.ru/vacancy/26905765;RUR;70000.0;150000.0;Системный администратор Linux
+5;;;;;;Санкт-Петербург;Tophunt;https://api.hh.ru/employers/3201920;https://hh.ru/vacancy/27276832;RUR;;90000.0;Системный администратор Linux
+6;;;;;;Санкт-Петербург;ЭдСервер;https://api.hh.ru/employers/3543358;https://hh.ru/vacancy/26738778;RUR;;80000.0;Системный администратор Linux
+7;;;;;;Санкт-Петербург;Эт Хоум;https://api.hh.ru/employers/147891;https://hh.ru/vacancy/26037159;RUR;65000.0;80000.0;Ведущий системный администратор Linux
+8;;;;;;Санкт-Петербург;РИВ ГОШ, Сеть магазинов;https://api.hh.ru/employers/31050;https://hh.ru/vacancy/27251800;RUR;100000.0;;Senior DWH developer
+9;;;;;;Санкт-Петербург;BARONA;https://api.hh.ru/employers/114054;https://hh.ru/vacancy/25273382;RUR;100000.0;180000.0;Software Developer ( С/С++)
+10;;;;;;Санкт-Петербург;РИВ ГОШ, Сеть магазинов;https://api.hh.ru/employers/31050;https://hh.ru/vacancy/27011107;RUR;100000.0;;Разработчик DWH
+11;5;59.963814;30.289278;Чкаловская;Лодейнопольская улица;Санкт-Петербург;TradingView;https://api.hh.ru/employers/1235972;https://hh.ru/vacancy/27189896;RUR;140000.0;200000.0;DevOps Engineer (команда frontend)

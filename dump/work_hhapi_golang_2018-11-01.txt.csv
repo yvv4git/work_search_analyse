@@ -1,0 +1,13 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;1;59.959251;30.311583;Горьковская;улица Кропоткина;Санкт-Петербург;MediaTech;https://api.hh.ru/employers/115009;https://hh.ru/vacancy/27793407;RUR;150000.0;200000.0;Senior Fullstack Developer (Golang, PHP, JavaScript, PostgreSQL)
+1;;;;;;Санкт-Петербург;Аппкрафт;https://api.hh.ru/employers/2460106;https://hh.ru/vacancy/28486982;RUR;80000.0;150000.0;Fullstack-разработчик (Python+JavaScript)
+2;67;59.931206;30.353777;Маяковская;Невский проспект;Санкт-Петербург;Bnovo;https://api.hh.ru/employers/1222051;https://hh.ru/vacancy/28236808;RUR;80000.0;;Старший PHP-разработчик
+3;4;60.07028;30.334948;Парнас;улица Фёдора Абрамова;Санкт-Петербург;Vallexsoftware;https://api.hh.ru/employers/2291011;https://hh.ru/vacancy/27540017;RUR;160000.0;220000.0;Web developer (middle-senior level)
+4;22а;59.888487;30.327708;Московские ворота;Заставская улица;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/28580957;RUR;80000.0;;Системный администратор Linux
+5;;;;;;Санкт-Петербург;SMART HR;https://api.hh.ru/employers/2389305;https://hh.ru/vacancy/28562844;RUR;120000.0;;Программист Python
+6;5;59.981924;30.33052;;Кантемировская улица;Санкт-Петербург;НИИ МАСШТАБ;https://api.hh.ru/employers/841097;https://hh.ru/vacancy/28320976;RUR;70000.0;130000.0;Backend-разработчик
+7;;;;;;Санкт-Петербург;HR-PROFI;https://api.hh.ru/employers/1883675;https://hh.ru/vacancy/28474800;RUR;150000.0;;Full Stack Разработчик
+8;4А;59.925367;30.321941;Сенная площадь;улица Ефимова;Санкт-Петербург;Корпорация  Сибирское здоровье;https://api.hh.ru/employers/51900;https://hh.ru/vacancy/28310321;RUR;100000.0;120000.0;Backend developer (Бэкенд разработчик)
+9;23Д;59.97233;30.311403;Петроградская;улица Профессора Попова;Санкт-Петербург;Click;https://api.hh.ru/employers/2053040;https://hh.ru/vacancy/28448676;RUR;80000.0;120000.0;Middle Backend developer / Бэкэнд разработчик
+10;;;;;;Санкт-Петербург;Простое решение;https://api.hh.ru/employers/3121328;https://hh.ru/vacancy/26651492;RUR;;130000.0;Веб-разработчик (goland)
+11;;;;;;Санкт-Петербург;Searchinform;https://api.hh.ru/employers/534283;https://hh.ru/vacancy/28419787;RUR;100000.0;150000.0;Delphi разработчик (Senior)

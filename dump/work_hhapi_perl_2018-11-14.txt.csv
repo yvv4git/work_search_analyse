@@ -1,0 +1,13 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;21А;59.966015;30.338327;Выборгская;Пироговская наб.;Санкт-Петербург;Cbonds.ru;https://api.hh.ru/employers/3152;https://hh.ru/vacancy/27958205;RUR;65000;;Системный администратор
+1;61;59.980537;30.323082;Лесная;Выборгская наб.;Санкт-Петербург;Телфин, телекоммуникационная компания;https://api.hh.ru/employers/38534;https://hh.ru/vacancy/28474088;RUR;80000;;Ведущий разработчик/специалист VoIP
+2;25Ж;59.960269;30.279783;;улица Красного Курсанта;Санкт-Петербург;СевенТест, НТЦ;https://api.hh.ru/employers/887195;https://hh.ru/vacancy/28806210;RUR;40000;107000.0;Программист C/C++
+3;44;59.98994;30.318815;;Сердобольская улица;Санкт-Петербург;Lenvendo;https://api.hh.ru/employers/1227460;https://hh.ru/vacancy/28285801;RUR;70000;150000.0;Системный администратор Linux
+4;2;59.980709;30.324276;Петроградская;Кантемировская;Санкт-Петербург;ALM Works;https://api.hh.ru/employers/542183;https://hh.ru/vacancy/28375928;RUR;110000;;Системный администратор
+5;6-8;59.934961;30.277016;Василеостровская;13-я линия Васильевского острова;Санкт-Петербург;Genesis Vision;https://api.hh.ru/employers/3154366;https://hh.ru/vacancy/28564662;RUR;90000;130000.0;Senior System Administrator & DevOps
+6;;;;;;Санкт-Петербург;ОБИТ;https://api.hh.ru/employers/53676;https://hh.ru/vacancy/22875988;RUR;90000;;Веб-программист
+7;;;;Московские ворота;;Санкт-Петербург;ОБИТ;https://api.hh.ru/employers/53676;https://hh.ru/vacancy/28472937;RUR;50000;85000.0;Инженер VoIP
+8;3А;59.938049;30.321123;;Волынский переулок;Санкт-Петербург;Deutsche Bank Technology Center;https://api.hh.ru/employers/1641540;https://hh.ru/vacancy/28780765;RUR;180000;;DevOps инженер - FX4Cash
+9;22а;59.888487;30.327708;Московские ворота;Заставская улица;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/28580957;RUR;80000;;Системный администратор Linux
+10;49;59.994216;30.388048;;проспект Непокоренных;Санкт-Петербург;Специальный Технологический Центр;https://api.hh.ru/employers/2519536;https://hh.ru/vacancy/25632897;RUR;100000;;Старший Web-программист
+11;39;59.942804;30.364233;Чернышевская;Радищева;Санкт-Петербург;Смарт Телеком;https://api.hh.ru/employers/227613;https://hh.ru/vacancy/27072832;RUR;67800;;Сетевой инженер + Системный администратор *nix

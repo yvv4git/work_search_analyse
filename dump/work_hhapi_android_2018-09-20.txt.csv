@@ -1,0 +1,69 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;47;59.973473;30.334023;;Выборгская набережная;Санкт-Петербург;Эмодзи Аппс;https://api.hh.ru/employers/2666233;https://hh.ru/vacancy/27059814;RUR;150000.0;200000.0;Android Developer / Разработчик Android
+1;37Щ;59.971564;30.299941;Петроградская;улица Профессора Попова;Санкт-Петербург;B2Broker;https://api.hh.ru/employers/2234168;https://hh.ru/vacancy/27703496;RUR;100000.0;180000.0;Разработчик мобильных приложений для IOS и Android
+2;;;;Спортивная;;Санкт-Петербург;А3 Технолоджи;https://api.hh.ru/employers/2270363;https://hh.ru/vacancy/27520927;RUR;50000.0;120000.0;Android-разработчик (Java)
+3;;;;;;Санкт-Петербург;Кошелек.Ру;https://api.hh.ru/employers/1428791;https://career.ru/vacancy/27497957;RUR;;100000.0;Junior Mobile Developer (iOS / Android) программист мобильных приложений
+4;61;59.980583;30.322534;;Выборгская набережная;Санкт-Петербург;Electrolux;https://api.hh.ru/employers/13545;https://hh.ru/vacancy/27906963;RUR;150000.0;;Senior/Lead android SDK developer
+5;15;59.966746;30.284706;Чкаловская;Левашовский проспект;Санкт-Петербург;Новые Рекламные Технологии;https://api.hh.ru/employers/2468063;https://hh.ru/vacancy/27776805;RUR;;200000.0;Android Developer
+6;1-3;59.965336;30.312913;Петроградская;улица Льва Толстого;Санкт-Петербург;Умное пространство;https://api.hh.ru/employers/2460946;https://hh.ru/vacancy/25072149;RUR;130000.0;;Android developer
+7;4;59.921998;30.411251;Новочеркасская;улица Громова;Санкт-Петербург;АВТОР;https://api.hh.ru/employers/1962813;https://hh.ru/vacancy/25777266;RUR;100000.0;130000.0;Android Разработчик
+8;34к10;55.73368;37.664141;Пролетарская;Марксистская улица;Санкт-Петербург;Стандарт Капитал;https://api.hh.ru/employers/1641438;https://hh.ru/vacancy/27611806;RUR;200000.0;;React Native developer (iOS, Android, Web)
+9;;;;;;Санкт-Петербург;JetBrains;https://api.hh.ru/employers/9281;https://hh.ru/vacancy/27890343;RUR;200000.0;;Senior Java Developer (IntelliJ IDEA, Android)
+10;5;59.954151;30.290733;;Малый проспект Петроградской стороны;Санкт-Петербург;i-FREE;https://api.hh.ru/employers/18062;https://hh.ru/vacancy/26650375;RUR;140000.0;;Android разработчик (Умные устройства)
+11;8Б;59.935574;30.436045;Ладожская;площадь Карла Фаберже;Санкт-Петербург;ТЕК РАУНД СПБ;https://api.hh.ru/employers/1901449;https://hh.ru/vacancy/27842011;RUR;110000.0;200000.0;C++ developer
+12;;;;;;Санкт-Петербург;MediaTech;https://api.hh.ru/employers/115009;https://hh.ru/vacancy/27908850;RUR;100000.0;120000.0;C# Developer (Unity)
+13;;;;;;Санкт-Петербург;ОнТаргет ЛАБС;https://api.hh.ru/employers/850334;https://hh.ru/vacancy/27889272;USD;;5000.0;Mobile application developer (iOS)
+14;;;;;;Санкт-Петербург;MetaQuotes Software Corp.;https://api.hh.ru/employers/988940;https://hh.ru/vacancy/27405810;EUR;3500.0;5000.0;Android / С++ разработчик (Лимассол, Кипр)
+15;18;59.9246550287;30.2818635423;Василеостровская;набережная реки Пряжки;Санкт-Петербург;СЗ РЦАИ;https://api.hh.ru/employers/1647549;https://hh.ru/vacancy/27726573;RUR;130000.0;170000.0;Программист С++ (Mobile OpenGL Engineer)
+16;140;59.913839;30.350696;;Лиговский проспект;Санкт-Петербург;ООО «Аптик СПб»;https://api.hh.ru/employers/1886264;https://hh.ru/vacancy/27842300;RUR;175000.0;;Senior Front-End/JavaScript Developer
+17;;59.932274;30.401639;;Малоохтинский проспект;Санкт-Петербург;IQ Орtiоn Sоftwаre;https://api.hh.ru/employers/1876072;https://hh.ru/vacancy/26627670;RUR;180000.0;;Senior Android Developer
+18;;59.959314;30.32619;Горьковская;Большая Посадская улица;Санкт-Петербург;Draewil;https://api.hh.ru/employers/2828853;https://hh.ru/vacancy/27907830;RUR;220000.0;;Ведущий программист Back-end / Javascript / Node.js
+19;22;59.8882939388;30.3286107732;;Заставская улица;Санкт-Петербург;Экспресс Точка Ру;https://api.hh.ru/employers/222779;https://hh.ru/vacancy/27816792;RUR;;150000.0;Android developer
+20;126Б;59.9857916054;30.2027322712;Беговая;улица Савушкина;Санкт-Петербург;Aviasales.ru;https://api.hh.ru/employers/588914;https://hh.ru/vacancy/27558008;USD;1500.0;;QA Engineer
+21;;;;Московские ворота;;Санкт-Петербург;АКМЭ сервис;https://api.hh.ru/employers/157761;https://hh.ru/vacancy/27797004;RUR;100000.0;;IOS разработчик (удаленно)
+22;;;;;;Санкт-Петербург;СайлентНотари;https://api.hh.ru/employers/3137224;https://hh.ru/vacancy/27800997;RUR;90000.0;160000.0;Mobile Developer (iOS/Android)
+23;16/10;59.933807;30.369192;;4-я Советская улица;Санкт-Петербург;Mentalstack;https://api.hh.ru/employers/1812373;https://hh.ru/vacancy/27787877;RUR;;120000.0;Mobile Developer (iOS/Android)
+24;15к3;59.964804;30.381966;Площадь Ленина;Кондратьевский проспект;Санкт-Петербург;Сити лайф;https://api.hh.ru/employers/1949789;https://hh.ru/vacancy/27293259;RUR;120000.0;160000.0;Middle Android developer (Kotlin)
+25;;;;;;Санкт-Петербург;QBAR;https://api.hh.ru/employers/1891995;https://hh.ru/vacancy/27666060;RUR;130000.0;;Руководитель проекта
+26;2;48.126453;11.544007;;Karlsfeld, München, Radlkoferstraße;Санкт-Петербург;Testbirds GmbH;https://api.hh.ru/employers/3448149;https://hh.ru/vacancy/27212579;EUR;4000.0;6000.0;Java developer (F/M) In Germany
+27;153;59.849962;30.30295;;Ленинский проспект;Санкт-Петербург;ВиртуалСервис;https://api.hh.ru/employers/3250780;https://hh.ru/vacancy/27889503;RUR;90000.0;100000.0;Веб-разработчик (PHP, javascript, мобильные приложения)
+28;;;;;;Санкт-Петербург;4xxi;https://api.hh.ru/employers/1536449;https://hh.ru/vacancy/27804952;RUR;50000.0;110000.0;Руководитель IT проектов / IT Project Manager
+29;160;59.852384;30.301055;;Ленинский проспект;Санкт-Петербург;Брейн Бит;https://api.hh.ru/employers/3612853;https://hh.ru/vacancy/27687113;RUR;80000.0;;Программист С++/Qt
+30;5;59.917971;30.348719;;Воронежская улица;Санкт-Петербург;Quantum Art;https://api.hh.ru/employers/8188;https://hh.ru/vacancy/26990022;RUR;50000.0;120000.0;Разработчик ASP.NET MVC
+31;140;59.85247;30.2852;Ленинский проспект;Ленинский проспект;Санкт-Петербург;СТП Трэвел;https://api.hh.ru/employers/3549611;https://career.ru/vacancy/27642680;RUR;50000.0;120000.0;Водитель (на своем автомобиле)
+32;7;59.965273;30.314979;Петроградская;Петроградский район, улица Льва Толстого;Санкт-Петербург;DDG;https://api.hh.ru/employers/1731584;https://hh.ru/vacancy/27905170;RUR;70000.0;;Frontend-разработчик
+33;29;59.910379;30.306948;;Измайловский проспект;Санкт-Петербург;Решение;https://api.hh.ru/employers/214731;https://hh.ru/vacancy/27761211;RUR;70000.0;100000.0;Senior Java программист
+34;8Б;59.935574;30.436045;Ладожская;площадь Карла Фаберже;Санкт-Петербург;ТЕК РАУНД СПБ;https://api.hh.ru/employers/1901449;https://hh.ru/vacancy/27616264;RUR;110000.0;200000.0;Lead JavaScript engineer, front-end and back-end (full stack)
+35;;;;;;Санкт-Петербург;SMART HR;https://api.hh.ru/employers/2389305;https://hh.ru/vacancy/25829890;RUR;;200000.0;Senior Java developer
+36;54 к.4;59.9412407465;30.2561454211;Василеостровская;Малый пр.ВО;Санкт-Петербург;Транзас;https://api.hh.ru/employers/1938912;https://hh.ru/vacancy/24904156;RUR;55000.0;140000.0;Инженер по тестированию ПО
+37;4;59.884541;30.32672;Электросила;Новорощинская улица;Санкт-Петербург;Big Data Technologies;https://api.hh.ru/employers/986791;https://hh.ru/vacancy/27699929;RUR;100000.0;;UI/UX дизайнер
+38;;;;;;Санкт-Петербург;АКМЭ сервис;https://api.hh.ru/employers/157761;https://hh.ru/vacancy/27288928;RUR;100000.0;;JS developer (react)
+39;;;;;;Санкт-Петербург;AgileFusion;https://api.hh.ru/employers/745841;https://hh.ru/vacancy/27779847;USD;3000.0;;Lead Android Developer
+40;23Б;59.975211;30.524655;;Братская улица;Санкт-Петербург;СтройБизнес;https://api.hh.ru/employers/3462095;https://hh.ru/vacancy/27399220;RUR;65000.0;95000.0;Водитель такси
+41;;;;;;Санкт-Петербург;СтарЛайн, Научно-производственное объединение;https://api.hh.ru/employers/3124;https://hh.ru/vacancy/27541288;RUR;80000.0;;Дизайнер интерфейсов
+42;;;;;;Санкт-Петербург;АдсПро Медиа;https://api.hh.ru/employers/3195540;https://hh.ru/vacancy/27022617;RUR;120000.0;;Product Manager (Android)
+43;21А;59.999926;30.256373;Комендантский проспект;Гаккелевская улица;Санкт-Петербург;Майтиколл Рус;https://api.hh.ru/employers/4128;https://hh.ru/vacancy/27594614;RUR;90000.0;;UI дизайнер \ Дизайнер интерфейсов
+44;;59.942146;30.276234;Василеостровская;9-я линия Васильевского острова;Санкт-Петербург;SMART HR;https://api.hh.ru/employers/2389305;https://hh.ru/vacancy/27332039;RUR;;230000.0;Java Team Lead / Руководитель отдела разработки ПО
+45;;;;;;Санкт-Петербург;ЖУЙЭРСЫ;https://api.hh.ru/employers/2748683;https://hh.ru/vacancy/27677839;USD;1000.0;4000.0;Ведущий инженер по обнаружению уязвимости
+46;метро Петроградская;59.966502;30.311439;Петроградская;2 линия;Санкт-Петербург;Кошелек.Ру;https://api.hh.ru/employers/1428791;https://hh.ru/vacancy/27847869;RUR;25000.0;100000.0;Системный администратор (DevOps)
+47;153;59.849962;30.30295;Московская;Ленинский проспект;Санкт-Петербург;ВиртуалПос;https://api.hh.ru/employers/2791475;https://hh.ru/vacancy/27874075;RUR;;90000.0;Веб-разработчик (PHP, javascript)
+48;;;;Московские ворота;;Санкт-Петербург;АКМЭ сервис;https://api.hh.ru/employers/157761;https://hh.ru/vacancy/27734970;RUR;120000.0;150000.0;IOS разработчик
+49;;;;;;Санкт-Петербург;Workle;https://api.hh.ru/employers/533775;https://career.ru/vacancy/27889307;RUR;70000.0;120000.0;Водитель
+50;;;;;;Санкт-Петербург;iSpring;https://api.hh.ru/employers/1296244;https://hh.ru/vacancy/27842986;RUR;80000.0;150000.0;UX/UI дизайнер в мобильное приложение iSpring Learn
+51;;;;Московские ворота;;Санкт-Петербург;Директ-Сервис;https://api.hh.ru/employers/708636;https://hh.ru/vacancy/27847771;RUR;45000.0;80000.0;Водитель-курьер на личном автомобиле
+52;40;59.966282;30.310613;Петроградская;Каменноостровский проспект;Санкт-Петербург;Доктор Моб (ИП Федотов Дмитрий Павлович);https://api.hh.ru/employers/3572135;https://hh.ru/vacancy/27523645;RUR;100000.0;;Менеджер по продажам и работе с клиентами
+53;;;;;;Санкт-Петербург;Два Берега;https://api.hh.ru/employers/630474;https://hh.ru/vacancy/25479343;RUR;50000.0;80000.0;Водитель-курьер с личным автомобилем (Купчино)
+54;266;59.893349;30.327402;Московские ворота;Лиговский проспект;Санкт-Петербург;АКМЭ сервис;https://api.hh.ru/employers/157761;https://hh.ru/vacancy/27676139;RUR;100000.0;;Frontend developer
+55;;;;;;Санкт-Петербург;АКМЭ сервис;https://api.hh.ru/employers/157761;https://hh.ru/vacancy/27675382;RUR;130000.0;;Javascript developer
+56;;;;;;Санкт-Петербург;АКМЭ сервис;https://api.hh.ru/employers/157761;https://hh.ru/vacancy/27327571;RUR;90000.0;130000.0;PHP developer (Laravel)
+57;;;;;;Санкт-Петербург;АКМЭ сервис;https://api.hh.ru/employers/157761;https://hh.ru/vacancy/27470693;RUR;100000.0;;Руководитель IT проектов
+58;;;;;;Санкт-Петербург;АКМЭ сервис;https://api.hh.ru/employers/157761;https://hh.ru/vacancy/27513829;RUR;140000.0;180000.0;Senior Frontend Developer (React)
+59;;;;Василеостровская;;Санкт-Петербург;InTheSmart;https://api.hh.ru/employers/3152810;https://hh.ru/vacancy/26536846;RUR;60000.0;100000.0;Инженер-видеопрограммист
+60;22;59.958296;30.302241;;Большая Пушкарская улица;Санкт-Петербург;Fora Soft (Фора Софт);https://api.hh.ru/employers/761570;https://hh.ru/vacancy/27846569;RUR;75000.0;;Менеджер проектов / Project manager
+61;1-3;59.965336;30.312913;Петроградская;улица Льва Толстого;Санкт-Петербург;Умное пространство;https://api.hh.ru/employers/2460946;https://hh.ru/vacancy/27322016;RUR;90000.0;;Инженер по тестированию ПО / QA Engineer
+62;;59.9821;30.509554;;Рябовское шоссе;Санкт-Петербург;SMART HR;https://api.hh.ru/employers/2389305;https://hh.ru/vacancy/26783209;RUR;;200000.0;Senior Java developer
+63;;;;Чкаловская;;Санкт-Петербург;Специальный Технологический Центр;https://api.hh.ru/employers/2519536;https://hh.ru/vacancy/24011360;RUR;80000.0;;Инженер-программист C++ (QT)
+64;77;59.838272;30.334293;;проспект Юрия Гагарина;Санкт-Петербург;КВАДО.РУ;https://api.hh.ru/employers/1822740;https://hh.ru/vacancy/27770378;RUR;90000.0;;Andriod разработчик
+65;11А;59.899803;30.40101;Елизаровская;улица Седова;Санкт-Петербург;Доксинбокс;https://api.hh.ru/employers/2769379;https://hh.ru/vacancy/27753843;RUR;80000.0;150000.0;Java-разработчик
+66;;;;;;Санкт-Петербург;Центр Найма Водителей;https://api.hh.ru/employers/2657266;https://hh.ru/vacancy/23635068;RUR;80000.0;;Водитель
+67;11А;59.899803;30.40101;Елизаровская;улица Седова;Санкт-Петербург;Доксинбокс;https://api.hh.ru/employers/2769379;https://hh.ru/vacancy/27771282;RUR;40000.0;80000.0;IOS разработчик

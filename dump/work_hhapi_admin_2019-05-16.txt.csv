@@ -1,0 +1,31 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;22;59.937869;30.267179;Василеостровская;17-я линия В.О.;Санкт-Петербург;МОБИ.Деньги;https://api.hh.ru/employers/86230;https://hh.ru/vacancy/30727334;RUR;130000.0;;Системный администратор Linux
+1;;;;Петроградская;;Санкт-Петербург;B2Broker;https://api.hh.ru/employers/2234168;https://hh.ru/vacancy/31351485;RUR;120000.0;;Системный администратор Linux
+2;;;;;;Санкт-Петербург;ASAP Solutions International Co, Ltd;https://api.hh.ru/employers/195165;https://hh.ru/vacancy/31482374;RUR;120000.0;150000.0;Системный администратор Windows в ИТ-компанию
+3;;;;Площадь Александра Невского 1;;Санкт-Петербург;Капитал;https://api.hh.ru/employers/3873871;https://hh.ru/vacancy/31413194;RUR;120000.0;200000.0;Системный администратор
+4;;;;;;Санкт-Петербург;БИТ;https://api.hh.ru/employers/2336797;https://hh.ru/vacancy/31352125;RUR;80000.0;;Системный администратор Linux
+5;28Б;59.886871;30.325678;Московские ворота;улица Коли Томчака;Санкт-Петербург;Selectel;https://api.hh.ru/employers/633069;https://hh.ru/vacancy/29816732;RUR;110000.0;;Системный администратор DNS отдела OpenStack
+6;;;;Петроградская;;Санкт-Петербург;АртВизио;https://api.hh.ru/employers/1179627;https://hh.ru/vacancy/31163314;RUR;120000.0;150000.0;Ведущий системный администратор Linux
+7;12;60.075896;30.354298;Парнас;6-й Верхний переулок;Санкт-Петербург;Петрович, Строительный Торговый Дом;https://api.hh.ru/employers/77364;https://hh.ru/vacancy/31407945;RUR;130000.0;;Системный администратор Linux
+8;;;;;;Санкт-Петербург;Априори;https://api.hh.ru/employers/2670291;https://hh.ru/vacancy/31347498;RUR;100000.0;120000.0;Старший системный администратор
+9;18;59.934231;30.31029;;Малая Морская улица;Санкт-Петербург;MINE;https://api.hh.ru/employers/88867;https://hh.ru/vacancy/31456015;RUR;80000.0;;Системный администратор
+10;22а;59.888487;30.327708;Московские ворота;Заставская улица;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/31252701;RUR;90000.0;;Системный администратор Linux
+11;28Б;59.886871;30.325678;Московские ворота;улица Коли Томчака;Санкт-Петербург;Selectel;https://api.hh.ru/employers/633069;https://hh.ru/vacancy/31007714;RUR;120000.0;;Системный администратор баз данных
+12;7;59.850988;30.308259;Московская;площадь Конституции;Санкт-Петербург;ПРАЙМ РЕГИОН;https://api.hh.ru/employers/2516539;https://hh.ru/vacancy/31208958;RUR;80000.0;;Ведущий системный администратор
+13;;;;Петроградская;;Санкт-Петербург;B2Broker;https://api.hh.ru/employers/2234168;https://hh.ru/vacancy/31475132;RUR;60000.0;100000.0;Системный администратор Linux (Техническая поддержка)
+14;;;;;;Санкт-Петербург;Семенов Сергей Владимирович;https://api.hh.ru/employers/4025949;https://hh.ru/vacancy/31129435;RUR;;120000.0;Системный администратор
+15;49;59.994216;30.388048;;проспект Непокоренных;Санкт-Петербург;Специальный Технологический Центр;https://api.hh.ru/employers/2519536;https://hh.ru/vacancy/31051651;RUR;100000.0;;Старший системный/сетевой администратор
+16;9а;59.984656;30.257693;Старая Деревня;Липовая аллея;Санкт-Петербург;СПЛАТ;https://api.hh.ru/employers/1573351;https://hh.ru/vacancy/31090093;RUR;80000.0;;Системный администратор Linux (Duty administrator)
+17;;;;;;Санкт-Петербург;СПЛАТ;https://api.hh.ru/employers/1573351;https://hh.ru/vacancy/31157036;RUR;100000.0;;Системный администратор группы эксплуатации PCI-DSS
+18;;;;Петроградская;;Санкт-Петербург;B2Broker;https://api.hh.ru/employers/2234168;https://hh.ru/vacancy/31352231;RUR;150000.0;200000.0;Senior DevOps engineer
+19;4к3;59.994882;30.247893;Старая Деревня;улица Оптиков;Санкт-Петербург;Центр информационных проектов;https://api.hh.ru/employers/1351596;https://hh.ru/vacancy/31137491;RUR;90000.0;125000.0;SQL разработчик (PostgreSQL)
+20;7;59.9906904992;30.2601184286;Старая Деревня;Торфяная дорога;Санкт-Петербург;Netwrix Corporation;https://api.hh.ru/employers/574211;https://hh.ru/vacancy/30021992;RUR;110000.0;;QC Engineer for SQL / SRS reports (Инженер по тестированию SQL / SRS отчётов)
+21;63;59.949231;30.271985;Василеостровская;6-я линия Васильевского острова;Санкт-Петербург;ETNA;https://api.hh.ru/employers/120618;https://hh.ru/vacancy/31396277;RUR;60000.0;120000.0;Support Specialist / Support Engineer
+22;;;;;;Санкт-Петербург;ASAP Solutions International Co, Ltd;https://api.hh.ru/employers/195165;https://hh.ru/vacancy/31482305;RUR;120000.0;160000.0;IT Infrastructure and Information Security Administrator
+23;94;59.920438;30.354577;;Лиговский проспект;Санкт-Петербург;СПбИАЦ;https://api.hh.ru/employers/728292;https://hh.ru/vacancy/30663344;RUR;50000.0;100000.0;Битрикс разработчик / Битрикс программист
+24;16;60.055807;30.375381;;Верхняя улица;Санкт-Петербург;Сотранс, группа компаний;https://api.hh.ru/employers/189898;https://hh.ru/vacancy/31501975;RUR;100000.0;;Начальник отдела сервиса
+25;23Д;59.97233;30.311403;Петроградская;улица Профессора Попова;Санкт-Петербург;Click;https://api.hh.ru/employers/2053040;https://hh.ru/vacancy/31431227;RUR;170000.0;200000.0;DevOps инженер
+26;5;59.981924;30.33052;;Кантемировская улица;Санкт-Петербург;НИИ МАСШТАБ;https://api.hh.ru/employers/841097;https://hh.ru/vacancy/29875851;RUR;70000.0;130000.0;Сетевой инженер-разработчик
+27;7;59.9906904992;30.2601184286;Старая Деревня;Торфяная дорога;Санкт-Петербург;Netwrix Corporation;https://api.hh.ru/employers/574211;https://hh.ru/vacancy/30316360;RUR;85000.0;;Technical Support Engineer (Italian / German)
+28;7;59.9906904992;30.2601184286;Старая Деревня;Торфяная дорога;Санкт-Петербург;Netwrix Corporation;https://api.hh.ru/employers/574211;https://hh.ru/vacancy/25994476;RUR;80000.0;;Technical Support Engineer (English)
+29;;;;;;Санкт-Петербург;Hostaway;https://api.hh.ru/employers/3365712;https://hh.ru/vacancy/31387387;USD;1500.0;3500.0;Senior Frontend ReactJS Developer

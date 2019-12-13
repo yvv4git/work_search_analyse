@@ -1,0 +1,155 @@
+1;	Python developer;	120000;	RUR;	200000;	Санкт-Петербург;	B2Broker;	https://api.hh.ru/employers/2234168;	https://hh.ru/vacancy/28803779;	Петроградская
+2;	Senior Python Developer;	180000;	RUR;	250000;	Санкт-Петербург;	Investex Ltd;	https://api.hh.ru/employers/3192431;	https://hh.ru/vacancy/28303886;	;	;	;	;	
+3;	Full Stack Python Developer;	3000;	EUR;	5000;	Санкт-Петербург;	Интеллектуальные системы;	https://api.hh.ru/employers/949053;	https://hh.ru/vacancy/28699277;	Петроградская;	проспект Медиков;	3
+4;	Python Backend Junior разработчик;	50000;	RUR;	80000;	Санкт-Петербург;	ДИДЖИТАЛ ТРЕЙД СОЛЮШНС;	https://api.hh.ru/employers/3574533;	https://hh.ru/vacancy/28827619;	;	;	;	;	
+5;	Full Stack Developer / Разработчик (Python);	100000;	RUR;	Санкт-Петербург;	Adhack;	https://api.hh.ru/employers/3659721;	https://hh.ru/vacancy/27379478;	;	Петроградский район, улица Мира;	5
+6;	Back-End Web Developer (Python);	200000;	RUR;	300000;	Санкт-Петербург;	Soshace;	https://api.hh.ru/employers/1738507;	https://hh.ru/vacancy/28259978;	;	;	;	;	
+7;	Web Developer Python (Highload);	200000;	RUR;	Санкт-Петербург;	Вайт Код;	https://api.hh.ru/employers/1519234;	https://hh.ru/vacancy/28341518;	Петроградская;	улица Льва Толстого;	9
+8;	QA инженер (Python)/ Тестировщик ПО;	50000;	RUR;	80000;	Санкт-Петербург;	Протей, НТЦ;	https://api.hh.ru/employers/22863;	https://hh.ru/vacancy/27660642;	;	;	;	;	
+9;	Python Backend Middle разработчик;	125000;	RUR;	Санкт-Петербург;	ДИДЖИТАЛ ТРЕЙД СОЛЮШНС;	https://api.hh.ru/employers/3574533;	https://hh.ru/vacancy/28304177;	;	;	;	;	
+10;	Middle/Senior Python Developer (релокация в Эстонию/Таллин);	3000;	EUR;	4000;	Санкт-Петербург;	Betmaster;	https://api.hh.ru/employers/2107134;	https://hh.ru/vacancy/28754643;	;	;	;	;	
+11;	Senior Software Developer— Python / Главный разработчик ПО (Python) на проект On Demand Recovery;	170000;	RUR;	Санкт-Петербург;	Quest Software;	https://api.hh.ru/employers/2654331;	https://hh.ru/vacancy/28033814;	Елизаровская
+12;	Python Developer;	2000;	USD;	3500;	Санкт-Петербург;	Stadyel;	https://api.hh.ru/employers/3410563;	https://hh.ru/vacancy/27581578;	;	;	;	;	
+13;	Python Backend Middle/Senior разработчик;	110000;	RUR;	170000;	Санкт-Петербург;	ДИДЖИТАЛ ТРЕЙД СОЛЮШНС;	https://api.hh.ru/employers/3574533;	https://hh.ru/vacancy/28571859;	;	;	;	;	
+14;	Программист Python;	120000;	RUR;	Санкт-Петербург;	SMART HR;	https://api.hh.ru/employers/2389305;	https://hh.ru/vacancy/28562844;	;	;	;	;	
+15;	Программист Python;	90000;	RUR;	120000;	Санкт-Петербург;	Баргус Трейд;	https://api.hh.ru/employers/186854;	https://hh.ru/vacancy/28225589;	Выборгская;	Большой Сампсониевский проспект;	32
+16;	Back-end разработчик Python/Middle;	100000;	RUR;	120000;	Санкт-Петербург;	МСМ;	https://api.hh.ru/employers/812259;	https://hh.ru/vacancy/28807137;	Лесная;	улица Харченко;	13
+17;	Python-разработчик;	70000;	RUR;	Санкт-Петербург;	НИИ МАСШТАБ;	https://api.hh.ru/employers/841097;	https://hh.ru/vacancy/26632640;	;	Кантемировская улица;	5
+18;	Fullstack-разработчик (Python+JavaScript);	80000;	RUR;	150000;	Санкт-Петербург;	Аппкрафт;	https://api.hh.ru/employers/2460106;	https://hh.ru/vacancy/28486982;	;	;	;	;	
+19;	Python Developer (Data Science project);	110000;	RUR;	Санкт-Петербург;	Devim;	https://api.hh.ru/employers/2097195;	https://hh.ru/vacancy/28521207;	Беговая;	улица Савушкина;	126Б
+20;	Senior Python Developer;	115000;	RUR;	Санкт-Петербург;	Первый ЦУПИС;	https://api.hh.ru/employers/2590000;	https://hh.ru/vacancy/27534668;	;	2-я Советская улица;	27/2
+21;	Разработчик Python;	80000;	RUR;	120000;	Санкт-Петербург;	МСТ;	https://api.hh.ru/employers/1852763;	https://hh.ru/vacancy/28744100;	Горьковская;	Петроградский район, улица Мира;	3
+22;	Middle Python Developer;	80000;	RUR;	120000;	Санкт-Петербург;	Деньга;	https://api.hh.ru/employers/739977;	https://hh.ru/vacancy/27324305;	;	;	;	;	
+23;	Embedded Linux программист;	70000;	RUR;	90000;	Санкт-Петербург;	Геоскан;	https://api.hh.ru/employers/2457614;	https://hh.ru/vacancy/28539755;	Площадь Мужества;	улица Шателена;	3
+24;	Программист Python;	90000;	RUR;	120000;	Санкт-Петербург;	АйТи-Бэр;	https://api.hh.ru/employers/2034348;	https://hh.ru/vacancy/28727945;	;	;	;	;	
+25;	Старший инженер-программист JavaScript/Python;	90000;	RUR;	130000;	Санкт-Петербург;	Электрон, НИПК;	https://api.hh.ru/employers/1283;	https://hh.ru/vacancy/28183327;	
+26;	Старший программист backend на С++/C#;	80000;	RUR;	120000;	Санкт-Петербург;	Takeprofit Technology;	https://api.hh.ru/employers/2287052;	https://hh.ru/vacancy/28710569;	Василеостровская;	7-я линия Васильевского острова;	76
+27;	Full-stack разработчик (React+TypeScript, PHP);	120000;	RUR;	160000;	Санкт-Петербург;	БилдСейф Тек;	https://api.hh.ru/employers/2834514;	https://hh.ru/vacancy/28484029;	Сенная площадь
+28;	Senior Data Scientist \ Ведущий аналитик данных;	180000;	RUR;	Санкт-Петербург;	InfoWings;	https://api.hh.ru/employers/1626831;	https://hh.ru/vacancy/28589970;	Адмиралтейская
+29;	Lead JavaScript engineer, front-end and back-end (full stack);	110000;	RUR;	200000;	Санкт-Петербург;	ТЕК РАУНД СПБ;	https://api.hh.ru/employers/1901449;	https://hh.ru/vacancy/28658803;	Ладожская;	площадь Карла Фаберже;	8Б
+30;	QA Automation Engineer (Video) / Инженер по тестированию / Тестировщик ПО;	150000;	RUR;	Санкт-Петербург;	Риал Тайм Технологии;	https://api.hh.ru/employers/3255674;	https://hh.ru/vacancy/27125128;	;	;	;	;	
+31;	Junior DevOps Engineer;	500;	USD;	1500;	Санкт-Петербург;	Jibrel Network;	https://api.hh.ru/employers/3051376;	https://hh.ru/vacancy/28483956;	Площадь Восстания
+32;	Senior Software Developer C++/C# / Главный разработчик ПО на проект Recovery Manager for AD;	170000;	RUR;	Санкт-Петербург;	Quest Software;	https://api.hh.ru/employers/2654331;	https://hh.ru/vacancy/28033837;	Елизаровская;	улица Седова;	11а
+33;	DevOps Engineer;	2000;	USD;	3000;	Санкт-Петербург;	Jibrel Network;	https://api.hh.ru/employers/3051376;	https://hh.ru/vacancy/28324416;	Площадь Восстания
+34;	Research Software Engineer (Computer Vision);	110000;	RUR;	Санкт-Петербург;	ПИЛИГРИМ;	https://api.hh.ru/employers/1837155;	https://hh.ru/vacancy/28807068;	;	проспект Медиков;	3
+35;	Infrastructure/DevOps engineer;	150000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/28654080;	;	;	;	;	
+36;	JavaScript Developer;	80000;	RUR;	100000;	Санкт-Петербург;	MediaTech;	https://api.hh.ru/employers/115009;	https://hh.ru/vacancy/28525448;	;	;	;	;	
+37;	Go developer;	150000;	RUR;	Санкт-Петербург;	Свордфиш Секьюрити;	https://api.hh.ru/employers/1239730;	https://hh.ru/vacancy/27832837;	Елизаровская;	улица Седова;	12
+38;	Python/Django Backend Developer;	180000;	RUR;	Санкт-Петербург;	АпТрейдер (UpTrader);	https://api.hh.ru/employers/2365329;	https://hh.ru/vacancy/28710924;	Московские ворота;	Московский проспект;	105
+39;	Senior Python developer;	180000;	RUR;	Санкт-Петербург;	Транзас;	https://api.hh.ru/employers/1938912;	https://hh.ru/vacancy/26731788;	Василеостровская;	Малый пр.ВО;	54 к.4
+40;	Программист Python;	80000;	RUR;	100000;	Санкт-Петербург;	Эмзиор;	https://api.hh.ru/employers/1521972;	https://hh.ru/vacancy/27588159;	;	дорога в Каменку;	74
+41;	QA Automation Engineer;	115000;	RUR;	Санкт-Петербург;	Рекон Групп;	https://api.hh.ru/employers/1707144;	https://hh.ru/vacancy/26977090;	Адмиралтейская;	Малая Морская улица;	18
+42;	QA Engineer / Ручное и автоматическое тестирование;	60000;	RUR;	80000;	Санкт-Петербург;	Интеллектуальные Решения;	https://api.hh.ru/employers/2666216;	https://hh.ru/vacancy/28765618;	Чернышевская;	Фурштатская улица;	24
+43;	Системный администратор;	65000;	RUR;	Санкт-Петербург;	Cbonds.ru;	https://api.hh.ru/employers/3152;	https://hh.ru/vacancy/27958205;	Выборгская;	Пироговская наб.;	21А
+44;	Разработчик Python;	90000;	RUR;	Санкт-Петербург;	Selectel;	https://api.hh.ru/employers/633069;	https://hh.ru/vacancy/27727970;	Московские ворота;	Московский район, Цветочная улица;	19
+45;	Senior Java/AWS DevOps Engineer;	3000;	USD;	4000;	Санкт-Петербург;	ДГРП Решения;	https://api.hh.ru/employers/2217991;	https://hh.ru/vacancy/28561755;	;	;	;	;	
+46;	Специалист по ОС Linux;	70000;	RUR;	100000;	Санкт-Петербург;	Протей, НТЦ;	https://api.hh.ru/employers/22863;	https://hh.ru/vacancy/28513577;	;	;	;	;	
+47;	Machine learning Инженер (программмист-алгоритмист);	150000;	RUR;	250000;	Санкт-Петербург;	DSP Labs;	https://api.hh.ru/employers/2625959;	https://career.ru/vacancy/28287125;	Выборгская;	Большой Сампсониевский проспект;	28к2
+48;	DevOps Engineer;	120000;	RUR;	180000;	Санкт-Петербург;	Investex Ltd;	https://api.hh.ru/employers/3192431;	https://hh.ru/vacancy/28301102;	;	;	;	;	
+49;	Digital Twin Developer \ Разработчик цифровых двойников;	180000;	RUR;	Санкт-Петербург;	InfoWings;	https://api.hh.ru/employers/1626831;	https://hh.ru/vacancy/28589921;	Адмиралтейская
+50;	QA engineer;	70000;	RUR;	120000;	Санкт-Петербург;	Investex Ltd;	https://api.hh.ru/employers/3192431;	https://hh.ru/vacancy/28297692;	;	;	;	;	
+51;	Test Automation Engineer;	70000;	RUR;	130000;	Санкт-Петербург;	Дженстек;	https://api.hh.ru/employers/1128487;	https://hh.ru/vacancy/27835770;	;	;	;	;	
+52;	Data scientist;	100000;	RUR;	Санкт-Петербург;	Devim;	https://api.hh.ru/employers/2097195;	https://hh.ru/vacancy/28320706;	Беговая;	улица Савушкина;	126Б
+53;	Системный разработчик C/C++/ Middle System developer;	RUR;	90000;	Санкт-Петербург;	Протей, НТЦ;	https://api.hh.ru/employers/22863;	https://hh.ru/vacancy/27710319;	Выборгская;	Гельсингфорсская;	2
+54;	Kubernetes Engineer;	200000;	RUR;	Санкт-Петербург;	Рекон Групп;	https://api.hh.ru/employers/1707144;	https://hh.ru/vacancy/28773822;	Адмиралтейская;	Малая Морская улица;	18
+55;	Java Senior Developer;	180000;	RUR;	Санкт-Петербург;	Ньютон Технологии;	https://api.hh.ru/employers/2404589;	https://hh.ru/vacancy/28395133;	;	;	;	;	
+56;	PHP Senior Backend developer;	180000;	RUR;	Санкт-Петербург;	Ньютон Технологии;	https://api.hh.ru/employers/2404589;	https://hh.ru/vacancy/28395408;	;	;	;	;	
+57;	QA Automation engineer;	120000;	RUR;	Санкт-Петербург;	Эйр;	https://api.hh.ru/employers/3133088;	https://hh.ru/vacancy/28368579;	;	Малая Морская улица
+58;	Старший инженер по тестированию;	90000;	RUR;	160000;	Санкт-Петербург;	DSP Labs;	https://api.hh.ru/employers/2625959;	https://hh.ru/vacancy/28287325;	Выборгская;	Большой Сампсониевский проспект;	28к2
+59;	Senior software developer C++ на iOS;	160000;	RUR;	Санкт-Петербург;	Транзас;	https://api.hh.ru/employers/1938912;	https://hh.ru/vacancy/28244868;	Василеостровская;	Малый пр.ВО;	54 к.4
+60;	QA Automation Engineer;	RUR;	150000;	Санкт-Петербург;	Кошелек.Ру;	https://api.hh.ru/employers/1428791;	https://hh.ru/vacancy/27890130;	Петроградская;	2 линия;	метро Петроградская
+61;	Automation QA специалист в проект на блокчейне;	130000;	RUR;	230000;	Санкт-Петербург;	Anchous Drive (ИП Литвина Анна Юрьевна);	https://api.hh.ru/employers/3239351;	https://hh.ru/vacancy/28407533;	Старая Деревня;	улица Савушкина;	126
+62;	Front-end Middle разработчик;	80000;	RUR;	100000;	Санкт-Петербург;	МСМ;	https://api.hh.ru/employers/812259;	https://hh.ru/vacancy/28807163;	Лесная;	улица Харченко;	13
+63;	Инженер Linux по сопровождению дистрибутивов ПО;	70000;	RUR;	100000;	Санкт-Петербург;	Протей, НТЦ;	https://api.hh.ru/employers/22863;	https://hh.ru/vacancy/28468335;	Выборгская;	Гельсингфорсская;	2
+64;	DevOps Engineer;	2500;	USD;	5000;	Санкт-Петербург;	ОнТаргет ЛАБС;	https://api.hh.ru/employers/850334;	https://hh.ru/vacancy/28274151;	;	;	;	;	
+65;	Data Scientist (NLP);	2000;	USD;	3000;	Санкт-Петербург;	M-soft;	https://api.hh.ru/employers/3507672;	https://hh.ru/vacancy/28777827;	;	;	;	;	
+66;	Linux System Administrator;	120000;	RUR;	150000;	Санкт-Петербург;	SPB TV;	https://api.hh.ru/employers/955257;	https://hh.ru/vacancy/28560756;	Старая Деревня;	Торфяная дорога 7;	Б
+67;	Веб-программист;	90000;	RUR;	Санкт-Петербург;	ОБИТ;	https://api.hh.ru/employers/53676;	https://hh.ru/vacancy/22875988;	;	;	;	;	
+68;	Разработчик Python (Senior);	110000;	RUR;	Санкт-Петербург;	Selectel;	https://api.hh.ru/employers/633069;	https://hh.ru/vacancy/27910129;	Московские ворота;	Московский район, Цветочная улица;	19
+69;	Разработчик Python (Senior);	110000;	RUR;	Санкт-Петербург;	Selectel;	https://api.hh.ru/employers/633069;	https://hh.ru/vacancy/27910129;	Московские ворота;	Московский район, Цветочная улица;	19
+70;	Ведущий программист-разработчик Python;	90000;	RUR;	Санкт-Петербург;	АКУТА;	https://api.hh.ru/employers/751957;	https://hh.ru/vacancy/28658585;	;	Московский район, Цветочная улица;	25А
+71;	Ведущий программист-разработчик С/С++;	90000;	RUR;	Санкт-Петербург;	АКУТА;	https://api.hh.ru/employers/751957;	https://hh.ru/vacancy/28799330;	;	Московский район, Цветочная улица;	25А
+72;	DevOps специалист;	90000;	RUR;	110000;	Санкт-Петербург;	Телепорт;	https://api.hh.ru/employers/2712343;	https://hh.ru/vacancy/28347760;	Кировский завод;	улица Зайцева;	18
+73;	Python developer (Debugger);	200000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/28399197;	;	;	;	;	
+74;	DevOps Engineer;	120000;	RUR;	Санкт-Петербург;	Devim;	https://api.hh.ru/employers/2097195;	https://hh.ru/vacancy/25447985;	Беговая
+75;	Администратор баз данных DBA;	90000;	RUR;	Санкт-Петербург;	ТаймВэб;	https://api.hh.ru/employers/230159;	https://hh.ru/vacancy/28504632;	Московские ворота;	Заставская улица;	22а
+76;	Разработчик BI (QlikView, Qlik Sense);	30000;	RUR;	130000;	Санкт-Петербург;	Клевер Солюшнс;	https://api.hh.ru/employers/2160858;	https://hh.ru/vacancy/28396986;	Бухарестская;	Софийская улица;	6к8
+77;	Senior Mobile Engineer/Mobile Practice Lead;	135000;	RUR;	185000;	Санкт-Петербург;	Spark Equation;	https://api.hh.ru/employers/1787419;	https://hh.ru/vacancy/28642771;	;	Малая Морская улица;	18
+78;	Cистемный администратор Linux;	100000;	RUR;	Санкт-Петербург;	Devim;	https://api.hh.ru/employers/2097195;	https://hh.ru/vacancy/28494227;	Беговая;	улица Савушкина;	126Б
+79;	Технический руководитель / Руководитель разработки;	150000;	RUR;	Санкт-Петербург;	ASD Technologies;	https://api.hh.ru/employers/851716;	https://hh.ru/vacancy/27890483;	;	;	;	;	
+80;	DevOps Engineer;	RUR;	130000;	Санкт-Петербург;	Курсус;	https://api.hh.ru/employers/1306982;	https://hh.ru/vacancy/28782789;	;	улица Блохина;	9
+81;	Frontend-разработчик;	110000;	RUR;	Санкт-Петербург;	DDG;	https://api.hh.ru/employers/1731584;	https://hh.ru/vacancy/27905170;	Петроградская;	Петроградский район, улица Льва Толстого;	7
+82;	MS SQL Developer;	100000;	RUR;	Санкт-Петербург;	Devim;	https://api.hh.ru/employers/2097195;	https://hh.ru/vacancy/28118749;	Беговая;	улица Савушкина;	126Б
+83;	Системный администратор Linux;	60000;	RUR;	80000;	Санкт-Петербург;	LTD BeGet;	https://api.hh.ru/employers/656641;	https://hh.ru/vacancy/28782428;	Ладожская;	площадь Карла Фаберже;	8Б
+84;	Backend-разработчик;	70000;	RUR;	130000;	Санкт-Петербург;	НИИ МАСШТАБ;	https://api.hh.ru/employers/841097;	https://hh.ru/vacancy/28320976;	;	Кантемировская улица;	5
+85;	Инженер VoIP;	50000;	RUR;	85000;	Санкт-Петербург;	ОБИТ;	https://api.hh.ru/employers/53676;	https://hh.ru/vacancy/28472937;	Московские ворота
+86;	Computer Vision / Deep Learning Engineer;	20000;	RUR;	120000;	Санкт-Петербург;	КОНТ;	https://api.hh.ru/employers/1996601;	https://career.ru/vacancy/28775444;	;	;	;	;	
+87;	Программист;	70000;	RUR;	90000;	Санкт-Петербург;	Морские Навигационные Системы;	https://api.hh.ru/employers/103097;	https://hh.ru/vacancy/27825799;	Василеостровская
+88;	IT-администратор (системный администратор);	RUR;	80000;	Санкт-Петербург;	Агентство КИТ Консалт;	https://api.hh.ru/employers/637743;	https://hh.ru/vacancy/28801201;	;	;	;	;	
+89;	QA automation engineer;	120000;	RUR;	Санкт-Петербург;	ProBusiness Group;	https://api.hh.ru/employers/1565821;	https://hh.ru/vacancy/28300704;	;	;	;	;	
+90;	DevOps инженер - FX4Cash;	180000;	RUR;	Санкт-Петербург;	Deutsche Bank Technology Center;	https://api.hh.ru/employers/1641540;	https://hh.ru/vacancy/28780765;	;	Волынский переулок;	3А
+91;	DevOps Engineer (Blue Team);	150000;	RUR;	Санкт-Петербург;	SEMrush;	https://api.hh.ru/employers/789662;	https://hh.ru/vacancy/27662469;	Московские ворота;	Заставская улица;	22к2
+92;	Системный администратор Linux;	80000;	RUR;	Санкт-Петербург;	NETRIKA;	https://api.hh.ru/employers/234492;	https://hh.ru/vacancy/26966465;	Чернышевская;	Фуражный переулок;	3
+93;	QA Automation Engineer (Force Team);	130000;	RUR;	Санкт-Петербург;	SEMrush;	https://api.hh.ru/employers/789662;	https://hh.ru/vacancy/28152022;	Московские ворота;	Заставская улица;	22к2
+94;	System Administrator (Linux);	120000;	RUR;	Санкт-Петербург;	SEMrush;	https://api.hh.ru/employers/789662;	https://hh.ru/vacancy/26887936;	Московские ворота;	Заставская улица;	22к2
+95;	QA Automation Engineer;	120000;	RUR;	150000;	Санкт-Петербург;	HR-PROFI;	https://api.hh.ru/employers/1883675;	https://hh.ru/vacancy/27516469;	;	;	;	;	
+96;	Системный администратор Linux;	80000;	RUR;	Санкт-Петербург;	ТаймВэб;	https://api.hh.ru/employers/230159;	https://hh.ru/vacancy/28580957;	Московские ворота;	Заставская улица;	22а
+97;	Системный администратор Linux;	80000;	RUR;	Санкт-Петербург;	ТаймВэб;	https://api.hh.ru/employers/230159;	https://hh.ru/vacancy/28580957;	Московские ворота;	Заставская улица;	22а
+98;	Senior Backend Developer (Таллин, Эстония);	3500;	EUR;	Санкт-Петербург;	GMS Services;	https://api.hh.ru/employers/864086;	https://hh.ru/vacancy/25825870;	;	;	;	;	
+99;	Senior Java developer;	RUR;	200000;	Санкт-Петербург;	SMART HR;	https://api.hh.ru/employers/2389305;	https://hh.ru/vacancy/26783209;	;	;	;	;	
+100;	Senior Java Developer;	RUR;	200000;	Санкт-Петербург;	Деньга;	https://api.hh.ru/employers/739977;	https://hh.ru/vacancy/26840980;	Василеостровская;	Василеостровский район
+101;	Java Team Lead;	RUR;	230000;	Санкт-Петербург;	SMART HR;	https://api.hh.ru/employers/2389305;	https://hh.ru/vacancy/27332039;	;	;	;	;	
+102;	Ведущий программист;	100000;	RUR;	150000;	Санкт-Петербург;	Морские Навигационные Системы;	https://api.hh.ru/employers/103097;	https://hh.ru/vacancy/27825842;	Василеостровская
+103;	QA Automation Engineer / Инженер по тестированию / Тестировщик ПО;	120000;	RUR;	Санкт-Петербург;	Риал Тайм Технологии;	https://api.hh.ru/employers/3255674;	https://hh.ru/vacancy/27144751;	;	;	;	;	
+104;	Android Developer (relocation to Tallinn, Estonia);	2500;	EUR;	3500;	Санкт-Петербург;	Eagle Eye Staffing Solutions;	https://api.hh.ru/employers/1854230;	https://hh.ru/vacancy/28781952;	;	;	;	;	
+105;	Начальник отдела разработки программного обеспечения;	100000;	RUR;	150000;	Санкт-Петербург;	Морские Навигационные Системы;	https://api.hh.ru/employers/103097;	https://hh.ru/vacancy/27825860;	Василеостровская
+106;	Project manager;	170000;	RUR;	Санкт-Петербург;	Nexign (АО «Петер-Сервис»);	https://api.hh.ru/employers/6004;	https://career.ru/vacancy/28782432;	Василеостровская;	Уральская улица;	4
+107;	Data scientist;	100000;	RUR;	200000;	Санкт-Петербург;	Skyeng;	https://api.hh.ru/employers/1122462;	https://hh.ru/vacancy/28494356;	;	;	;	;	
+108;	Data Scientist (Computer Vision);	150000;	RUR;	350000;	Санкт-Петербург;	Adorable.ai;	https://api.hh.ru/employers/3190108;	https://hh.ru/vacancy/28727809;	;	;	;	;	
+109;	Data Scientist (manufacturing field);	70000;	RUR;	Санкт-Петербург;	Химтех;	https://api.hh.ru/employers/3433848;	https://hh.ru/vacancy/28738055;	;	набережная Обводного канала;	60
+110;	Software Engineer (Computer Vision);	125000;	RUR;	250000;	Санкт-Петербург;	Adorable.ai;	https://api.hh.ru/employers/3190108;	https://hh.ru/vacancy/28172542;	;	;	;	;	
+111;	Системный администратор/DevOps инженер;	80000;	RUR;	150000;	Санкт-Петербург;	Агентство 21 век, КЦ;	https://api.hh.ru/employers/659638;	https://hh.ru/vacancy/28748803;	;	;	;	;	
+112;	C/C++ Developer / Java Developer;	2500;	EUR;	3000;	Санкт-Петербург;	Belt and Braces Sofrware AB;	https://api.hh.ru/employers/3736627;	https://hh.ru/vacancy/28725417;	;	;	;	;	
+113;	Начинающий фулл-стек разработчик;	30000;	RUR;	100000;	Санкт-Петербург;	ВЕБИМ.РУ;	https://api.hh.ru/employers/1149418;	https://hh.ru/vacancy/25946405;	Спортивная;	Большой проспект Петроградской стороны;	18
+114;	Senior data scientist (ML);	RUR;	250000;	Санкт-Петербург;	the_covert;	https://api.hh.ru/employers/3244995;	https://hh.ru/vacancy/27945004;	;	;	;	;	
+115;	Программист Битрикс24;	90000;	RUR;	Санкт-Петербург;	АО ЗАСЛОН;	https://api.hh.ru/employers/119069;	https://hh.ru/vacancy/28325000;	;	улица Коли Томчака;	9
+116;	Старший Web-программист;	100000;	RUR;	Санкт-Петербург;	Специальный Технологический Центр;	https://api.hh.ru/employers/2519536;	https://hh.ru/vacancy/25632897;	;	проспект Непокоренных;	49
+117;	QA Coder (Инженер автоматизации тестирования);	120000;	RUR;	Санкт-Петербург;	the_covert;	https://api.hh.ru/employers/3244995;	https://hh.ru/vacancy/28711163;	Чернышевская;	1 линия;	метро Чернышевская
+118;	Младший программист Python;	60000;	RUR;	80000;	Санкт-Петербург;	Эмзиор;	https://api.hh.ru/employers/1521972;	https://hh.ru/vacancy/27861802;	;	дорога в Каменку;	74
+119;	Аналитик-математик (Junior data scientist);	80000;	RUR;	100000;	Санкт-Петербург;	БиАйЭй-Технолоджиз;	https://api.hh.ru/employers/2565797;	https://career.ru/vacancy/23584755;	Фрунзенская;	Московский проспект;	94
+120;	Системный аналитик;	2000;	USD;	Санкт-Петербург;	M-soft;	https://api.hh.ru/employers/3507672;	https://hh.ru/vacancy/28702079;	;	;	;	;	
+121;	Аналитик-математик (Data scientist);	120000;	RUR;	Санкт-Петербург;	БиАйЭй-Технолоджиз;	https://api.hh.ru/employers/2565797;	https://hh.ru/vacancy/20082996;	Фрунзенская;	Московский проспект;	94
+122;	Senior Software Developer (PyCharm);	180000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/22056926;	;	;	;	;	
+123;	Senior Software Developer (IntelliJ IDEA);	200000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/18562648;	Василеостровская;	Университетская набережная;	5А
+124;	Data Analyst;	RUR;	90000;	Санкт-Петербург;	Skyeng;	https://api.hh.ru/employers/1122462;	https://hh.ru/vacancy/28668088;	Марксистская;	улица Александра Солженицына;	23Ас1
+125;	Инженер-тестировщик;	70000;	RUR;	120000;	Санкт-Петербург;	Bercut;	https://api.hh.ru/employers/11600;	https://hh.ru/vacancy/26864400;	Пионерская;	Коломяжский проспект;	27А
+126;	Software Developer (PhpStorm);	160000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/27193466;	;	;	;	;	
+127;	Data Scientist (Marketing Research);	110000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/27374205;	Лесная;	Кантемировская улица;	2
+128;	Senior Software Developer (PhpStorm);	200000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/27193472;	;	;	;	;	
+129;	Researcher (Distributed systems and blockchain);	100000;	RUR;	120000;	Санкт-Петербург;	Город Иннополис;	https://api.hh.ru/employers/1740229;	https://hh.ru/vacancy/28715619;	;	;	;	;	
+130;	Ведущий инженер-тестировщик в отдел Services;	70000;	RUR;	110000;	Санкт-Петербург;	Bercut;	https://api.hh.ru/employers/11600;	https://hh.ru/vacancy/27833956;	Пионерская;	Коломяжский проспект;	27А
+131;	Senior QA engineer;	120000;	RUR;	Санкт-Петербург;	Умный полис;	https://api.hh.ru/employers/936465;	https://hh.ru/vacancy/28399943;	Василеостровская;	Уральская улица;	1К2
+132;	Senior Software Developer (Kotlin IDE\Tooling);	250000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/24246955;	Василеостровская;	Университетская набережная;	5А
+133;	BI Data Engineer;	200000;	RUR;	Санкт-Петербург;	ТангоМи СТП;	https://api.hh.ru/employers/3266823;	https://hh.ru/vacancy/28640110;	Горьковская;	улица Кропоткина;	1
+134;	Java Developer (PyCharm);	160000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/22623386;	;	;	;	;	
+135;	Software Developer (CLion: Debuggers Support);	180000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/28375298;	;	;	;	;	
+136;	Senior Software Developer (WebStorm);	200000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/27860066;	;	;	;	;	
+137;	QA engineer (RubyMine);	150000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/27194731;	;	;	;	;	
+138;	Senior Software Developer (CLion: Clang Integration);	200000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/28446111;	;	;	;	;	
+139;	Системный администратор отдела разработки ИТ-инфраструктуры;	90000;	RUR;	Санкт-Петербург;	Северо-Запад, фармацевтический холдинг;	https://api.hh.ru/employers/167989;	https://hh.ru/vacancy/28523321;	Проспект Просвещения;	Выборгское шоссе;	224А
+140;	Software Engineer (JVM Runtime);	200000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/26949603;	;	;	;	;	
+141;	Senior QA Test Automation Engineer /Старший инженер по тестированию;	100000;	RUR;	165000;	Санкт-Петербург;	КНС ГРУПП;	https://api.hh.ru/employers/1993194;	https://hh.ru/vacancy/28667459;	Гостиный двор;	Итальянская улица;	17
+142;	Senior Infrastructure Java Engineer (Intellij IDEA);	200000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/24140579;	;	;	;	;	
+143;	Senior Test Engineer (IDEA, Scala plugin);	150000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/27947221;	;	;	;	;	
+144;	Senior Test Engineer (Intellij IDEA);	150000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/27086886;	;	;	;	;	
+145;	Java Swing Developer (IntelliJ Platform UI Team);	200000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/26133511;	;	;	;	;	
+146;	Научный сотрудник (Машинное обучение и анализ данных в финансовой сфере);	100000;	RUR;	Санкт-Петербург;	Университет ИТМО;	https://api.hh.ru/employers/1795976;	https://hh.ru/vacancy/25525234;	Василеостровская;	Биржевая линия;	14
+147;	Configuration manager/Build engineer;	100000;	RUR;	120000;	Санкт-Петербург;	НТЦ АРГУС;	https://api.hh.ru/employers/173832;	https://hh.ru/vacancy/27975814;	Чкаловская;	улица Красного Курсанта;	27
+148;	Back-end developer;	120000;	RUR;	Санкт-Петербург;	GLAMY;	https://api.hh.ru/employers/2964643;	https://hh.ru/vacancy/24903467;	Маяковская;	2-я Советская улица;	17
+149;	Support Engineer (PyCharm);	130000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/28206107;	Василеостровская;	Университетская набережная;	5А
+150;	Java Developer (Educational Tools);	160000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/26412575;	;	;	;	;	
+151;	Build and test automation engineer (CLion);	150000;	RUR;	Санкт-Петербург;	JetBrains;	https://api.hh.ru/employers/9281;	https://hh.ru/vacancy/28397194;	;	;	;	;	
+152;	Разработчик распределенных систем;	80000;	RUR;	Санкт-Петербург;	Университет ИТМО;	https://api.hh.ru/employers/1795976;	https://hh.ru/vacancy/25957945;	;	;	;	;	
+153;	Аналитик-математик (Operations research analyst);	120000;	RUR;	Санкт-Петербург;	БиАйЭй-Технолоджиз;	https://api.hh.ru/employers/2565797;	https://hh.ru/vacancy/21287526;	Фрунзенская;	Московский проспект;	94
+154;	Инженер внедрения и сопровождения;	70000;	RUR;	90000;	Санкт-Петербург;	«АНТ» ГРУППА КОМПАНИЙ;	https://api.hh.ru/employers/25780;	https://hh.ru/vacancy/28206785;	;	;	;	;	
+155;	Аналитик (Forecast analyst);	120000;	RUR;	Санкт-Петербург;	БиАйЭй-Технолоджиз;	https://api.hh.ru/employers/2565797;	https://hh.ru/vacancy/26847553;	Фрунзенская;	Московский проспект;	94

@@ -1,0 +1,11 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;21А;59.966015;30.338327;Выборгская;Пироговская наб.;Санкт-Петербург;Cbonds.ru;https://api.hh.ru/employers/3152;https://hh.ru/vacancy/27958205;RUR;65000;;Системный администратор
+1;21А;59.966015;30.338327;Выборгская;Пироговская наб.;Санкт-Петербург;Cbonds.ru;https://api.hh.ru/employers/3152;https://hh.ru/vacancy/27958205;RUR;65000;;Системный администратор
+2;13З;59.967381;30.287176;Чкаловская;Левашовский проспект;Санкт-Петербург;404 Group;https://api.hh.ru/employers/1085814;https://hh.ru/vacancy/28151562;RUR;80000;;Системный администратор
+3;83к3;59.984926;30.250174;Старая Деревня;улица Савушкина;Санкт-Петербург;Internest;https://api.hh.ru/employers/41138;https://hh.ru/vacancy/26366106;RUR;80000;;Тестировщик / Инженер по тестированию
+4;13З;59.967381;30.287176;Чкаловская;Левашовский проспект;Санкт-Петербург;404 Group;https://api.hh.ru/employers/1085814;https://hh.ru/vacancy/28151562;RUR;80000;;Системный администратор
+5;44;59.98994;30.318815;;Сердобольская улица;Санкт-Петербург;Lenvendo;https://api.hh.ru/employers/1227460;https://hh.ru/vacancy/28285801;RUR;70000;150000.0;Системный администратор Linux
+6;;;;;;Санкт-Петербург;АртВизио;https://api.hh.ru/employers/1179627;https://hh.ru/vacancy/28123720;RUR;70000;100000.0;Системный администратор Linux
+7;44;59.98994;30.318815;;Сердобольская улица;Санкт-Петербург;Lenvendo;https://api.hh.ru/employers/1227460;https://hh.ru/vacancy/28285801;RUR;70000;150000.0;Системный администратор Linux
+8;;;;Петроградская;;Санкт-Петербург;М-СТАНДАРТ холдинг;https://api.hh.ru/employers/152186;https://hh.ru/vacancy/28293424;RUR;50;80000.0;Программист/Специалист испытательной лаборатории
+9;;;;;;Санкт-Петербург;Хеликс, лабораторная служба;https://api.hh.ru/employers/159033;https://hh.ru/vacancy/28133217;RUR;90000;;Старший системный администратор

@@ -1,0 +1,12 @@
+1;	Программист Perl;	60000;	RUR;	110000;	Санкт-Петербург;	Internest;	https://api.hh.ru/employers/41138;	https://hh.ru/vacancy/25650667;	Старая Деревня;	улица Савушкина;	83к3
+2;	DevOps engineer;	1500;	USD;	2500;	Санкт-Петербург;	ОнТаргет ЛАБС;	https://api.hh.ru/employers/850334;	https://hh.ru/vacancy/27086572;	;	;	;	;	
+3;	Тестировщик / Инженер по тестированию;	80000;	RUR;	Санкт-Петербург;	Internest;	https://api.hh.ru/employers/41138;	https://hh.ru/vacancy/26366106;	Старая Деревня;	улица Савушкина;	83к3
+4;	Web-программист;	120000;	RUR;	Санкт-Петербург;	Автоконтинент;	https://api.hh.ru/employers/2598555;	https://hh.ru/vacancy/27126603;	Купчино;	2-й Бадаевский проезд;	3к1
+5;	Системный администратор Linux;	70000;	RUR;	150000;	Санкт-Петербург;	Lenvendo;	https://api.hh.ru/employers/1227460;	https://hh.ru/vacancy/26905765;	;	Сердобольская улица;	44
+6;	Системный администратор Linux;	RUR;	90000;	Санкт-Петербург;	Tophunt;	https://api.hh.ru/employers/3201920;	https://hh.ru/vacancy/27276832;	;	;	;	;	
+7;	Системный администратор Linux;	RUR;	80000;	Санкт-Петербург;	ЭдСервер;	https://api.hh.ru/employers/3543358;	https://hh.ru/vacancy/26738778;	;	;	;	;	
+8;	Ведущий системный администратор Linux;	65000;	RUR;	80000;	Санкт-Петербург;	Эт Хоум;	https://api.hh.ru/employers/147891;	https://hh.ru/vacancy/26037159;	
+9;	Senior DWH developer;	100000;	RUR;	Санкт-Петербург;	РИВ ГОШ, Сеть магазинов;	https://api.hh.ru/employers/31050;	https://hh.ru/vacancy/27251800;	;	;	;	;	
+10;	Software Developer ( С/С++);	100000;	RUR;	180000;	Санкт-Петербург;	BARONA;	https://api.hh.ru/employers/114054;	https://hh.ru/vacancy/25273382;	;	;	;	;	
+11;	Разработчик DWH;	100000;	RUR;	Санкт-Петербург;	РИВ ГОШ, Сеть магазинов;	https://api.hh.ru/employers/31050;	https://hh.ru/vacancy/27011107;	;	;	;	;	
+12;	DevOps Engineer (команда frontend);	140000;	RUR;	200000;	Санкт-Петербург;	TradingView;	https://api.hh.ru/employers/1235972;	https://hh.ru/vacancy/27189896;	Чкаловская;	Лодейнопольская улица;	5

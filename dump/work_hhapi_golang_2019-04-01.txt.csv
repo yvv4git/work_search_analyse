@@ -1,0 +1,13 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;;;;;;Санкт-Петербург;АППНЕСС РАЗРАБОТКА;https://api.hh.ru/employers/3233796;https://hh.ru/vacancy/30440302;RUR;150000;;DevOps Engineer
+1;40к4;59.818079;30.328004;;Пулковское шоссе;Санкт-Петербург;Макспостер;https://api.hh.ru/employers/1502110;https://hh.ru/vacancy/30222919;RUR;140000;200000.0;Front-end разработчик
+2;40к4;59.818079;30.328004;;Пулковское шоссе;Санкт-Петербург;Макспостер;https://api.hh.ru/employers/1502110;https://hh.ru/vacancy/30222895;RUR;140000;200000.0;Android Developer
+3;40к4;59.818079;30.328004;;Пулковское шоссе;Санкт-Петербург;Макспостер;https://api.hh.ru/employers/1502110;https://hh.ru/vacancy/30222947;RUR;140000;200000.0;Back-end разработчик PHP
+4;69;55.778897;37.690614;Бауманская;Бакунинская улица;Санкт-Петербург;Левел Тревел;https://api.hh.ru/employers/1278562;https://hh.ru/vacancy/29367777;RUR;120000;200000.0;Middle/Senior Ruby on Rails / Back-end developer
+5;;;;Новочеркасская;;Санкт-Петербург;Pushapp;https://api.hh.ru/employers/2120114;https://hh.ru/vacancy/30792004;RUR;90000;120000.0;Middle Backend Developer (php, golang)
+6;17;59.987226;30.320467;Чёрная речка;Белоостровская улица;Санкт-Петербург;МиАТел;https://api.hh.ru/employers/1585617;https://hh.ru/vacancy/30726311;RUR;70000;100000.0;Backend программист
+7;29А;59.958142;30.300121;Спортивная;Большой проспект Петроградской стороны;Санкт-Петербург;А3 Технолоджи;https://api.hh.ru/employers/2270363;https://hh.ru/vacancy/30532683;RUR;70000;100000.0;PHP/Go разработчик (middle)
+8;6-8;59.934961;30.277016;Василеостровская;13-я линия Васильевского острова;Санкт-Петербург;AltShowServices;https://api.hh.ru/employers/3475520;https://hh.ru/vacancy/30775949;RUR;120000;250000.0;Middle/Senior Golang-разработчик
+9;126Б;59.9857916054;30.2027322712;Беговая;улица Савушкина;Санкт-Петербург;Aviasales.ru;https://api.hh.ru/employers/588914;https://hh.ru/vacancy/30796459;USD;2000;;Mobile Backend Developer
+10;;;;;;Санкт-Петербург;Privatix;https://api.hh.ru/employers/3698859;https://hh.ru/vacancy/30461547;USD;2500;4000.0;Senior Unix / DevOps Engineer
+11;;;;;;Санкт-Петербург;Searchinform;https://api.hh.ru/employers/534283;https://hh.ru/vacancy/30708327;RUR;100000;150000.0;Delphi разработчик (Senior)

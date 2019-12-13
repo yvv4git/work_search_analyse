@@ -1,0 +1,16 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;6-8;59.934961;30.277016;Василеостровская;13-я линия Васильевского острова;Санкт-Петербург;Genesis Vision;https://api.hh.ru/employers/3154366;https://hh.ru/vacancy/27994817;RUR;90000;130000.0;Senior System Administrator & DevOps
+1;13З;59.967381;30.287176;Чкаловская;Левашовский проспект;Санкт-Петербург;404 Group;https://api.hh.ru/employers/1085814;https://hh.ru/vacancy/28151562;RUR;80000;;Системный администратор
+2;;;;;;Санкт-Петербург;АртВизио;https://api.hh.ru/employers/1179627;https://hh.ru/vacancy/28123720;RUR;70000;100000.0;Системный администратор Linux
+3;;;;;;Санкт-Петербург;ОБИТ;https://api.hh.ru/employers/53676;https://hh.ru/vacancy/22875988;RUR;90000;;Веб-программист
+4;21А;59.966015;30.338327;Выборгская;Пироговская наб.;Санкт-Петербург;Cbonds.ru;https://api.hh.ru/employers/3152;https://hh.ru/vacancy/27958205;RUR;65000;;Системный администратор
+5;49;59.994216;30.388048;;проспект Непокоренных;Санкт-Петербург;Специальный Технологический Центр;https://api.hh.ru/employers/2519536;https://hh.ru/vacancy/25632897;RUR;100000;;Старший Web-программист
+6;136;59.908642;30.283277;Балтийская;набережная Обводного канала;Санкт-Петербург;Лаборатория Цифрового Зрения;https://api.hh.ru/employers/2412748;https://hh.ru/vacancy/28215905;RUR;80000;170000.0;Старший системный администратор
+7;метро Василеостровская;59.942525;30.278247;Василеостровская;3 линия;Санкт-Петербург;КофеБон РУС;https://api.hh.ru/employers/1900847;https://hh.ru/vacancy/28207603;RUR;90000;120000.0;Программист / главный Developer
+8;17;60.004168;30.281804;Пионерская;Серебристый бульвар;Санкт-Петербург;ТВИП;https://api.hh.ru/employers/886437;https://hh.ru/vacancy/27758992;RUR;80000;;DevOps инженер
+9;;;;;;Санкт-Петербург;Эт Хоум;https://api.hh.ru/employers/147891;https://hh.ru/vacancy/26037159;RUR;65000;80000.0;Ведущий системный администратор Linux
+10;83к3;59.984926;30.250174;Старая Деревня;улица Савушкина;Санкт-Петербург;Internest;https://api.hh.ru/employers/41138;https://hh.ru/vacancy/26366106;RUR;80000;;Тестировщик / Инженер по тестированию
+11;;;;;;Санкт-Петербург;ЮК-Консалтинг;https://api.hh.ru/employers/2060911;https://hh.ru/vacancy/28182118;RUR;120000;300000.0;SRE/DevOps Engineer
+12;;;;;;Санкт-Петербург;КА Натальи Зотовой;https://api.hh.ru/employers/141547;https://hh.ru/vacancy/28142228;USD;2500;;Site Reliability Engineer (SRE) BigData
+13;;;;;;Санкт-Петербург;Хеликс, лабораторная служба;https://api.hh.ru/employers/159033;https://hh.ru/vacancy/28133217;RUR;90000;;Старший системный администратор
+14;49;59.994216;30.388048;;проспект Непокорённых;Санкт-Петербург;Специальный Технологический Центр;https://api.hh.ru/employers/2519536;https://hh.ru/vacancy/17217849;RUR;100000;;Системный программист

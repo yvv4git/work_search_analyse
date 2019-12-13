@@ -1,0 +1,25 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;18;59.934231;30.31029;Адмиралтейская;Малая Морская улица;Санкт-Петербург;Рекон Групп;https://api.hh.ru/employers/1707144;https://hh.ru/vacancy/34415419;RUR;120000.0;;Системный администратор
+1;2;59.97387;30.333691;Выборгская;Гельсингфорсская улица;Санкт-Петербург;АвтоТрансИнфо;https://api.hh.ru/employers/10607;https://hh.ru/vacancy/34486026;RUR;80000.0;;Системный администратор
+2;;;;Петроградская;;Санкт-Петербург;B2Broker;https://api.hh.ru/employers/2234168;https://hh.ru/vacancy/34261721;RUR;120000.0;;Системный администратор Linux
+3;50;59.967358;30.299339;;Чкаловский проспект;Санкт-Петербург;Софтвайс;https://api.hh.ru/employers/4295296;https://hh.ru/vacancy/34552157;RUR;115000.0;190000.0;Системный администратор (DevOps / SRE)
+4;9;59.965124;30.31567;Петроградская;улица Льва Толстого;Санкт-Петербург;JoyCraft Games;https://api.hh.ru/employers/1103331;https://hh.ru/vacancy/34591673;RUR;70000.0;110000.0;Системный администратор
+5;49;59.900917;30.290185;;улица Маршала Говорова;Санкт-Петербург;Корона Авто;https://api.hh.ru/employers/536301;https://hh.ru/vacancy/34573033;RUR;90000.0;100000.0;Ведущий системный администратор
+6;;;;;;Санкт-Петербург;Айфьючер;https://api.hh.ru/employers/1573351;https://hh.ru/vacancy/31157036;RUR;100000.0;;Системный администратор группы эксплуатации PCI-DSS
+7;16;59.936792;30.385658;Площадь Восстания;Новгородская улица;Санкт-Петербург;Алитер-Акси;https://api.hh.ru/employers/692383;https://hh.ru/vacancy/34155985;RUR;80000.0;;Системный администратор
+8;;;;;;Санкт-Петербург;Vilesse;https://api.hh.ru/employers/1510254;https://hh.ru/vacancy/34468849;RUR;90000.0;150000.0;Системный администратор Linux / DevOps
+9;24;59.963656;30.287077;Чкаловская;Большая Зеленина улица;Санкт-Петербург;Just AI;https://api.hh.ru/employers/3833791;https://hh.ru/vacancy/34558342;RUR;;150000.0;Системный администратор / DevOps Engineer
+10;8;59.935944;30.416443;Новочеркасская;проспект Шаумяна;Санкт-Петербург;ОКЕЙ – Федеральная розничная сеть;https://api.hh.ru/employers/1276;https://hh.ru/vacancy/33695654;RUR;90000.0;100000.0;Системный администратор Linux
+11;;;;;;Санкт-Петербург;Lenvendo;https://api.hh.ru/employers/1227460;https://hh.ru/vacancy/32876904;RUR;100000.0;200000.0;System Administrator / DevOps Engineer (Middle / Senior)
+12;24;59.963656;30.287077;Чкаловская;Большая Зеленина улица;Санкт-Петербург;i-FREE;https://api.hh.ru/employers/18062;https://hh.ru/vacancy/34558851;RUR;;150000.0;Системный администратор / DevOps Engineer
+13;22а;59.888487;30.327708;Московские ворота;Заставская улица;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/31252701;RUR;100000.0;;Системный администратор Linux
+14;11А;59.899803;30.40101;Елизаровская;улица Седова;Санкт-Петербург;Quest Software;https://api.hh.ru/employers/2654331;https://hh.ru/vacancy/33905906;RUR;;150000.0;DevOps Engineer
+15;;;;;;Санкт-Петербург;Дневник.ру;https://api.hh.ru/employers/581737;https://hh.ru/vacancy/34591219;RUR;250000.0;;Руководитель IT-отдела
+16;22к2;59.888591;30.327672;Московские ворота;Заставская улица;Санкт-Петербург;SEMrush;https://api.hh.ru/employers/789662;https://hh.ru/vacancy/32473562;RUR;150000.0;;System Engineer (с релокацией в Прагу)
+17;7;59.9906904992;30.2601184286;Старая Деревня;Торфяная дорога;Санкт-Петербург;Netwrix Corporation;https://api.hh.ru/employers/574211;https://hh.ru/vacancy/33700891;RUR;110000.0;;QA Engineer / QC Engineer / Инженер по тестированию баз данных SQL
+18;;;;;;Санкт-Петербург;SKL Group;https://api.hh.ru/employers/79142;https://hh.ru/vacancy/33453951;RUR;90000.0;;Специалист по информационной безопасности
+19;;;;;;Санкт-Петербург;Reinvent Baltics;https://api.hh.ru/employers/2107134;https://hh.ru/vacancy/34555529;EUR;2500.0;4000.0;DevOps engineer (Kubernetes, Tallinn, Estonia)
+20;27;59.971204;30.420351;;Львовская улица;Санкт-Петербург;Roamability;https://api.hh.ru/employers/3024612;https://hh.ru/vacancy/34522516;RUR;90000.0;180000.0;System Administrator
+21;7;59.9906904992;30.2601184286;Старая Деревня;Торфяная дорога;Санкт-Петербург;Netwrix Corporation;https://api.hh.ru/employers/574211;https://hh.ru/vacancy/33158226;RUR;85000.0;;Technical Support Engineer (Italian)
+22;7;59.9906904992;30.2601184286;Старая Деревня;Торфяная дорога;Санкт-Петербург;Netwrix Corporation;https://api.hh.ru/employers/574211;https://hh.ru/vacancy/33011333;RUR;80000.0;;Technical Support Engineer (English)
+23;;;;;;Санкт-Петербург;Searchinform;https://api.hh.ru/employers/534283;https://hh.ru/vacancy/32370885;RUR;120000.0;150000.0;QA Automation Engineer

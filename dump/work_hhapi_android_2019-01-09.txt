@@ -1,0 +1,24 @@
+1;	Разработчик мобильных приложений (Android);	120000;	RUR;	150000;	Санкт-Петербург;	АвтоТрансИнфо;	https://api.hh.ru/employers/10607;	https://hh.ru/vacancy/29138926;	Выборгская;	Гельсингфорсская улица;	2
+2;	Android Developer;	90000;	RUR;	130000;	Санкт-Петербург;	Genesis Vision;	https://api.hh.ru/employers/3154366;	https://hh.ru/vacancy/29288609;	Василеостровская;	13-я линия Васильевского острова;	6-8
+3;	Android developer/ Senior Android developer;	200000;	RUR;	250000;	Санкт-Петербург;	Draewil;	https://api.hh.ru/employers/2828853;	https://hh.ru/vacancy/29246745;	Горьковская;	Большая Посадская улица
+4;	Android Разработчик;	100000;	RUR;	120000;	Санкт-Петербург;	АВТОР;	https://api.hh.ru/employers/1962813;	https://hh.ru/vacancy/25777266;	Новочеркасская;	улица Громова;	4
+5;	Android разработчик;	RUR;	170000;	Санкт-Петербург;	Инновационные Системы;	https://api.hh.ru/employers/1413074;	https://hh.ru/vacancy/29500362;	;	;	;	;	
+6;	React Native developer (iOS, Android, Web);	200000;	RUR;	Санкт-Петербург;	Стандарт Капитал;	https://api.hh.ru/employers/1641438;	https://hh.ru/vacancy/27611806;	Пролетарская;	Марксистская улица;	34к10
+7;	Product Manager (мобильные приложения);	120000;	RUR;	Санкт-Петербург;	АдсПро Медиа;	https://api.hh.ru/employers/3195540;	https://hh.ru/vacancy/29158423;	;	;	;	;	
+8;	Senior Mobile Engineer/Mobile Practice Lead;	135000;	RUR;	185000;	Санкт-Петербург;	Spark Equation;	https://api.hh.ru/employers/1787419;	https://hh.ru/vacancy/29224838;	;	Малая Морская улица;	18
+9;	Android разработчик;	110000;	RUR;	Санкт-Петербург;	KUPIBILET.RU;	https://api.hh.ru/employers/950613;	https://hh.ru/vacancy/28794285;	Новочеркасская;	Малоохтинский проспект;	64В
+10;	Mobile QA специалист в швейцарский блокчейн проект;	2500;	USD;	4000;	Санкт-Петербург;	Anchous Drive Recruitment;	https://api.hh.ru/employers/3239351;	https://hh.ru/vacancy/29495257;	;	1 линия;	метро Площадь Восстания
+11;	Android developer;	120000;	RUR;	Санкт-Петербург;	iGooods;	https://api.hh.ru/employers/1762038;	https://hh.ru/vacancy/29488629;	Технологический институт;	2 линия;	метро Технологический институт-2
+12;	Senior software developer C++ на iOS;	160000;	RUR;	Санкт-Петербург;	Транзас;	https://api.hh.ru/employers/1938912;	https://hh.ru/vacancy/28244868;	Василеостровская;	Малый пр.ВО;	54 к.4
+13;	Разработчик ASP.NET MVC;	50000;	RUR;	120000;	Санкт-Петербург;	Quantum Art;	https://api.hh.ru/employers/8188;	https://hh.ru/vacancy/28624383;	;	Воронежская улица;	5
+14;	Xamarin Developer;	80000;	RUR;	120000;	Санкт-Петербург;	Решение;	https://api.hh.ru/employers/3284651;	https://hh.ru/vacancy/29531423;	;	;	;	;	
+15;	JavaScript Developer (React);	90000;	RUR;	Санкт-Петербург;	Competentum;	https://api.hh.ru/employers/3239;	https://hh.ru/vacancy/28919687;	;	улица Всеволода Вишневского;	12
+16;	Senior Front-End/JavaScript Developer;	175000;	RUR;	Санкт-Петербург;	ООО «Аптик СПб»;	https://api.hh.ru/employers/1886264;	https://hh.ru/vacancy/27842300;	;	Лиговский проспект;	140
+17;	Junior DevOps инженер;	RUR;	100000;	Санкт-Петербург;	Кошелек.Ру;	https://api.hh.ru/employers/1428791;	https://hh.ru/vacancy/29130137;	Петроградская;	2 линия;	метро Петроградская
+18;	Lead JavaScript developer/front-end and back-end (full stack);	170000;	RUR;	200000;	Санкт-Петербург;	ТЕК РАУНД СПБ;	https://api.hh.ru/employers/1901449;	https://hh.ru/vacancy/29250208;	Ладожская
+19;	Инженер-видеопрограммист;	60000;	RUR;	100000;	Санкт-Петербург;	InTheSmart;	https://api.hh.ru/employers/3152810;	https://hh.ru/vacancy/26536846;	Василеостровская
+20;	Ruby On Rails Lead Developer;	150000;	RUR;	Санкт-Петербург;	iGooods;	https://api.hh.ru/employers/1762038;	https://hh.ru/vacancy/27979730;	Технологический институт
+21;	QA team lead;	150000;	RUR;	Санкт-Петербург;	Сити лайф;	https://api.hh.ru/employers/1949789;	https://hh.ru/vacancy/29428516;	Ладожская;	проспект Энергетиков;	3Б
+22;	React Native разработчик;	100000;	RUR;	Санкт-Петербург;	Сити лайф;	https://api.hh.ru/employers/1949789;	https://hh.ru/vacancy/29337837;	Ладожская;	проспект Энергетиков;	3Б
+23;	Middle / Senior Frontend Developer;	120000;	RUR;	Санкт-Петербург;	iGooods;	https://api.hh.ru/employers/1762038;	https://hh.ru/vacancy/28423309;	Технологический институт;	2 линия;	метро Технологический институт-2
+24;	Продуктовый дизайнер;	100000;	RUR;	Санкт-Петербург;	KUPIBILET.RU;	https://api.hh.ru/employers/950613;	https://hh.ru/vacancy/29265792;	Новочеркасская;	Малоохтинский проспект;	64В

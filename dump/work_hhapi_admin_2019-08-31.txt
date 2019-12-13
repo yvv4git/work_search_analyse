@@ -1,0 +1,36 @@
+1;	Системный администратор;	80000;	RUR;	Санкт-Петербург;	АвтоТрансИнфо;	https://api.hh.ru/employers/10607;	https://hh.ru/vacancy/33082217;	Выборгская;	Гельсингфорсская улица;	2
+2;	Системный администратор Linux;	120000;	RUR;	Санкт-Петербург;	B2Broker;	https://api.hh.ru/employers/2234168;	https://hh.ru/vacancy/33093107;	Петроградская
+3;	Системный администратор/Devops;	RUR;	100000;	Санкт-Петербург;	Soft-Werke;	https://api.hh.ru/employers/211654;	https://hh.ru/vacancy/33325829;	;	;	;	;	
+4;	Системный администратор Linux / DevOps;	110000;	RUR;	Санкт-Петербург;	Банк «ПСКБ»;	https://api.hh.ru/employers/16430;	https://hh.ru/vacancy/32806428;	;	Московский район, Цветочная улица;	25
+5;	System Administrator Linux (DevOps);	100000;	RUR;	Санкт-Петербург;	Амбреллио;	https://api.hh.ru/employers/2058497;	https://hh.ru/vacancy/31560685;	Комендантский проспект;	Гаккелевская улица;	21А
+6;	Системный администратор Linux;	80000;	RUR;	Санкт-Петербург;	Российский аукционный дом;	https://api.hh.ru/employers/900282;	https://hh.ru/vacancy/32906593;	Садовая;	переулок Гривцова;	5
+7;	Системный администратор Linux/DevOps;	110000;	RUR;	Санкт-Петербург;	ALM Works;	https://api.hh.ru/employers/542183;	https://hh.ru/vacancy/32655869;	Петроградская;	Кантемировская;	2
+8;	Системный администратор (senior);	120000;	RUR;	Санкт-Петербург;	АвтоТрансИнфо;	https://api.hh.ru/employers/10607;	https://hh.ru/vacancy/33082209;	Выборгская;	Выборгская набережная;	47
+9;	System Administrator ( DevOps );	70000;	RUR;	110000;	Санкт-Петербург;	Adwirk Group;	https://api.hh.ru/employers/1524165;	https://hh.ru/vacancy/32591420;	Ладожская;	Якорная улица;	7АД
+10;	Senior DevOps engineer;	170000;	RUR;	230000;	Санкт-Петербург;	B2Broker;	https://api.hh.ru/employers/2234168;	https://hh.ru/vacancy/32910096;	Петроградская
+11;	DevOps engineer;	120000;	RUR;	170000;	Санкт-Петербург;	B2Broker;	https://api.hh.ru/employers/2234168;	https://hh.ru/vacancy/32910174;	Петроградская
+12;	Ведущий системный администратор;	90000;	RUR;	Санкт-Петербург;	Байкалтим;	https://api.hh.ru/employers/2132881;	https://hh.ru/vacancy/33254427;	;	;	;	;	
+13;	System Administrator / DevOps Engineer (Middle / Senior);	100000;	RUR;	200000;	Санкт-Петербург;	Lenvendo;	https://api.hh.ru/employers/1227460;	https://hh.ru/vacancy/32876904;	;	;	;	;	
+14;	Системный администратор Linux (Senior);	RUR;	200000;	Санкт-Петербург;	FBS Inc.;	https://api.hh.ru/employers/681575;	https://hh.ru/vacancy/31691522;	;	;	;	;	
+15;	Ведущий системный администратор;	80000;	RUR;	Санкт-Петербург;	ФГБУ СПб НИИФ;	https://api.hh.ru/employers/1198936;	https://hh.ru/vacancy/33237019;	
+16;	Системный администратор/DevOps;	RUR;	130000;	Санкт-Петербург;	Смарт Лайн;	https://api.hh.ru/employers/1528668;	https://hh.ru/vacancy/32720961;	Чёрная речка;	Белоостровская улица;	17к2
+17;	Системный администратор;	115000;	RUR;	160000;	Санкт-Петербург;	MediaTech;	https://api.hh.ru/employers/115009;	https://hh.ru/vacancy/32926735;	;	;	;	;	
+18;	Программист 1С;	90000;	RUR;	Санкт-Петербург;	ИМПЕРИЯ ГРАНД;	https://api.hh.ru/employers/2126592;	https://hh.ru/vacancy/33283069;	Площадь Александра Невского 1;	Херсонская улица;	39
+19;	Программист 1С/системный администратор;	RUR;	100000;	Санкт-Петербург;	БРОКЕР М;	https://api.hh.ru/employers/1483251;	https://hh.ru/vacancy/33029988;	;	;	;	;	
+20;	Системный администратор/DevOps (Лимасол, Кипр);	3200;	EUR;	Санкт-Петербург;	Wisebits;	https://api.hh.ru/employers/1689648;	https://hh.ru/vacancy/33293228;	
+21;	Старший системный администратор (Windows/NetApp);	100000;	RUR;	Санкт-Петербург;	УК ТЕРМИНАЛ;	https://api.hh.ru/employers/1708483;	https://hh.ru/vacancy/33257856;	;	;	;	;	
+22;	Technical Support Engineer (Italian);	85000;	RUR;	Санкт-Петербург;	Netwrix Corporation;	https://api.hh.ru/employers/574211;	https://hh.ru/vacancy/33158226;	Старая Деревня;	Торфяная дорога;	7
+23;	Technical Support Engineer (English);	80000;	RUR;	Санкт-Петербург;	Netwrix Corporation;	https://api.hh.ru/employers/574211;	https://hh.ru/vacancy/33011333;	Старая Деревня;	Торфяная дорога;	7
+24;	Старший системный администратор;	100000;	RUR;	Санкт-Петербург;	УК ТЕРМИНАЛ;	https://api.hh.ru/employers/1708483;	https://hh.ru/vacancy/33256549;	;	;	;	;	
+25;	QA Automation Engineer;	120000;	RUR;	150000;	Санкт-Петербург;	Searchinform;	https://api.hh.ru/employers/534283;	https://hh.ru/vacancy/32370885;	;	;	;	;	
+26;	System Engineer (с релокацией в Прагу);	150000;	RUR;	Санкт-Петербург;	SEMrush;	https://api.hh.ru/employers/789662;	https://hh.ru/vacancy/32473562;	Московские ворота;	Заставская улица;	22к2
+27;	Старший системный администратор linux/Senior Linux Ops;	130000;	RUR;	170000;	Санкт-Петербург;	Tophunt;	https://api.hh.ru/employers/3201920;	https://hh.ru/vacancy/33233958;	Петроградская;	2 линия;	метро Горьковская
+28;	Backup системный администратор;	85000;	RUR;	Санкт-Петербург;	РИВ ГОШ, Сеть магазинов;	https://api.hh.ru/employers/31050;	https://hh.ru/vacancy/33140435;	Балтийская;	Митрофаньевский тупик
+29;	Системный администратор отдела OpenStack;	120000;	RUR;	Санкт-Петербург;	Selectel;	https://api.hh.ru/employers/633069;	https://hh.ru/vacancy/31584155;	Московские ворота;	улица Коли Томчака;	28Б
+30;	Системный администратор группы эксплуатации PCI-DSS;	100000;	RUR;	Санкт-Петербург;	Айфьючер;	https://api.hh.ru/employers/1573351;	https://hh.ru/vacancy/31157036;	;	;	;	;	
+31;	Сетевой инженер-разработчик;	70000;	RUR;	150000;	Санкт-Петербург;	НИИ МАСШТАБ;	https://api.hh.ru/employers/841097;	https://hh.ru/vacancy/29875851;	;	Кантемировская улица;	5
+32;	Release/Configuration Engineer for a Swiss Startup;	1200;	USD;	1600;	Санкт-Петербург;	Assaia International AG;	https://api.hh.ru/employers/3289413;	https://hh.ru/vacancy/33258791;	;	;	;	;	
+33;	Старший системный/сетевой администратор;	100000;	RUR;	Санкт-Петербург;	Специальный Технологический Центр;	https://api.hh.ru/employers/2519536;	https://hh.ru/vacancy/31051651;	;	проспект Непокоренных;	49
+34;	Системный администратор Linux;	100000;	RUR;	Санкт-Петербург;	ТаймВэб;	https://api.hh.ru/employers/230159;	https://hh.ru/vacancy/31252701;	Московские ворота;	Заставская улица;	22а
+35;	Инженер по разработке в команду DBaaS;	130000;	RUR;	Санкт-Петербург;	Selectel;	https://api.hh.ru/employers/633069;	https://hh.ru/vacancy/31007714;	Московские ворота;	Цветочная улица;	19
+36;	Системный администратор IP сети;	77000;	RUR;	Санкт-Петербург;	Раском;	https://api.hh.ru/employers/3791;	https://hh.ru/vacancy/33183458;	Обводный Канал;	Обводный канал ;	93-А Б/Ц "Нептун"

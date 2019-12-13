@@ -1,0 +1,4 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;;;;;;Санкт-Петербург;SKU Grid;https://api.hh.ru/employers/2470951;https://hh.ru/vacancy/29512979;RUR;120000;;DevOps инженер
+1;22;59.9638232952;30.2793150768;Чкаловская;наб. Адмирала Лазарева;Санкт-Петербург;Келла, группа компаний;https://api.hh.ru/employers/47319;https://hh.ru/vacancy/29406347;RUR;70000;120000.0;Системный администратор / IT специалист
+2;49;59.994216;30.388048;;проспект Непокоренных;Санкт-Петербург;Специальный Технологический Центр;https://api.hh.ru/employers/2519536;https://hh.ru/vacancy/25632897;RUR;100000;;Старший Web-программист

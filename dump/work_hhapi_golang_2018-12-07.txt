@@ -1,0 +1,13 @@
+1;	Golang Developer;	80000;	RUR;	200000;	Санкт-Петербург;	Эддреалити;	https://api.hh.ru/employers/1967022;	https://hh.ru/vacancy/29148581;	;	Кантемировская улица;	4
+2;	Golang developer;	100000;	RUR;	Санкт-Петербург;	Space307;	https://api.hh.ru/employers/2913350;	https://hh.ru/vacancy/27581693;	Горьковская;	улица Кропоткина;	1
+3;	Lead Golang Developer;	180000;	RUR;	220000;	Санкт-Петербург;	Новые Рекламные Технологии;	https://api.hh.ru/employers/2468063;	https://hh.ru/vacancy/29075810;	Чкаловская
+4;	PHP-разработчик;	100000;	RUR;	Санкт-Петербург;	4xxi;	https://api.hh.ru/employers/1536449;	https://hh.ru/vacancy/28278289;	;	;	;	;	
+5;	Fullstack-разработчик (Python+JavaScript);	80000;	RUR;	150000;	Санкт-Петербург;	Аппкрафт;	https://api.hh.ru/employers/2460106;	https://hh.ru/vacancy/29028714;	;	;	;	;	
+6;	Middle back-end developer / Бэкэнд разработчик;	80000;	RUR;	120000;	Санкт-Петербург;	Click;	https://api.hh.ru/employers/2053040;	https://hh.ru/vacancy/28448676;	Петроградская;	улица Профессора Попова;	23Д
+7;	Программист-разработчик Python;	100000;	RUR;	Санкт-Петербург;	АКУТА;	https://api.hh.ru/employers/751957;	https://hh.ru/vacancy/29212960;	;	Московский район, Цветочная улица;	25А
+8;	Full Stack Разработчик;	150000;	RUR;	Санкт-Петербург;	HR-PROFI;	https://api.hh.ru/employers/1883675;	https://hh.ru/vacancy/28474800;	;	;	;	;	
+9;	Middle PHP разработчик;	100000;	RUR;	150000;	Санкт-Петербург;	Андреева Елена Валерьевна;	https://api.hh.ru/employers/2812717;	https://hh.ru/vacancy/29131262;	Чернышевская;	Свердловская набережная;	44А
+10;	Системный администратор Linux;	90000;	RUR;	Санкт-Петербург;	ТаймВэб;	https://api.hh.ru/employers/230159;	https://hh.ru/vacancy/28580957;	Московские ворота;	Заставская улица;	22а
+11;	Senior PHP-Developer;	80000;	RUR;	130000;	Санкт-Петербург;	Devim;	https://api.hh.ru/employers/2097195;	https://career.ru/vacancy/28300731;	Беговая;	улица Савушкина;	126Б
+12;	Front-end разработчик;	RUR;	190000;	Санкт-Петербург;	Макспостер;	https://api.hh.ru/employers/1502110;	https://hh.ru/vacancy/29102197;	;	Пулковское шоссе;	40к4
+13;	Back-end разработчик PHP;	RUR;	190000;	Санкт-Петербург;	Макспостер;	https://api.hh.ru/employers/1502110;	https://hh.ru/vacancy/29101959;	;	Пулковское шоссе;	40к4

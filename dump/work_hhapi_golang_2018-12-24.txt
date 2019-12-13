@@ -1,0 +1,11 @@
+1;	Golang Developer;	100000;	RUR;	200000;	Санкт-Петербург;	Эддреалити;	https://api.hh.ru/employers/1967022;	https://hh.ru/vacancy/29148581;	;	Кантемировская улица;	4
+2;	Golang developer;	100000;	RUR;	Санкт-Петербург;	Space307;	https://api.hh.ru/employers/2913350;	https://hh.ru/vacancy/27581693;	Горьковская;	улица Кропоткина;	1
+3;	Fullstack-разработчик (Python+React);	100000;	RUR;	200000;	Санкт-Петербург;	Аппкрафт;	https://api.hh.ru/employers/2460106;	https://hh.ru/vacancy/29028714;	;	;	;	;	
+4;	Middle/Senior Ruby on Rails / Back-end developer;	120000;	RUR;	180000;	Санкт-Петербург;	Левел Тревел;	https://api.hh.ru/employers/1278562;	https://hh.ru/vacancy/29367777;	Бауманская;	Бакунинская улица;	69
+5;	Golang Developer;	100000;	RUR;	150000;	Санкт-Петербург;	Devim;	https://api.hh.ru/employers/2097195;	https://hh.ru/vacancy/28665320;	Беговая;	улица Савушкина;	126
+6;	Middle back-end developer / Бэкэнд разработчик;	80000;	RUR;	120000;	Санкт-Петербург;	Click;	https://api.hh.ru/employers/2053040;	https://hh.ru/vacancy/28448676;	Петроградская;	улица Профессора Попова;	23Д
+7;	Lead Golang Developer;	180000;	RUR;	220000;	Санкт-Петербург;	Новые Рекламные Технологии;	https://api.hh.ru/employers/2468063;	https://hh.ru/vacancy/29075810;	Чкаловская
+8;	Программист Python;	120000;	RUR;	Санкт-Петербург;	SMART HR;	https://api.hh.ru/employers/2389305;	https://hh.ru/vacancy/28562844;	;	;	;	;	
+9;	TeamLead PHP+GO;	200000;	RUR;	220000;	Санкт-Петербург;	ЮК-Консалтинг;	https://api.hh.ru/employers/2060911;	https://hh.ru/vacancy/29032879;	;	;	;	;	
+10;	Senior PHP-Developer;	100000;	RUR;	Санкт-Петербург;	Devim;	https://api.hh.ru/employers/2097195;	https://career.ru/vacancy/28300731;	Беговая;	улица Савушкина;	126Б
+11;	Architect \ Tech Lead;	150000;	RUR;	Санкт-Петербург;	Devim;	https://api.hh.ru/employers/2097195;	https://hh.ru/vacancy/28875756;	;	;	;	;	

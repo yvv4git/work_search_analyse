@@ -1,0 +1,12 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;;;;;;Санкт-Петербург;AEMEDIA OU;https://api.hh.ru/employers/3475520;https://hh.ru/vacancy/31418857;RUR;120000.0;250000.0;Middle/Senior Golang-разработчик
+1;;;;Спортивная;;Санкт-Петербург;Гора Студио;https://api.hh.ru/employers/3994823;https://hh.ru/vacancy/31362764;RUR;50000.0;100000.0;Golang developer (junior+)
+2;;;;Новочеркасская;;Санкт-Петербург;Pushapp;https://api.hh.ru/employers/2120114;https://hh.ru/vacancy/30792004;RUR;90000.0;120000.0;Middle Backend Developer (php, golang)
+3;126;59.987407;30.204342;Беговая;улица Савушкина;Санкт-Петербург;Devim;https://api.hh.ru/employers/2097195;https://hh.ru/vacancy/31412352;RUR;100000.0;;Golang Developer
+4;17;59.987226;30.320467;Чёрная речка;Белоостровская улица;Санкт-Петербург;МиАТел;https://api.hh.ru/employers/1585617;https://hh.ru/vacancy/31242429;RUR;70000.0;100000.0;Backend программист
+5;67;59.931206;30.353777;Маяковская;Невский проспект;Санкт-Петербург;Bnovo;https://api.hh.ru/employers/1222051;https://hh.ru/vacancy/30129957;RUR;95000.0;135000.0;Middle PHP developer/ программист
+6;;;;Чернышевская;;Санкт-Петербург;Сирокко Технолоджи;https://api.hh.ru/employers/4058772;https://hh.ru/vacancy/31471387;RUR;120000.0;;Ruby on Rails developer
+7;;;;;;Санкт-Петербург;MediaTech;https://api.hh.ru/employers/115009;https://hh.ru/vacancy/31007770;RUR;103000.0;155000.0;Backend Developer (PHP/Go)
+8;7Ф;59.990804;30.260056;Старая Деревня;Торфяная дорога;Санкт-Петербург;Nethouse;https://api.hh.ru/employers/1109285;https://hh.ru/vacancy/31234809;RUR;;150000.0;Backend-разработчик
+9;;;;;;Санкт-Петербург;KMA.BIZ;https://api.hh.ru/employers/2734147;https://hh.ru/vacancy/31417497;RUR;150000.0;180000.0;Senior PHP developer
+10;22а;59.888487;30.327708;Московские ворота;Заставская улица;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/31252701;RUR;90000.0;;Системный администратор Linux

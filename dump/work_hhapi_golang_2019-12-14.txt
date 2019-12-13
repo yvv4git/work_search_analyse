@@ -1,0 +1,24 @@
+1;	Golang developer;	100000;	RUR;	180000;	Санкт-Петербург;	B2Broker;	https://api.hh.ru/employers/2234168;	https://hh.ru/vacancy/34869576;	Петроградская
+2;	Backend Golang Developer / Go разработчик;	139000;	RUR;	175000;	Санкт-Петербург;	Софтвайс;	https://api.hh.ru/employers/4295296;	https://hh.ru/vacancy/34349636;	;	Чкаловский проспект;	50
+3;	Go developer;	160000;	RUR;	Санкт-Петербург;	Ласт Левел;	https://api.hh.ru/employers/2523802;	https://hh.ru/vacancy/33788445;	;	;	;	;	
+4;	Senior Go backend developer;	200000;	RUR;	Санкт-Петербург;	Cryptopay Ltd.;	https://api.hh.ru/employers/2342447;	https://hh.ru/vacancy/34190534;	;	;	;	;	
+5;	Middle to Senior PHP Developer / Разработчик на PHP;	139000;	RUR;	175000;	Санкт-Петербург;	Софтвайс;	https://api.hh.ru/employers/4295296;	https://hh.ru/vacancy/34909077;	;	Чкаловский проспект;	50
+6;	Backend разработчик;	70000;	RUR;	100000;	Санкт-Петербург;	МиАТел;	https://api.hh.ru/employers/1585617;	https://hh.ru/vacancy/34904802;	Чёрная речка;	Белоостровская улица;	17
+7;	Senior PHP/Go Developer;	160000;	RUR;	Санкт-Петербург;	Goodwix;	https://api.hh.ru/employers/2014783;	https://hh.ru/vacancy/34613586;	Выборгская;	Большой Сампсониевский проспект;	64
+8;	Delphi разработчик;	80000;	RUR;	120000;	Санкт-Петербург;	Searchinform;	https://api.hh.ru/employers/534283;	https://hh.ru/vacancy/34912543;	;	;	;	;	
+9;	Golang Developer (в команду Payment Processing);	150000;	RUR;	Санкт-Петербург;	IQ Орtiоn Sоftwаre;	https://api.hh.ru/employers/1876072;	https://hh.ru/vacancy/33303422;	;	;	;	;	
+10;	Middle/ Senior Node.JS - разработчик;	60000;	RUR;	110000;	Санкт-Петербург;	Egamings, филиал г. Псков;	https://api.hh.ru/employers/2661787;	https://hh.ru/vacancy/34595613;	;	;	;	;	
+11;	Senior PHP-разработчик;	140000;	RUR;	Санкт-Петербург;	4xxi;	https://api.hh.ru/employers/1536449;	https://hh.ru/vacancy/34746633;	;	;	;	;	
+12;	Системный архитектор;	237200;	RUR;	258000;	Санкт-Петербург;	Тамтэк;	https://api.hh.ru/employers/869395;	https://hh.ru/vacancy/34909045;	Лиговский проспект;	Лиговский проспект;	123
+13;	DevOps-инженер;	100000;	RUR;	120000;	Санкт-Петербург;	LTD BeGet;	https://api.hh.ru/employers/656641;	https://hh.ru/vacancy/34105572;	Ладожская
+14;	Senior Go Developer;	180000;	RUR;	250000;	Санкт-Петербург;	Click;	https://api.hh.ru/employers/2053040;	https://hh.ru/vacancy/34353649;	Петроградская;	улица Рентгена;	5А
+15;	Middle Go Developer;	140000;	RUR;	180000;	Санкт-Петербург;	Click;	https://api.hh.ru/employers/2053040;	https://hh.ru/vacancy/34353597;	Петроградская;	улица Рентгена;	5А
+16;	PHP Разработчик, full stack developer PHP;	90000;	RUR;	Санкт-Петербург;	YAMI YAMI;	https://api.hh.ru/employers/3520097;	https://hh.ru/vacancy/34689376;	Удельная
+17;	Android-разработчик (Kotlin);	140000;	RUR;	200000;	Санкт-Петербург;	Макспостер;	https://api.hh.ru/employers/1502110;	https://hh.ru/vacancy/34923352;	;	Пулковское шоссе;	40к4
+18;	Senior Backend Developer (Red Team);	180000;	RUR;	Санкт-Петербург;	SEMrush;	https://api.hh.ru/employers/789662;	https://hh.ru/vacancy/34009250;	Московские ворота;	Заставская улица;	22к2
+19;	Руководитель отдела подбора персонала;	100000;	RUR;	150000;	Санкт-Петербург;	IQ Орtiоn Sоftwаre;	https://api.hh.ru/employers/1876072;	https://hh.ru/vacancy/34192070;	;	Малоохтинский проспект
+20;	Системный администратор / DevOps Engineer;	RUR;	150000;	Санкт-Петербург;	Just AI;	https://api.hh.ru/employers/3833791;	https://hh.ru/vacancy/34558342;	Чкаловская;	Большая Зеленина улица;	24
+21;	Системный администратор Linux;	100000;	RUR;	Санкт-Петербург;	ТаймВэб;	https://api.hh.ru/employers/230159;	https://hh.ru/vacancy/31252701;	Московские ворота;	Заставская улица;	22а
+22;	Системный администратор / DevOps Engineer;	RUR;	150000;	Санкт-Петербург;	i-FREE;	https://api.hh.ru/employers/18062;	https://hh.ru/vacancy/34558851;	Чкаловская;	Большая Зеленина улица;	24
+23;	Senior Golang developer;	180000;	RUR;	280000;	Санкт-Петербург;	Орка Софтвер;	https://api.hh.ru/employers/4246225;	https://hh.ru/vacancy/34825880;	;	Зеленков переулок;	7
+24;	Remote Go Developer;	2500;	USD;	3200;	Санкт-Петербург;	Airpush;	https://api.hh.ru/employers/2063875;	https://hh.ru/vacancy/34868576;	;	;	;	;	

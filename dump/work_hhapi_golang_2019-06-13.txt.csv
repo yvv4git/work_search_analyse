@@ -1,0 +1,11 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;;;;;;Санкт-Петербург;MediaTech;https://api.hh.ru/employers/115009;https://hh.ru/vacancy/31007770;RUR;138000;190000.0;Backend Developer (PHP/Go)
+1;;59.931017;30.36144;Маяковская;площадь Восстания;Санкт-Петербург;ДИДЖИТАЛ ТРЕЙД СОЛЮШНС;https://api.hh.ru/employers/3574533;https://hh.ru/vacancy/31942058;RUR;110000;150000.0;Python Backend разработчик (приложение для знакомств)
+2;22а;59.888487;30.327708;Московские ворота;Заставская улица;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/31252701;RUR;100000;;Системный администратор Linux
+3;111/3;59.928686;30.37062;Площадь Восстания;Невский проспект;Санкт-Петербург;Сирокко Технолоджи;https://api.hh.ru/employers/4058772;https://hh.ru/vacancy/31471387;RUR;160000;;Ruby on Rails developer
+4;4к2;59.995566;30.249069;Старая Деревня;улица Оптиков;Санкт-Петербург;Enapter;https://api.hh.ru/employers/3603194;https://hh.ru/vacancy/31528310;RUR;160000;240000.0;Ruby/Go Engineer
+5;1;59.959251;30.311583;Горьковская;улица Кропоткина;Санкт-Петербург;Space307;https://api.hh.ru/employers/2913350;https://hh.ru/vacancy/31551164;RUR;140000;;PHP\Golang разработчик
+6;28Б;59.886871;30.325678;Московские ворота;улица Коли Томчака;Санкт-Петербург;Selectel;https://api.hh.ru/employers/633069;https://hh.ru/vacancy/31852626;RUR;150000;;Ведущий Python разработчик облачной платформы Selectel
+7;;;;;;Санкт-Петербург;Searchinform;https://api.hh.ru/employers/534283;https://hh.ru/vacancy/31895618;RUR;80000;120000.0;Delphi разработчик
+8;метро Петроградская;59.966394;30.311502;Петроградская;Московско-Петроградская линия;Санкт-Петербург;Новые Технологии;https://api.hh.ru/employers/1019812;https://hh.ru/vacancy/31191792;RUR;80000;140000.0;PHP Developer (PHP-разработчик)
+9;;;;;;Санкт-Петербург;Софт-Эксперты;https://api.hh.ru/employers/1167855;https://hh.ru/vacancy/31843224;RUR;100000;;Middle Go Developer

@@ -1,0 +1,16 @@
+1;	Программист Perl;	60000;	RUR;	110000;	Санкт-Петербург;	Internest;	https://api.hh.ru/employers/41138;	https://hh.ru/vacancy/25650667;	Старая Деревня;	улица Савушкина;	83к3
+2;	Web-программист;	120000;	RUR;	Санкт-Петербург;	Автоконтинент;	https://api.hh.ru/employers/2598555;	https://hh.ru/vacancy/26589582;	Купчино;	2-й Бадаевский проезд;	3к1
+3;	DevOps Engineer;	150000;	RUR;	200000;	Санкт-Петербург;	TradingView;	https://api.hh.ru/employers/1235972;	https://hh.ru/vacancy/24117533;	Чкаловская;	Лодейнопольская улица;	5
+4;	Системный администратор Linux;	70000;	RUR;	150000;	Санкт-Петербург;	Lenvendo;	https://api.hh.ru/employers/1227460;	https://hh.ru/vacancy/26905765;	;	Сердобольская улица;	44
+5;	Perl-программист;	80000;	RUR;	150000;	Санкт-Петербург;	220 Вольт;	https://api.hh.ru/employers/824009;	https://hh.ru/vacancy/14458663;	Василеостровская;	17-я линия В.О.;	22
+6;	Тестировщик / Инженер по тестированию;	80000;	RUR;	Санкт-Петербург;	Internest;	https://api.hh.ru/employers/41138;	https://hh.ru/vacancy/26366106;	Старая Деревня;	улица Савушкина;	83к3
+7;	Ведущий системный администратор Linux;	65000;	RUR;	80000;	Санкт-Петербург;	Эт Хоум;	https://api.hh.ru/employers/147891;	https://hh.ru/vacancy/26037159;	
+8;	Ведущий системный администратор;	55000;	RUR;	80000;	Санкт-Петербург;	Айпи Сервер;	https://api.hh.ru/employers/860177;	https://hh.ru/vacancy/26467686;	;	1-й Красногвардейский проезд;	9
+9;	Системный программист;	100000;	RUR;	Санкт-Петербург;	Специальный Технологический Центр;	https://api.hh.ru/employers/2519536;	https://hh.ru/vacancy/17217849;	;	проспект Непокорённых;	49
+10;	Системный администратор Linux;	80000;	RUR;	Санкт-Петербург;	ТаймВэб;	https://api.hh.ru/employers/230159;	https://hh.ru/vacancy/26156092;	Московские ворота;	Заставская улица;	22а
+11;	QA engineer;	100000;	RUR;	180000;	Санкт-Петербург;	BARONA;	https://api.hh.ru/employers/114054;	https://hh.ru/vacancy/25273472;	;	;	;	;	
+12;	Инженер-разработчик ( С/С++);	100000;	RUR;	180000;	Санкт-Петербург;	BARONA;	https://api.hh.ru/employers/114054;	https://hh.ru/vacancy/25273382;	;	;	;	;	
+13;	Ведущий инженер разработчик С/С++;	RUR;	180000;	Санкт-Петербург;	BARONA;	https://api.hh.ru/employers/114054;	https://hh.ru/vacancy/26778858;	;	;	;	;	
+14;	PHP-программист;	75000;	RUR;	150000;	Санкт-Петербург;	220 Вольт;	https://api.hh.ru/employers/824009;	https://hh.ru/vacancy/22899800;	Василеостровская;	17-я линия В.О.;	22
+15;	DevOps Specialist;	100000;	RUR;	Санкт-Петербург;	220 Вольт;	https://api.hh.ru/employers/824009;	https://hh.ru/vacancy/25306449;	;	;	;	;	
+16;	DevOps / Системный администратор Linux;	60000;	RUR;	90000;	Санкт-Петербург;	ConeDevelopers;	https://api.hh.ru/employers/2889766;	https://hh.ru/vacancy/26787066;	Чёрная речка

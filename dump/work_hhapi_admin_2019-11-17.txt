@@ -1,0 +1,24 @@
+1;	Системный администратор;	120000;	RUR;	Санкт-Петербург;	Рекон Групп;	https://api.hh.ru/employers/1707144;	https://hh.ru/vacancy/34415419;	Адмиралтейская;	Малая Морская улица;	18
+2;	Системный администратор;	80000;	RUR;	Санкт-Петербург;	АвтоТрансИнфо;	https://api.hh.ru/employers/10607;	https://hh.ru/vacancy/34486026;	Выборгская;	Гельсингфорсская улица;	2
+3;	Системный администратор Linux;	120000;	RUR;	Санкт-Петербург;	B2Broker;	https://api.hh.ru/employers/2234168;	https://hh.ru/vacancy/34261721;	Петроградская
+4;	Системный администратор (DevOps / SRE);	115000;	RUR;	190000;	Санкт-Петербург;	Софтвайс;	https://api.hh.ru/employers/4295296;	https://hh.ru/vacancy/34552157;	;	Чкаловский проспект;	50
+5;	Системный администратор;	70000;	RUR;	110000;	Санкт-Петербург;	JoyCraft Games;	https://api.hh.ru/employers/1103331;	https://hh.ru/vacancy/34591673;	Петроградская;	улица Льва Толстого;	9
+6;	Ведущий системный администратор;	90000;	RUR;	100000;	Санкт-Петербург;	Корона Авто;	https://api.hh.ru/employers/536301;	https://hh.ru/vacancy/34573033;	;	улица Маршала Говорова;	49
+7;	Системный администратор группы эксплуатации PCI-DSS;	100000;	RUR;	Санкт-Петербург;	Айфьючер;	https://api.hh.ru/employers/1573351;	https://hh.ru/vacancy/31157036;	;	;	;	;	
+8;	Системный администратор;	80000;	RUR;	Санкт-Петербург;	Алитер-Акси;	https://api.hh.ru/employers/692383;	https://hh.ru/vacancy/34155985;	Площадь Восстания;	Новгородская улица;	16
+9;	Системный администратор Linux / DevOps;	90000;	RUR;	150000;	Санкт-Петербург;	Vilesse;	https://api.hh.ru/employers/1510254;	https://hh.ru/vacancy/34468849;	;	;	;	;	
+10;	Системный администратор / DevOps Engineer;	RUR;	150000;	Санкт-Петербург;	Just AI;	https://api.hh.ru/employers/3833791;	https://hh.ru/vacancy/34558342;	Чкаловская;	Большая Зеленина улица;	24
+11;	Системный администратор Linux;	90000;	RUR;	100000;	Санкт-Петербург;	ОКЕЙ – Федеральная розничная сеть;	https://api.hh.ru/employers/1276;	https://hh.ru/vacancy/33695654;	Новочеркасская;	проспект Шаумяна;	8
+12;	System Administrator / DevOps Engineer (Middle / Senior);	100000;	RUR;	200000;	Санкт-Петербург;	Lenvendo;	https://api.hh.ru/employers/1227460;	https://hh.ru/vacancy/32876904;	;	;	;	;	
+13;	Системный администратор / DevOps Engineer;	RUR;	150000;	Санкт-Петербург;	i-FREE;	https://api.hh.ru/employers/18062;	https://hh.ru/vacancy/34558851;	Чкаловская;	Большая Зеленина улица;	24
+14;	Системный администратор Linux;	100000;	RUR;	Санкт-Петербург;	ТаймВэб;	https://api.hh.ru/employers/230159;	https://hh.ru/vacancy/31252701;	Московские ворота;	Заставская улица;	22а
+15;	DevOps Engineer;	RUR;	150000;	Санкт-Петербург;	Quest Software;	https://api.hh.ru/employers/2654331;	https://hh.ru/vacancy/33905906;	Елизаровская;	улица Седова;	11А
+16;	Руководитель IT-отдела;	250000;	RUR;	Санкт-Петербург;	Дневник.ру;	https://api.hh.ru/employers/581737;	https://hh.ru/vacancy/34591219;	;	;	;	;	
+17;	System Engineer (с релокацией в Прагу);	150000;	RUR;	Санкт-Петербург;	SEMrush;	https://api.hh.ru/employers/789662;	https://hh.ru/vacancy/32473562;	Московские ворота;	Заставская улица;	22к2
+18;	QA Engineer / QC Engineer / Инженер по тестированию баз данных SQL;	110000;	RUR;	Санкт-Петербург;	Netwrix Corporation;	https://api.hh.ru/employers/574211;	https://hh.ru/vacancy/33700891;	Старая Деревня;	Торфяная дорога;	7
+19;	Специалист по информационной безопасности;	90000;	RUR;	Санкт-Петербург;	SKL Group;	https://api.hh.ru/employers/79142;	https://hh.ru/vacancy/33453951;	;	;	;	;	
+20;	DevOps engineer (Kubernetes, Tallinn, Estonia);	2500;	EUR;	4000;	Санкт-Петербург;	Reinvent Baltics;	https://api.hh.ru/employers/2107134;	https://hh.ru/vacancy/34555529;	;	;	;	;	
+21;	System Administrator;	90000;	RUR;	180000;	Санкт-Петербург;	Roamability;	https://api.hh.ru/employers/3024612;	https://hh.ru/vacancy/34522516;	;	Львовская улица;	27
+22;	Technical Support Engineer (Italian);	85000;	RUR;	Санкт-Петербург;	Netwrix Corporation;	https://api.hh.ru/employers/574211;	https://hh.ru/vacancy/33158226;	Старая Деревня;	Торфяная дорога;	7
+23;	Technical Support Engineer (English);	80000;	RUR;	Санкт-Петербург;	Netwrix Corporation;	https://api.hh.ru/employers/574211;	https://hh.ru/vacancy/33011333;	Старая Деревня;	Торфяная дорога;	7
+24;	QA Automation Engineer;	120000;	RUR;	150000;	Санкт-Петербург;	Searchinform;	https://api.hh.ru/employers/534283;	https://hh.ru/vacancy/32370885;	;	;	;	;	

@@ -1,0 +1,14 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;;;;;;Санкт-Петербург;FBS Inc.;https://api.hh.ru/employers/681575;https://hh.ru/vacancy/25539629;RUR;120000;200000.0;Системный администратор Linux
+1;77;59.838358;30.334194;Звёздная;проспект Юрия Гагарина;Санкт-Петербург;ОБТЕЛ;https://api.hh.ru/employers/1956618;https://hh.ru/vacancy/29039729;RUR;100000;;Системный администратор
+2;;59.8862345809;30.3309747577;;;Санкт-Петербург;Правовед.RU;https://api.hh.ru/employers/788349;https://hh.ru/vacancy/29436243;RUR;100000;;SRE / Системный администратор
+3;22;59.9638232952;30.2793150768;Чкаловская;наб. Адмирала Лазарева;Санкт-Петербург;Келла, группа компаний;https://api.hh.ru/employers/47319;https://hh.ru/vacancy/29406347;RUR;60000;100000.0;Системный администратор/ IT специалист
+4;45;59.909242;30.411224;Елизаровская;проспект Обуховской Обороны;Санкт-Петербург;Фишнет Коммюникейшнз;https://api.hh.ru/employers/623237;https://hh.ru/vacancy/29175170;RUR;80000;;Системный администратор
+5;14/35;59.928131;30.319461;;Спасский переулок;Санкт-Петербург;ТЕРАБИТ;https://api.hh.ru/employers/1367017;https://hh.ru/vacancy/29130376;RUR;50000;120000.0;Системный администратор / Мастер по ремонту компьютеров (Компьютерная помощь)
+6;3Б;59.930787;30.436817;Ладожская;проспект Энергетиков;Санкт-Петербург;Сити лайф;https://api.hh.ru/employers/1949789;https://hh.ru/vacancy/27214551;RUR;80000;;Системный администратор
+7;22;59.937869;30.267179;Василеостровская;17-я линия В.О.;Санкт-Петербург;МОБИ.Деньги;https://api.hh.ru/employers/86230;https://hh.ru/vacancy/29405494;RUR;100000;;Senior Linux-администратор/DevOps
+8;1;59.831245;30.344866;Звёздная;Звёздная улица;Санкт-Петербург;Fortis;https://api.hh.ru/employers/2496609;https://hh.ru/vacancy/27382879;RUR;90000;;Администратор баз данных MS SQL, PostgreSQL
+9;;;;Василеостровская;;Санкт-Петербург;ETNA;https://api.hh.ru/employers/120618;https://hh.ru/vacancy/29031668;RUR;60000;120000.0;Support Specialist / Support Engineer
+10;;;;;;Санкт-Петербург;Etarion;https://api.hh.ru/employers/3814577;https://hh.ru/vacancy/29395668;RUR;150000;;System Administrator/DevOps Specialist
+11;22к2;59.888591;30.327672;Московские ворота;Заставская улица;Санкт-Петербург;SEMrush;https://api.hh.ru/employers/789662;https://hh.ru/vacancy/26887936;RUR;120000;;System Administrator (Linux)
+12;36К1;59.879385;30.440527;Ломоносовская;Бабушкина;Санкт-Петербург;Первый БИТ;https://api.hh.ru/employers/3177;https://hh.ru/vacancy/29303097;RUR;150000;;Руководитель офиса

@@ -1,0 +1,6 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;4;59.950335;30.266048;Василеостровская;Уральская улица;Санкт-Петербург;АДМ СИСТЕМЫ;https://api.hh.ru/employers/1698593;https://hh.ru/vacancy/34240925;RUR;;130000.0;Сетевой инженер
+1;;;;;;Санкт-Петербург;АДМ СИСТЕМЫ;https://api.hh.ru/employers/1698593;https://hh.ru/vacancy/34215882;RUR;;130000.0;Инженер технической поддержки и внедрения
+2;25Ж;59.960269;30.279783;;улица Красного Курсанта;Санкт-Петербург;СевенТест, НТЦ;https://api.hh.ru/employers/887195;https://hh.ru/vacancy/33698385;RUR;40000.0;107000.0;Программист C/C++
+3;49;59.994216;30.388048;;проспект Непокорённых;Санкт-Петербург;Специальный Технологический Центр;https://api.hh.ru/employers/2519536;https://hh.ru/vacancy/17217849;RUR;100000.0;;Системный программист
+4;22а;59.888487;30.327708;Московские ворота;Заставская улица;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/31252701;RUR;100000.0;;Системный администратор Linux

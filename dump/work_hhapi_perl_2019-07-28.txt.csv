@@ -1,0 +1,12 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;7АД;59.941682;30.42054;Ладожская;Якорная улица;Санкт-Петербург;Adwirk Group;https://api.hh.ru/employers/1524165;https://hh.ru/vacancy/32591420;RUR;70000.0;100000.0;System Administrator ( DevOps )
+1;;59.931017;30.36144;Маяковская;площадь Восстания;Санкт-Петербург;ДИДЖИТАЛ ТРЕЙД СОЛЮШНС;https://api.hh.ru/employers/3574533;https://hh.ru/vacancy/32463272;RUR;70000.0;120000.0;DevOps инженер
+2;25Ж;59.960269;30.279783;;улица Красного Курсанта;Санкт-Петербург;СевенТест, НТЦ;https://api.hh.ru/employers/887195;https://hh.ru/vacancy/32173052;RUR;40000.0;107000.0;Программист C/C++
+3;126б;59.985863;30.202734;;улица Савушкина;Санкт-Петербург;Неотек;https://api.hh.ru/employers/1776376;https://hh.ru/vacancy/31915669;RUR;120000.0;;Системный администратор/DevOps
+4;3к1;60.063554;30.358008;Проспект Просвещения;3-й Верхний переулок;Санкт-Петербург;Леко Стайл;https://api.hh.ru/employers/192775;https://hh.ru/vacancy/32646736;RUR;80000.0;;Системный инженер
+5;22а;59.888487;30.327708;Московские ворота;Заставская улица;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/31252701;RUR;100000.0;;Системный администратор Linux
+6;;;;;;Санкт-Петербург;БАЛТБЕТ;https://api.hh.ru/employers/782901;https://hh.ru/vacancy/32569663;RUR;70000.0;120000.0;Разработчик баз данных
+7;11К2;59.900448;30.399744;Елизаровская;улица Седова;Санкт-Петербург;Пумори - Северо-Запад;https://api.hh.ru/employers/242770;https://hh.ru/vacancy/32146621;RUR;100000.0;;Программист-разработчик
+8;5;59.981924;30.33052;;Кантемировская улица;Санкт-Петербург;НИИ МАСШТАБ;https://api.hh.ru/employers/841097;https://hh.ru/vacancy/29370938;RUR;75000.0;110000.0;Разработчик C
+9;;;;;;Санкт-Петербург;Spice Agency;https://api.hh.ru/employers/654435;https://hh.ru/vacancy/32485022;RUR;;150000.0;Системный администратор Linux / DevOps
+10;;;;;;Санкт-Петербург;Star-staff;https://api.hh.ru/employers/1111058;https://hh.ru/vacancy/32283994;RUR;100000.0;200000.0;Security Engineer

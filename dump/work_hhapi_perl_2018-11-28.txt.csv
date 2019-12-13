@@ -1,0 +1,12 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;17;59.963922;30.338281;Выборгская;Пироговская набережная;Санкт-Петербург;Миран;https://api.hh.ru/employers/1626832;https://hh.ru/vacancy/29032231;RUR;60000;90000.0;Администратор RT / Программист perl
+1;;;;;;Санкт-Петербург;ЮК-Консалтинг;https://api.hh.ru/employers/2060911;https://hh.ru/vacancy/29072871;RUR;160000;210000.0;Системный программист С/С++
+2;6-8;59.934961;30.277016;Василеостровская;13-я линия Васильевского острова;Санкт-Петербург;Genesis Vision;https://api.hh.ru/employers/3154366;https://hh.ru/vacancy/28564662;RUR;90000;130000.0;Senior System Administrator & DevOps
+3;25ж;59.9603;30.279962;;улица Красного Курсанта;Санкт-Петербург;СевенТест, НТЦ;https://api.hh.ru/employers/887195;https://hh.ru/vacancy/28431593;RUR;50000;80000.0;Программист С++ / Perl (Linux)
+4;61;59.980537;30.323082;Лесная;Выборгская наб.;Санкт-Петербург;Телфин, телекоммуникационная компания;https://api.hh.ru/employers/38534;https://hh.ru/vacancy/29019820;RUR;80000;;Ведущий разработчик/специалист VoIP
+5;5;59.958791;30.332729;Горьковская;улица Чапаева;Санкт-Петербург;Большаков Александр Владимирович;https://api.hh.ru/employers/3777776;https://hh.ru/vacancy/28890979;RUR;200000;200000.0;Perl разработчик
+6;;;;;;Санкт-Петербург;ОБИТ;https://api.hh.ru/employers/53676;https://hh.ru/vacancy/22875988;RUR;90000;;Веб-программист
+7;49;59.994216;30.388048;;проспект Непокорённых;Санкт-Петербург;Специальный Технологический Центр;https://api.hh.ru/employers/2519536;https://hh.ru/vacancy/17217849;RUR;100000;;Системный программист
+8;;;;;;Санкт-Петербург;Crossover;https://api.hh.ru/employers/1482197;https://hh.ru/vacancy/29001758;USD;8300;8333.0;Site Reliability Engineer
+9;22а;59.888487;30.327708;Московские ворота;Заставская улица;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/28580957;RUR;90000;;Системный администратор Linux
+10;39;59.942804;30.364233;Чернышевская;Радищева;Санкт-Петербург;Смарт Телеком;https://api.hh.ru/employers/227613;https://hh.ru/vacancy/27072832;RUR;79100;;Сетевой инженер + Системный администратор *nix

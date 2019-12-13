@@ -1,0 +1,140 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;;;;;;Санкт-Петербург;Vilesse;https://api.hh.ru/employers/1510254;https://hh.ru/vacancy/34601284;RUR;120000.0;170000.0;PHP-разработчик
+1;83к3;59.985003;30.250013;Старая Деревня;улица Савушкина;Санкт-Петербург;Digift;https://api.hh.ru/employers/3881763;https://hh.ru/vacancy/34944897;RUR;100000.0;150000.0;PHP-developer/ PHP-программист на Yii
+2;;;;;;Санкт-Петербург;Egamings, филиал г. Псков;https://api.hh.ru/employers/2661787;https://hh.ru/vacancy/34789983;RUR;90000.0;180000.0;Middle/ Senior PHP-программист
+3;25А;59.885747;30.329531;Электросила;Цветочная улица;Санкт-Петербург;Densure;https://api.hh.ru/employers/3026046;https://hh.ru/vacancy/34622591;RUR;90000.0;110000.0;PHP-разработчик
+4;;;;Московские ворота;;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/31492560;RUR;;180000.0;Программист PHP/JS
+5;24;59.812446;30.293249;Московская;улица Пилотов;Санкт-Петербург;Региональный Информационно-Вычислительный Центр Пулково;https://api.hh.ru/employers/226380;https://hh.ru/vacancy/34705422;RUR;80000.0;120000.0;Backend Developer (PHP Laravel)
+6;50;59.967358;30.299339;;Чкаловский проспект;Санкт-Петербург;Софтвайс;https://api.hh.ru/employers/4295296;https://hh.ru/vacancy/34909077;RUR;139000.0;175000.0;Middle to Senior PHP Developer / Разработчик на PHP
+7;45;59.956931;30.312562;Горьковская;Кронверкский проспект;Санкт-Петербург;JAM.ME;https://api.hh.ru/employers/3642156;https://hh.ru/vacancy/34852811;RUR;100000.0;120000.0;PHP программист
+8;;;;Петроградская;;Санкт-Петербург;РЕСТАДВАЙЗЕР;https://api.hh.ru/employers/887841;https://hh.ru/vacancy/34902435;RUR;90000.0;130000.0;PHP Middle FullStack разработчик
+9;;;;Петроградская;;Санкт-Петербург;B2Broker;https://api.hh.ru/employers/2234168;https://hh.ru/vacancy/34847849;RUR;;140000.0;PHP Developer
+10;;;;Петроградская;;Санкт-Петербург;B2Broker;https://api.hh.ru/employers/2234168;https://hh.ru/vacancy/34613149;RUR;80000.0;140000.0;PHP Developer (Laravel)
+11;1к2;59.986808;30.305762;Чёрная речка;Торжковская улица;Санкт-Петербург;Ай Ти Сервис;https://api.hh.ru/employers/3539265;https://hh.ru/vacancy/34256906;RUR;140000.0;;Backend-разработчик (PHP)
+12;20;60.031751;30.284966;;Репищева улица;Санкт-Петербург;SkyNet;https://api.hh.ru/employers/373146;https://hh.ru/vacancy/34214954;RUR;80000.0;150000.0;PHP-разработчик
+13;11к2;59.993604;30.244695;Старая Деревня;Стародеревенская улица;Санкт-Петербург;SPRINTHOST;https://api.hh.ru/employers/743207;https://hh.ru/vacancy/34679193;RUR;100000.0;;Backend-разработчик на PHP
+14;;;;Петроградская;;Санкт-Петербург;B2Broker;https://api.hh.ru/employers/2234168;https://hh.ru/vacancy/34688849;RUR;150000.0;200000.0;Senior PHP developer (Laravel)
+15;;;;Василеостровская;;Санкт-Петербург;НаПоправку.ру;https://api.hh.ru/employers/1433262;https://hh.ru/vacancy/34774453;RUR;140000.0;180000.0;Старший веб-разработчик / веб-программист (PHP/JS)
+16;22;59.943196;30.348971;Чернышевская;Литейный проспект;Санкт-Петербург;Alyce;https://api.hh.ru/employers/2708927;https://hh.ru/vacancy/34965557;RUR;160000.0;;PHP backend senior developer (Symfony/Laravel)
+17;;;;;;Санкт-Петербург;WIT Recruitment;https://api.hh.ru/employers/4390350;https://hh.ru/vacancy/34994380;RUR;90000.0;120000.0;PHP-разработчик
+18;18;59.934231;30.31029;Адмиралтейская;Малая Морская улица;Санкт-Петербург;Рекон Групп;https://api.hh.ru/employers/1707144;https://hh.ru/vacancy/33636744;RUR;100000.0;150000.0;Middle PHP Developer (Magento)
+19;18;59.934231;30.31029;Адмиралтейская;Малая Морская улица;Санкт-Петербург;Рекон Групп;https://api.hh.ru/employers/1707144;https://hh.ru/vacancy/33636840;RUR;150000.0;200000.0;Senior PHP Developer (Magento)
+20;;;;Московские ворота;;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/31493218;RUR;;180000.0;Fullstack разработчик (PHP/JS)
+21;;;;;;Санкт-Петербург;4xxi;https://api.hh.ru/employers/1536449;https://hh.ru/vacancy/34746633;RUR;140000.0;;Senior PHP-разработчик
+22;83;59.985665;30.252636;Старая Деревня;улица Савушкина;Санкт-Петербург;Lenvendo;https://api.hh.ru/employers/1227460;https://hh.ru/vacancy/34883296;RUR;90000.0;140000.0;PHP-developer/PHP-программист (Bitrix)
+23;64;59.976481;30.337985;Выборгская;Большой Сампсониевский проспект;Санкт-Петербург;Goodwix;https://api.hh.ru/employers/2014783;https://hh.ru/vacancy/34613586;RUR;160000.0;;Senior PHP/Go Developer
+24;;;;Василеостровская;;Санкт-Петербург;НаПоправку.ру;https://api.hh.ru/employers/1433262;https://hh.ru/vacancy/32471795;RUR;90000.0;130000.0;Веб-разработчик / веб-программист (PHP/JS)
+25;;;;;;Санкт-Петербург;APPNESS;https://api.hh.ru/employers/3233796;https://hh.ru/vacancy/34256019;RUR;150000.0;;Senior PHP Developer
+26;;;;Чёрная речка;;Санкт-Петербург;Lapin Group;https://api.hh.ru/employers/881164;https://hh.ru/vacancy/34716697;RUR;100000.0;;Программист разработчик PHP
+27;;;;;;Санкт-Петербург;Куклин Михаил Анатольевич;https://api.hh.ru/employers/4226738;https://hh.ru/vacancy/34671067;RUR;80000.0;120000.0;Senior PHP разработчик (Symfony)
+28;21а;59.999858;30.256382;Старая Деревня;Гаккелевская улица;Санкт-Петербург;СП.АРМ;https://api.hh.ru/employers/1062575;https://hh.ru/vacancy/34967339;RUR;90000.0;110000.0;PHP-разработчик
+29;39Д;59.94262;30.364153;Чернышевская;улица Радищева;Санкт-Петербург;Расчетные системы;https://api.hh.ru/employers/49569;https://hh.ru/vacancy/34411179;RUR;130000.0;;PHP-разработчик
+30;4а;59.957769;30.342054;Площадь Ленина;Финляндский проспект;Санкт-Петербург;А+ Страхование;https://api.hh.ru/employers/1064620;https://hh.ru/vacancy/34805574;RUR;100000.0;;PHP-разработчик (Fullstack)
+31;14;59.922625;30.34306;Владимирская;Центральный район, Социалистическая улица;Санкт-Петербург;Метрис;https://api.hh.ru/employers/2616307;https://hh.ru/vacancy/34586224;RUR;80000.0;100000.0;Web-Программист (php, Bitrix)
+32;8Б;59.935574;30.436045;Ладожская;площадь Карла Фаберже;Санкт-Петербург;ИНДИНС;https://api.hh.ru/employers/2351671;https://hh.ru/vacancy/34625429;RUR;70000.0;120000.0;PHP-программист
+33;;;;;;Санкт-Петербург;Egamings, филиал г. Псков;https://api.hh.ru/employers/2661787;https://hh.ru/vacancy/34696718;RUR;70000.0;130000.0;Middle/ Senior PHP-программист (reports)
+34;;;;Елизаровская;;Санкт-Петербург;Ю.Би.Си;https://api.hh.ru/employers/3854473;https://hh.ru/vacancy/34755934;RUR;;220000.0;PHP Developer
+35;;;;;;Санкт-Петербург;БТК девелопмент;https://api.hh.ru/employers/567574;https://hh.ru/vacancy/33833776;RUR;90000.0;;Веб-программист
+36;4к1;59.974054;30.335415;Выборгская;Гельсингфорсская улица;Санкт-Петербург;Гудвин;https://api.hh.ru/employers/67578;https://hh.ru/vacancy/34741783;RUR;;200000.0;Программист PHP, NodeJS/ Веб-разработчик (WEB), backend
+37;;;;;;Санкт-Петербург;HR-PROFI;https://api.hh.ru/employers/1883675;https://hh.ru/vacancy/34951082;RUR;150000.0;180000.0;Senior PHP developer (Fullstack) /Ведущий PHP разработчик
+38;28;59.885616;30.325588;Электросила;улица Коли Томчака;Санкт-Петербург;ВАШАКОМНАТА.РФ;https://api.hh.ru/employers/305023;https://hh.ru/vacancy/34031147;RUR;100000.0;;PHP-программист
+39;10;59.936751;30.336449;Гостиный двор;Садовая улица;Санкт-Петербург;Zoon.ru;https://api.hh.ru/employers/1310515;https://hh.ru/vacancy/34617442;RUR;120000.0;180000.0;Ведущий PHP-разработчик
+40;;59.989342;30.255169;Старая Деревня;5 линия;Санкт-Петербург;HR-PROFI;https://api.hh.ru/employers/1883675;https://hh.ru/vacancy/34827845;RUR;;150000.0;PHP разработчик (Bitrix)
+41;;;;;;Санкт-Петербург;HR-PROFI;https://api.hh.ru/employers/1883675;https://hh.ru/vacancy/34951058;RUR;150000.0;180000.0;Senior PHP dev. (Fullstack) /Ведущий PHP разработчик
+42;6;59.868663;30.251522;Автово;дорога на Турухтанные Острова;Санкт-Петербург;Вотоня;https://api.hh.ru/employers/1397355;https://hh.ru/vacancy/33282367;RUR;90000.0;;Программист PHP
+43;;;;;;Санкт-Петербург;BR Lab;https://api.hh.ru/employers/2588380;https://hh.ru/vacancy/33813836;RUR;100000.0;150000.0;PHP-разработчик (Symfony)
+44;;;;;;Санкт-Петербург;Эксперт Групп;https://api.hh.ru/employers/719193;https://hh.ru/vacancy/34569708;RUR;150000.0;;Web-разработчик (Senior PHP Developer)
+45;;;;;;Санкт-Петербург;HR-PROFI;https://api.hh.ru/employers/1883675;https://hh.ru/vacancy/33904039;RUR;100000.0;120000.0;PHP-программист (middle)
+46;83к3;59.985003;30.250013;Старая Деревня;улица Савушкина;Санкт-Петербург;Digift;https://api.hh.ru/employers/3881763;https://hh.ru/vacancy/34977441;RUR;;170000.0;Senior PHP developer/ Teamlead
+47;40-44А;59.922296;30.345234;Владимирская;улица Достоевского;Санкт-Петербург;ЭЙС Солюшнс;https://api.hh.ru/employers/2482936;https://hh.ru/vacancy/34719904;RUR;;120000.0;PHP разработчик Битрикс/Bitrix
+48;;;;Фрунзенская;;Санкт-Петербург;БОДИ-Ф;https://api.hh.ru/employers/3197429;https://hh.ru/vacancy/34592966;RUR;100000.0;130000.0;Web-программист
+49;;;;;;Санкт-Петербург;Улыбка радуги;https://api.hh.ru/employers/40938;https://hh.ru/vacancy/32440407;RUR;120000.0;;Ведущий PHP-программист
+50;;;;;;Санкт-Петербург;Это элементарно;https://api.hh.ru/employers/1494162;https://hh.ru/vacancy/34967540;RUR;90000.0;;PHP-разработчик (middle)
+51;метро Ладожская;59.932387;30.439225;Ладожская;4 линия;Санкт-Петербург;Вимос, торговый дом;https://api.hh.ru/employers/192816;https://hh.ru/vacancy/34937075;RUR;80000.0;;PHP Программист YII 2
+52;44;59.922296;30.345369;Владимирская;Достоевского;Санкт-Петербург;its.agency;https://api.hh.ru/employers/156205;https://hh.ru/vacancy/34942180;RUR;70000.0;100000.0;PHP-программист (1С-Битрикс)
+53;;;;Чернышевская;;Санкт-Петербург;АНО Национальное Агентство Мониторинга и Статистики;https://api.hh.ru/employers/3183314;https://hh.ru/vacancy/34993061;RUR;65000.0;130000.0;PHP Developer (Программист-разработчик)
+54;;;;;;Санкт-Петербург;Envion Software;https://api.hh.ru/employers/9987;https://hh.ru/vacancy/34902230;RUR;120000.0;140000.0;PHP Web-developer
+55;7А;59.971159;30.338155;;Зеленков переулок;Санкт-Петербург;Мотифай;https://api.hh.ru/employers/4392435;https://hh.ru/vacancy/34848989;RUR;150000.0;;Frontend Developer
+56;метро Ладожская;59.932387;30.439225;Ладожская;4 линия;Санкт-Петербург;Вимос, торговый дом;https://api.hh.ru/employers/192816;https://hh.ru/vacancy/34666005;RUR;80000.0;;WEB Разработчик YII 2
+57;;;;;;Санкт-Петербург;Orbis Tertius;https://api.hh.ru/employers/1695124;https://hh.ru/vacancy/34891526;RUR;80000.0;100000.0;PHP-разработчик
+58;12;59.942994;30.323486;Невский проспект;Миллионная улица;Санкт-Петербург;We Make Fab;https://api.hh.ru/employers/779168;https://hh.ru/vacancy/34688676;RUR;80000.0;130000.0;PHP-программист
+59;266;59.893349;30.327402;Московские ворота;Лиговский проспект;Санкт-Петербург;АКМЭ сервис;https://api.hh.ru/employers/157761;https://hh.ru/vacancy/34313610;RUR;80000.0;;PHP-разработчик
+60;266;59.893349;30.327402;Московские ворота;Лиговский проспект;Санкт-Петербург;АКМЭ сервис;https://api.hh.ru/employers/157761;https://hh.ru/vacancy/34983699;RUR;80000.0;;Разработчик PHP (Magento)
+61;;;;;;Санкт-Петербург;Интернет Лид;https://api.hh.ru/employers/3058816;https://hh.ru/vacancy/34650381;RUR;70000.0;100000.0;Python разработчик (Django)
+62;8к2;59.907478;30.324788;Фрунзенская;Заозёрная улица;Санкт-Петербург;Бизнес-Ориентированные Системы;https://api.hh.ru/employers/4137998;https://hh.ru/vacancy/34869481;RUR;15000.0;120000.0;Программист
+63;;;;;;Санкт-Петербург;OneTwoTrip;https://api.hh.ru/employers/914908;https://hh.ru/vacancy/34131579;RUR;120000.0;200000.0;Разработчик JavaScript (Node.js/back-end)
+64;;;;Удельная;;Санкт-Петербург;YAMI YAMI;https://api.hh.ru/employers/3520097;https://hh.ru/vacancy/34689376;RUR;90000.0;;PHP Разработчик, full stack developer PHP
+65;;;;;;Санкт-Петербург;ВАРНА;https://api.hh.ru/employers/3894286;https://hh.ru/vacancy/34621819;RUR;90000.0;120000.0;Программист-тимлид Битрикс
+66;18к3;59.960278;30.333107;Горьковская;Петроградская набережная;Санкт-Петербург;Колибри;https://api.hh.ru/employers/1592241;https://hh.ru/vacancy/34813546;RUR;90000.0;130000.0;Senior / Middle web developer (Yii2)/WEB-разработчик
+67;7;60.015368;30.319165;Удельная;Калязинская;Санкт-Петербург;101 Медиа;https://api.hh.ru/employers/620773;https://hh.ru/vacancy/34947463;RUR;80000.0;;Web-разработчик (php, full stack)
+68;17;59.987226;30.320467;Чёрная речка;Белоостровская улица;Санкт-Петербург;МиАТел;https://api.hh.ru/employers/1585617;https://hh.ru/vacancy/34904802;RUR;70000.0;100000.0;Backend разработчик
+69;;;;;;Санкт-Петербург;АКМЭ сервис;https://api.hh.ru/employers/157761;https://hh.ru/vacancy/34864227;RUR;100000.0;;PHP-разработчик (Symfony)
+70;;;;;;Санкт-Петербург;Крестинин Константин Игоревич;https://api.hh.ru/employers/4418776;https://hh.ru/vacancy/34601938;RUR;40000.0;130000.0;PHP программист (Laravel)
+71;82;59.919761;30.340895;Звенигородская;улица Марата;Санкт-Петербург;Профессиональные Комплексные Решения;https://api.hh.ru/employers/702004;https://hh.ru/vacancy/34666831;RUR;60000.0;120000.0;Web-разработчик
+72;5Б;59.953813;30.291066;Спортивная;Малый проспект Петроградской стороны;Санкт-Петербург;Дипсон;https://api.hh.ru/employers/3635676;https://hh.ru/vacancy/34578721;RUR;70000.0;120000.0;Web разработчик сайтов на 1C Bitrix (Frontend программист)
+73;25Ж;59.960269;30.279783;;улица Красного Курсанта;Санкт-Петербург;СевенТест, НТЦ;https://api.hh.ru/employers/887195;https://hh.ru/vacancy/34009718;RUR;;120000.0;Ведущий фронтенд (frontend) разработчик, программист (JS, PHP, web)
+74;8Б;59.935574;30.436045;Ладожская;площадь Карла Фаберже;Санкт-Петербург;ИНДИНС;https://api.hh.ru/employers/2351671;https://hh.ru/vacancy/34625379;RUR;70000.0;120000.0;Frontend-разработчик (VUE)
+75;30;59.939532;30.422031;Ладожская;Магнитогорская улица;Санкт-Петербург;УМНЫЙ ПОИСК;https://api.hh.ru/employers/2121918;https://hh.ru/vacancy/34684630;RUR;;200000.0;Java-разработчик
+76;;;;;;Санкт-Петербург;Egamings, филиал г. Псков;https://api.hh.ru/employers/2661787;https://hh.ru/vacancy/34595613;RUR;60000.0;110000.0;Middle/ Senior Node.JS - разработчик
+77;8В;59.934542;30.43847;Ладожская;площадь Карла Фаберже;Санкт-Петербург;ПИLКИ;https://api.hh.ru/employers/1903752;https://hh.ru/vacancy/33509781;RUR;180000.0;;Senior backend developer
+78;25Ж;59.960269;30.279783;;улица Красного Курсанта;Санкт-Петербург;СевенТест, НТЦ;https://api.hh.ru/employers/887195;https://hh.ru/vacancy/34009705;RUR;80000.0;130000.0;Старший разработчик backend, PHP
+79;83к3;59.985003;30.250013;Старая Деревня;улица Савушкина;Санкт-Петербург;Digift;https://api.hh.ru/employers/3881763;https://hh.ru/vacancy/34007686;RUR;200000.0;200000.0;System architect
+80;14;59.929682;30.472355;Улица Дыбенко;Российский проспект;Санкт-Петербург;Важная рыба;https://api.hh.ru/employers/2899836;https://hh.ru/vacancy/34663159;RUR;100000.0;;Web-программист (1C-Битрикс)
+81;17к1;60.054554;30.310568;Озерки;Выборгское шоссе;Санкт-Петербург;Радиофид;https://api.hh.ru/employers/849819;https://hh.ru/vacancy/34015796;RUR;80000.0;;Fullstack разработчик
+82;;;;;;Санкт-Петербург;Федеральное Агентство Новостей;https://api.hh.ru/employers/2412618;https://hh.ru/vacancy/34906674;RUR;120000.0;;Full-stack разработчик
+83;;;;;;Санкт-Петербург;РДТоп;https://api.hh.ru/employers/969665;https://hh.ru/vacancy/34670188;RUR;70000.0;120000.0;Web-разработчик 1C-Битрикс
+84;метро Комендантский проспект;60.008549;30.258663;;5 линия;Санкт-Петербург;ИТ Проспект;https://api.hh.ru/employers/2613986;https://hh.ru/vacancy/34685416;RUR;170000.0;;Senior Full-stack developer (Ruby, RoR, ReactJS)
+85;37в;59.972019;30.298773;Петроградская;улица Профессора Попова;Санкт-Петербург;FastLane, IT тренинг и консалтинг;https://api.hh.ru/employers/175066;https://hh.ru/vacancy/34689559;RUR;100000.0;150000.0;Web-программист - инструктор
+86;79;59.9462288217;30.3656851865;Чернышевская;улица Чайковского;Санкт-Петербург;Mygento eCommerce Solutions;https://api.hh.ru/employers/1643357;https://hh.ru/vacancy/29914326;RUR;70000.0;200000.0;Magento разработчик
+87;12;59.903002;30.398181;Елизаровская;улица Седова;Санкт-Петербург;Ю.Би.Си;https://api.hh.ru/employers/3854473;https://hh.ru/vacancy/34704652;RUR;;220000.0;C# / .NET Developer
+88;;;;;;Санкт-Петербург;IQ Орtiоn Sоftwаre;https://api.hh.ru/employers/1876072;https://hh.ru/vacancy/33302697;RUR;;190000.0;Node.js Developer (Chats)
+89;10к1;59.935579;30.416569;Новочеркасская;проспект Шаумяна;Санкт-Петербург;Промшвейтех;https://api.hh.ru/employers/1212269;https://hh.ru/vacancy/34992494;RUR;90000.0;120000.0;Программист 1C-Битрикс
+90;;;;;;Санкт-Петербург;IQ Орtiоn Sоftwаre;https://api.hh.ru/employers/1876072;https://hh.ru/vacancy/33303422;RUR;150000.0;;Golang Developer (в команду Payment Processing)
+91;8к2;59.96003;30.293518;Чкаловская;Большая Зеленина улица;Санкт-Петербург;CNNCT;https://api.hh.ru/employers/2168119;https://hh.ru/vacancy/34997887;RUR;160000.0;200000.0;Ведущий Android разработчик на Kotlin
+92;12;59.915716;30.30013;Технологический институт;Троицкий проспект;Санкт-Петербург;ПО Энергоресурс;https://api.hh.ru/employers/592261;https://hh.ru/vacancy/34773859;RUR;60000.0;100000.0;Ведущий программист
+93;20;60.031751;30.284966;;Репищева улица;Санкт-Петербург;SkyNet;https://api.hh.ru/employers/373146;https://hh.ru/vacancy/34199860;RUR;80000.0;150000.0;Frontend-разработчик
+94;126;59.987407;30.204342;Беговая;улица Савушкина;Санкт-Петербург;Todayprice;https://api.hh.ru/employers/3686973;https://hh.ru/vacancy/34996102;RUR;50000.0;200000.0;Программист-разработчик
+95;8к2;59.96003;30.293518;Чкаловская;Большая Зеленина улица;Санкт-Петербург;CNNCT;https://api.hh.ru/employers/2168119;https://hh.ru/vacancy/34997748;RUR;150000.0;180000.0;Ведущий iOS разработчик
+96;;;;;;Санкт-Петербург;СервисКлауд;https://api.hh.ru/employers/625369;https://hh.ru/vacancy/34982666;RUR;80000.0;120000.0;Web-разработчик/TeamLead (Full stack PHP)
+97;8к2;59.96003;30.293518;Чкаловская;Большая Зеленина улица;Санкт-Петербург;CNNCT;https://api.hh.ru/employers/2168119;https://hh.ru/vacancy/34997395;RUR;155000.0;230000.0;Бэкенд-архитектор и разработчик
+98;;;;;;Санкт-Петербург;Рост;https://api.hh.ru/employers/3105935;https://hh.ru/vacancy/34762718;RUR;80000.0;;Devops инженер
+99;20;60.031751;30.284966;;Репищева улица;Санкт-Петербург;SkyNet;https://api.hh.ru/employers/373146;https://hh.ru/vacancy/34214965;RUR;100000.0;150000.0;Backend-разработчик
+100;;;;Старая Деревня;;Санкт-Петербург;Galt Systems;https://api.hh.ru/employers/1760741;https://hh.ru/vacancy/34992390;RUR;55000.0;110000.0;Менеджер по интернет-маркетингу
+101;;;;Петроградская;;Санкт-Петербург;B2Broker;https://api.hh.ru/employers/2234168;https://hh.ru/vacancy/34773184;RUR;120000.0;170000.0;DevOps engineer
+102;;;;Старая Деревня;;Санкт-Петербург;Galt Systems;https://api.hh.ru/employers/1760741;https://hh.ru/vacancy/34990794;RUR;55000.0;110000.0;Интернет-маркетолог
+103;65к5;59.9324594227;30.4341723644;Ладожская;Заневский проспект;Санкт-Петербург;Paris Nail;https://api.hh.ru/employers/1807732;https://hh.ru/vacancy/34929555;RUR;200000.0;;Руководитель интернет-магазина
+104;1к2;59.986808;30.305762;Чёрная речка;Торжковская улица;Санкт-Петербург;Ай Ти Сервис;https://api.hh.ru/employers/3539265;https://hh.ru/vacancy/34720425;RUR;140000.0;;Web-developer (React)
+105;;34.6863047708;33.0337727474;;;Санкт-Петербург;Wisebits;https://api.hh.ru/employers/1689648;https://hh.ru/vacancy/34994991;EUR;3500.0;4000.0;Senior Automation QA Engineer (relocate to Cyprus)
+106;123;59.918485;30.352232;Лиговский проспект;Лиговский проспект;Санкт-Петербург;Тамтэк;https://api.hh.ru/employers/869395;https://hh.ru/vacancy/34909045;RUR;237200.0;258000.0;Системный архитектор
+107;22;59.943196;30.348971;Чернышевская;Литейный проспект;Санкт-Петербург;Alyce;https://api.hh.ru/employers/2708927;https://hh.ru/vacancy/34596826;RUR;140000.0;;Senior QA Automation Engineer
+108;20;60.031751;30.284966;;Репищева улица;Санкт-Петербург;SkyNet;https://api.hh.ru/employers/373146;https://hh.ru/vacancy/32403240;RUR;100000.0;150000.0;QA Engineer
+109;;;;;;Санкт-Петербург;Agensi Pekerjaan Crest Force(M) SDN.BHD;https://api.hh.ru/employers/4406417;https://hh.ru/vacancy/34546704;RUR;100000.0;;Эксперт по Информационной безопасности (Пентестер)
+110;;;;;;Санкт-Петербург;Lenvendo;https://api.hh.ru/employers/1227460;https://hh.ru/vacancy/34883322;RUR;100000.0;200000.0;System Administrator / DevOps Engineer (Middle / Senior)
+111;;;;Чёрная речка;;Санкт-Петербург;ABC.ru;https://api.hh.ru/employers/811315;https://hh.ru/vacancy/33453563;RUR;;170000.0;Старший Frontend-разработчик (team lead)
+112;11;59.9726;30.271779;Крестовский остров;Константиновский пр-кт;Санкт-Петербург;Риалвеб, Интернет-агентство;https://api.hh.ru/employers/7851;https://hh.ru/vacancy/34183447;RUR;80000.0;;Ведущий программист
+113;;;;;;Санкт-Петербург;HR-PROFI;https://api.hh.ru/employers/1883675;https://hh.ru/vacancy/34149163;RUR;100000.0;120000.0;Product Owner (проект по телемедицине)
+114;36К1;59.879385;30.440527;Ломоносовская;Бабушкина;Санкт-Петербург;Первый Бит;https://api.hh.ru/employers/3177;https://hh.ru/vacancy/34868582;RUR;100000.0;;Разработчик Bitrix Framework
+115;31Б;59.984148;30.286942;Чёрная речка;Приморский проспект;Санкт-Петербург;БИАРУМ;https://api.hh.ru/employers/862257;https://hh.ru/vacancy/34969461;RUR;120000.0;;IOS developer
+116;;;;Ладожская;;Санкт-Петербург;LTD BeGet;https://api.hh.ru/employers/656641;https://hh.ru/vacancy/34105572;RUR;100000.0;120000.0;DevOps-инженер
+117;;;;;;Санкт-Петербург;Skyeng;https://api.hh.ru/employers/1122462;https://hh.ru/vacancy/34949799;RUR;180000.0;;Full stack Developer (PHP/JS) — Artificial Intelligence
+118;8к2;59.96003;30.293518;Чкаловская;Большая Зеленина улица;Санкт-Петербург;CNNCT;https://api.hh.ru/employers/2168119;https://hh.ru/vacancy/34968221;RUR;150000.0;220000.0;Разработчик чат-ботов и интеграций с мессенджерами
+119;;;;;;Санкт-Петербург;Центр образовательных технологий Николая Ягодкина Advancе;https://api.hh.ru/employers/975943;https://hh.ru/vacancy/31938445;RUR;100000.0;;Руководитель IT (CIO/CTO)
+120;8В;59.934542;30.43847;Ладожская;площадь Карла Фаберже;Санкт-Петербург;ПИLКИ;https://api.hh.ru/employers/1903752;https://hh.ru/vacancy/33977948;RUR;140000.0;;Middle backend developer
+121;;;;;;Санкт-Петербург;IQ Орtiоn Sоftwаre;https://api.hh.ru/employers/1876072;https://hh.ru/vacancy/33442650;RUR;200000.0;250000.0;Android разработчик
+122;266;59.893349;30.327402;Московские ворота;Лиговский проспект;Санкт-Петербург;АКМЭ сервис;https://api.hh.ru/employers/157761;https://hh.ru/vacancy/33959760;RUR;90000.0;;Frontend-разработчик (React)
+123;;;;;;Санкт-Петербург;MNK Group SA;https://api.hh.ru/employers/4400234;https://hh.ru/vacancy/34930092;USD;2500.0;3500.0;PHP Developer
+124;4Г;54.85802;83.105662;;Советский район, микрорайон Академгородок, улица Кутателадзе;Санкт-Петербург;ClearScale;https://api.hh.ru/employers/1574063;https://hh.ru/vacancy/34957843;RUR;270000.0;;Technical Leader / Lead software developer (AWS)
+125;;;;;;Санкт-Петербург;Корсун Алексей Сергеевич;https://api.hh.ru/employers/3715016;https://hh.ru/vacancy/34932124;RUR;100000.0;;Full-stack Drupal Developer
+126;40к4;59.818079;30.328004;;Пулковское шоссе;Санкт-Петербург;Макспостер;https://api.hh.ru/employers/1502110;https://hh.ru/vacancy/34923352;RUR;140000.0;200000.0;Android-разработчик (Kotlin)
+127;;;;;;Санкт-Петербург;Skyeng;https://api.hh.ru/employers/1122462;https://hh.ru/vacancy/34900414;RUR;170000.0;;Senior Backend developer — Teachers
+128;;59.932274;30.401639;;Малоохтинский проспект;Санкт-Петербург;IQ Орtiоn Sоftwаre;https://api.hh.ru/employers/1876072;https://hh.ru/vacancy/34192070;RUR;100000.0;150000.0;Руководитель отдела подбора персонала
+129;;59.932274;30.401639;;Малоохтинский проспект;Санкт-Петербург;IQ Орtiоn Sоftwаre;https://api.hh.ru/employers/1876072;https://hh.ru/vacancy/34930811;RUR;;100000.0;HR менеджер (подбор персонала/ рекрутер)
+130;;34.6863047708;33.0337727474;;;Санкт-Петербург;Wisebits;https://api.hh.ru/employers/1689648;https://hh.ru/vacancy/34515810;EUR;3000.0;;QA Engineer (Manual, Automation, Кипр)
+131;;;;;;Санкт-Петербург;Мирафокс;https://api.hh.ru/employers/1207711;https://hh.ru/vacancy/34591917;RUR;140000.0;150000.0;Frontend разработчик
+132;8;59.986088;30.321267;Чёрная речка;Белоостровская улица;Санкт-Петербург;АйТи-бюро 3ебра;https://api.hh.ru/employers/844939;https://hh.ru/vacancy/34147605;RUR;50000.0;120000.0;Frontend developer
+133;;;;;;Санкт-Петербург;Wetail Ltd, Sweden (ИП Коршунов Вячеслав Геннадьевич);https://api.hh.ru/employers/3740580;https://hh.ru/vacancy/34908296;RUR;90000.0;150000.0;Веб мастер (UI&UX дизайн)
+134;;;;;;Санкт-Петербург;Movavi;https://api.hh.ru/employers/236065;https://hh.ru/vacancy/33191452;RUR;80000.0;;PHP разработчик (онлайн видеоредактор)
+135;;;;;;Санкт-Петербург;IT_Selection;https://api.hh.ru/employers/747028;https://hh.ru/vacancy/34865487;RUR;100000.0;160000.0;JavaScript HTML5 developer
+136;;34.6863047708;33.0337727474;;;Санкт-Петербург;Wisebits;https://api.hh.ru/employers/1689648;https://hh.ru/vacancy/32978658;EUR;3000.0;3500.0;QA Automation Engineer (relocate to Cyprus)
+137;;;;;;Санкт-Петербург;Тензор;https://api.hh.ru/employers/67611;https://hh.ru/vacancy/33631196;RUR;87000.0;140000.0;Python-developer
+138;22а;59.888487;30.327708;Московские ворота;Заставская улица;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/31252701;RUR;100000.0;;Системный администратор Linux

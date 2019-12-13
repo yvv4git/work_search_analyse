@@ -1,0 +1,9 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;45;59.909242;30.411224;Елизаровская;проспект Обуховской Обороны;Санкт-Петербург;Фишнет Коммюникейшнз;https://api.hh.ru/employers/623237;https://hh.ru/vacancy/29175170;RUR;80000;;Системный администратор
+1;61;59.980537;30.323082;Лесная;Выборгская наб.;Санкт-Петербург;Телфин, телекоммуникационная компания;https://api.hh.ru/employers/38534;https://hh.ru/vacancy/29019820;RUR;80000;;Ведущий разработчик/специалист VoIP
+2;;;;;;Санкт-Петербург;ОБИТ;https://api.hh.ru/employers/53676;https://hh.ru/vacancy/22875988;RUR;90000;;Веб-программист
+3;49;59.994216;30.388048;;проспект Непокоренных;Санкт-Петербург;Специальный Технологический Центр;https://api.hh.ru/employers/2519536;https://hh.ru/vacancy/25632897;RUR;100000;;Старший Web-программист
+4;22а;59.888487;30.327708;Московские ворота;Заставская улица;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/28580957;RUR;90000;;Системный администратор Linux
+5;39;59.942804;30.364233;Чернышевская;Радищева;Санкт-Петербург;Смарт Телеком;https://api.hh.ru/employers/227613;https://hh.ru/vacancy/27072832;RUR;79100;;Сетевой инженер + Системный администратор *nix
+6;;;;;;Санкт-Петербург;КА Натальи Зотовой;https://api.hh.ru/employers/141547;https://hh.ru/vacancy/29128631;USD;1500;2500.0;Middle/Senior Linux developer (remote)
+7;;;;;;Санкт-Петербург;ЮК-Консалтинг;https://api.hh.ru/employers/2060911;https://hh.ru/vacancy/29072871;RUR;160000;210000.0;Системный программист С/С++
