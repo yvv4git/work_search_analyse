@@ -1,0 +1,16 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;50;59.967358;30.299339;;Чкаловский проспект;Санкт-Петербург;Софтвайс;https://api.hh.ru/employers/4295296;https://hh.ru/vacancy/37646944;RUR;115000.0;190000.0;Системный администратор / DevOps / SRE
+1;7;59.917669;30.32901;;Введенский канал;Санкт-Петербург;Скантроник Системс;https://api.hh.ru/employers/2733612;https://hh.ru/vacancy/37697334;RUR;90000.0;;Системный администратор
+2;;;;;;Санкт-Петербург;АРЕС;https://api.hh.ru/employers/232489;https://hh.ru/vacancy/37821868;RUR;;100000.0;Системный администратор
+3;83;59.985665;30.252636;Старая Деревня;улица Савушкина;Санкт-Петербург;Lenvendo;https://api.hh.ru/employers/1227460;https://hh.ru/vacancy/37223506;RUR;150000.0;250000.0;Senior System Administrator / SRE
+4;метро Комендантский проспект;60.008549;30.258663;;5 линия;Санкт-Петербург;ИТ Проспект;https://api.hh.ru/employers/2613986;https://hh.ru/vacancy/37505386;RUR;;130000.0;Системный администратор Linux / DevOps
+5;;;;;;Санкт-Петербург;Vilesse;https://api.hh.ru/employers/1510254;https://hh.ru/vacancy/37396546;RUR;100000.0;150000.0;Системный администратор Linux / DevOps
+6;;;;;;Санкт-Петербург;ФГБУ СПб НИИФ;https://api.hh.ru/employers/1198936;https://hh.ru/vacancy/37412791;RUR;80000.0;;Ведущий системный администратор
+7;7;59.9906904992;30.2601184286;Старая Деревня;Торфяная дорога;Санкт-Петербург;Netwrix Corporation;https://api.hh.ru/employers/574211;https://hh.ru/vacancy/37096894;RUR;90000.0;;Technical Support Engineer (Italian)
+8;7;59.9906904992;30.2601184286;Старая Деревня;Торфяная дорога;Санкт-Петербург;Netwrix Corporation;https://api.hh.ru/employers/574211;https://hh.ru/vacancy/33011333;RUR;85000.0;;Technical Support Engineer (English)
+9;19;59.887137;30.329136;Московские ворота;Московский район, Цветочная улица;Санкт-Петербург;Selectel;https://api.hh.ru/employers/633069;https://hh.ru/vacancy/35930605;RUR;120000.0;;Системный администратор отдела OpenStack
+10;98;54.172504;37.572971;;улица Болдина;Санкт-Петербург;СервисКлауд;https://api.hh.ru/employers/625369;https://hh.ru/vacancy/37803998;RUR;100000.0;;Системный администратор Linux
+11;22а;59.888487;30.327708;Московские ворота;Заставская улица;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/37499623;RUR;150000.0;;TechLead
+12;70;59.981663;30.2147;Новокрестовская;Приморский проспект;Санкт-Петербург;JetBrains;https://api.hh.ru/employers/9281;https://hh.ru/vacancy/36863816;RUR;80000.0;;Инженер по мониторингу (Linux)
+13;;;;;;Санкт-Петербург;Айсвуд;https://api.hh.ru/employers/1964184;https://hh.ru/vacancy/37706534;RUR;100000.0;130000.0;Ведущий системный администратор
+14;;59.932274;30.401639;;Малоохтинский проспект;Санкт-Петербург;QuadCode;https://api.hh.ru/employers/1876072;https://hh.ru/vacancy/36693866;RUR;140000.0;230000.0;Big Data Administrator / System Administrator Linux / DevOps

@@ -1,0 +1,15 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;;;;;;Санкт-Петербург;АртВизио;https://api.hh.ru/employers/1179627;https://hh.ru/vacancy/37821291;RUR;200000;250000.0;Разработчик ffmpeg
+1;;;;Петроградская;;Санкт-Петербург;B2Broker;https://api.hh.ru/employers/2234168;https://hh.ru/vacancy/36267259;RUR;140000;170000.0;Middle Golang developer
+2;;;;Петроградская;;Санкт-Петербург;B2Broker;https://api.hh.ru/employers/2234168;https://hh.ru/vacancy/36216202;RUR;180000;220000.0;GoLang Senior разработчик
+3;64;59.976481;30.337985;Выборгская;Большой Сампсониевский проспект;Санкт-Петербург;Goodwix;https://api.hh.ru/employers/2014783;https://hh.ru/vacancy/37756223;RUR;160000;;Senior PHP/Go Developer
+4;1к2;59.986808;30.305762;Чёрная речка;Торжковская улица;Санкт-Петербург;Ай Ти Сервис;https://api.hh.ru/employers/3539265;https://hh.ru/vacancy/37824216;RUR;120000;;Backend-разработчик (php)
+5;3Е;59.941615;30.409679;Площадь Александра Невского 1;Красногвардейская площадь;Санкт-Петербург;Teleport;https://api.hh.ru/employers/3688270;https://hh.ru/vacancy/37648060;RUR;120000;180000.0;Backend разработчик
+6;4К;59.877439;30.36258;Международная;улица Фучика;Санкт-Петербург;ТТ ДЕВЕЛОПМЕНТ;https://api.hh.ru/employers/1309504;https://hh.ru/vacancy/36946651;RUR;90000;180000.0;Lead Technical Writer
+7;15;59.961179;30.331337;Горьковская;улица Чапаева;Санкт-Петербург;Телфин, телекоммуникационная компания;https://api.hh.ru/employers/38534;https://hh.ru/vacancy/37411877;RUR;100000;;Ведущий разработчик облачных сервисов
+8;;;;;;Санкт-Петербург;Университет ИТМО;https://api.hh.ru/employers/1795976;https://hh.ru/vacancy/37846308;RUR;120000;;Разработчик (Golang)
+9;;;;;;Санкт-Петербург;Searchinform;https://api.hh.ru/employers/534283;https://hh.ru/vacancy/37845786;RUR;80000;120000.0;Delphi разработчик
+10;40к4;59.818079;30.328004;;Пулковское шоссе;Санкт-Петербург;Баер Макспостер;https://api.hh.ru/employers/1502110;https://hh.ru/vacancy/37774913;RUR;150000;220000.0;Frontend Developer
+11;;;;;;Санкт-Петербург;O.Vision;https://api.hh.ru/employers/4373268;https://hh.ru/vacancy/37753418;RUR;200000;350000.0;Senior backend developer/Team Lead
+12;1;59.959251;30.311583;Горьковская;улица Кропоткина;Санкт-Петербург;Space307;https://api.hh.ru/employers/2913350;https://hh.ru/vacancy/36881341;RUR;150000;;PHP\Golang разработчик
+13;;59.932274;30.401639;;Малоохтинский проспект;Санкт-Петербург;QuadCode;https://api.hh.ru/employers/1876072;https://hh.ru/vacancy/36693866;RUR;140000;230000.0;Big Data Administrator / System Administrator Linux / DevOps
