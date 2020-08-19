@@ -1,0 +1,5 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;14;59.947991;30.268051;Василеостровская;набережная реки Смоленки;Санкт-Петербург;Эшелон-Северо-Запад;https://api.hh.ru/employers/1737940;https://hh.ru/vacancy/37827512;RUR;100000;300000.0;Разработчик, системный инженер Linux
+1;12;59.96584;30.292997;Чкаловская;Левашовский проспект;Санкт-Петербург;Группа Компаний MVS;https://api.hh.ru/employers/964957;https://hh.ru/vacancy/37859569;RUR;150000;180000.0;DevOps инженер
+2;5;59.94207;30.421079;Ладожская;Якорная улица;Санкт-Петербург;ПИLКИ;https://api.hh.ru/employers/1903752;https://hh.ru/vacancy/38003018;RUR;180000;;DevOps engineer
+3;22а;59.888487;30.327708;Московские ворота;Заставская улица;Санкт-Петербург;ТаймВэб;https://api.hh.ru/employers/230159;https://hh.ru/vacancy/37898008;RUR;100000;;Системный администратор Linux / DevOps
