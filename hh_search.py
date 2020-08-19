@@ -35,7 +35,7 @@ class HhSearcher:
         self.dict_data_pandas = []
 
     # Парсим отдельную вакансию и добавляем в массив вакансий
-    def ReqParsePage(self, page_num):
+    def req_parse_page(self, page_num):
         url = 'https://api.hh.ru/vacancies?text=%s&area=%s&salary=%s&period=%s&only_with_salary=true&per_page=1&page=%s&type=open' % (
         self.q, self.area, self.money, self.period, page_num)
         r = requests.get(url, headers=self.headers)
@@ -133,7 +133,7 @@ class HhSearcher:
     def LoopPages(self, pages_count):
         for p in range(0, pages_count):
             # print p
-            self.ReqParsePage(p)
+            self.req_parse_page(p)
 
     # Ищем вакансии по запросу q
     def Find(self, q, period, money, file_rez):
