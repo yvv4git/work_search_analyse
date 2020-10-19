@@ -1,0 +1,10 @@
+version: "3.7"
+
+# work_sa as work_search_analyse
+services:
+  work_sa:
+    build: .
+    container_name: work_sa
+    hostname: work_sa
+    volumes:
+      - ./dump:/app/dump:rw
