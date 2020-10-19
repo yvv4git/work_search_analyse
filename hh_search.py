@@ -3,8 +3,8 @@
 
 import requests
 import json
-from tabulate import tabulate
 import argparse
+# from tabulate import tabulate
 import pandas as pd
 
 
@@ -37,7 +37,7 @@ class HhSearcher:
     # Парсим отдельную вакансию и добавляем в массив вакансий
     def req_parse_page(self, page_num):
         url = 'https://api.hh.ru/vacancies?text=%s&area=%s&salary=%s&period=%s&only_with_salary=true&per_page=1&page=%s&type=open' % (
-        self.q, self.area, self.money, self.period, page_num)
+            self.q, self.area, self.money, self.period, page_num)
         r = requests.get(url, headers=self.headers)
         vac_dic = json.loads(r.text)
         # ar_table = []
@@ -121,44 +121,43 @@ class HhSearcher:
             }
 
     # Узнаем количество найденных вакансий
-    def ReqGetCount(self, headers, q, area, money, period):
+    def req_get_count(self, headers, q, area, money, period):
         url = 'https://api.hh.ru/vacancies?text=%s&area=%s&salary=%s&period=%s&only_with_salary=true&per_page=0&page=0&type=open' % (
-        self.q, self.area, self.money, self.period)
+            self.q, self.area, self.money, self.period)
         r = requests.get(url, headers=headers)
         vac_dic = json.loads(r.text)
         pages_count = vac_dic['found']
         return pages_count
 
     # Проходим по списку вакансий
-    def LoopPages(self, pages_count):
+    def loop_pages(self, pages_count):
         for p in range(0, pages_count):
             # print p
             self.req_parse_page(p)
 
     # Ищем вакансии по запросу q
-    def Find(self, q, period, money, file_rez):
+    def find_vacancy(self, q, period, money, file_rez):
         if q != '':
             self.q = q
         if period != '':
             self.period = period
         if money != '':
             self.money = money
-        print '#' * 30
-        print '#' * 11, 'SEARCH', '#' * 11
-        print 'Search:', self.q
-        print 'Days spend:', self.period
-        print 'Money:', self.money
+        print('#' * 30)
+        print('#' * 11, 'SEARCH', '#' * 11)
+        print('Search:', self.q)
+        print('Days spend:', self.period)
+        print('Money:', self.money)
         # print '#'*30
 
-        pages_count = self.ReqGetCount(self.headers, self.q, self.area, self.money, self.period)
+        pages_count = self.req_get_count(self.headers, self.q, self.area, self.money, self.period)
 
-        print "[*] Pages count = %s" % (pages_count)
+        print("[*] Pages count = %s" % (pages_count))
         # ReqParseAllPages(headers, q, area, money, period, pages_count)
-        print 'Please wait...'
-        self.LoopPages(pages_count)
+        print('Please wait...')
+        self.loop_pages(pages_count)
 
         # выводим в виде красивой таблици
-        # print tabulate(self.ar_vac, headers=['Num', 'Cur', 'MoneyMin', 'MoneyMax', 'Org', 'Employer', 'URL', 'Metro', 'Street', 'Build', 'Lng', 'Lat'])
         # сохраняем в файл
         if file_rez != '':
             f = open(file_rez, 'w')
@@ -199,44 +198,44 @@ class HhSearcher:
 
     # Получаем информацию о васании по id
     def VacancyInfo(self, vac_id):
-        url = 'https://api.hh.ru/vacancies/%s' % (vac_id)
+        url = 'https://api.hh.ru/vacancies/%s' % vac_id
         r = requests.get(url, headers=self.headers)
         vac_dic = json.loads(r.text)
         # print type(vac_dic)
         # print "#"*30
         for key, val in vac_dic.iteritems():
             if key == 'employment':
-                print 'ТИП ЗАНЯТОСТИ-ID: ', val['id']
-                print 'ТИП ЗАНЯТОСТИ: ', val['name']
+                print('ТИП ЗАНЯТОСТИ-ID: ', val['id'])
+                print('ТИП ЗАНЯТОСТИ: ', val['name'])
             elif key == 'area':
-                print 'URL: ', val['url']
-                print 'ГОРОД: ', val['name']
+                print('URL: ', val['url'])
+                print('ГОРОД: ', val['name'])
             elif key == 'employer':
-                print 'ЛОГО: ', val['logo_urls']['original']
-                print 'НАЗВАНИЕ РАБОТОДАТЕЛЯ: ', val['name']
+                print('ЛОГО: ', val['logo_urls']['original'])
+                print('НАЗВАНИЕ РАБОТОДАТЕЛЯ: ', val['name'])
             elif key == 'type':
-                print 'ТИП ВАКАНСИИ-ID', val['id']
-                print 'ТИП ВАКАНСИИ', val['name']
+                print('ТИП ВАКАНСИИ-ID', val['id'])
+                print('ТИП ВАКАНСИИ', val['name'])
             elif key == 'description':
-                print val
+                print(val)
             elif key == 'building_type':
-                print 'ТИП ЗДАНИЯ-ID: ', val['id']
-                print 'ТИП ЗДАНИЯ: ', val['name']
+                print('ТИП ЗДАНИЯ-ID: ', val['id'])
+                print('ТИП ЗДАНИЯ: ', val['name'])
             elif key == 'salary':
-                print 'ОТ: ', val['from']
-                print 'ДО: ', val['to']
-                print 'ВАЛЮТА: ', val['currency']
+                print('ОТ: ', val['from'])
+                print('ДО: ', val['to'])
+                print('ВАЛЮТА: ', val['currency'])
             elif key == 'billing_type':
-                print 'БИЛИНГ-ID: ', val['id']
-                print 'БИЛИНГ: ', val['name']
+                print('БИЛИНГ-ID: ', val['id'])
+                print('БИЛИНГ: ', val['name'])
             elif key == 'experience':
-                print 'ОПЫТ-ID', val['id']
-                print 'ОПЫТ-ОПИСАНИЕ', val['name']
+                print('ОПЫТ-ID', val['id'])
+                print('ОПЫТ-ОПИСАНИЕ', val['name'])
             elif key == 'schedule':
-                print 'ГРАФИК-ID:', val['id']
-                print 'ГРАФИК:', val['name']
+                print('ГРАФИК-ID:', val['id'])
+                print('ГРАФИК:', val['name'])
             else:
-                print key, val
+                print(key, val)
 
 
 parser = argparse.ArgumentParser(description='Work search api:')
@@ -248,16 +247,16 @@ parser.add_argument('--output', '-o')
 
 args = parser.parse_args()
 # print("Request: {}".format(args.request))
-if (str(args.request) != 'None'):
+if str(args.request) != 'None':
     if (str(args.money) != 'None') and (str(args.period) != 'None'):
         hh = HhSearcher()
         if str(args.output) != 'None':
             file_rez = str(args.output)
-            hh.Find(args.request, args.period, args.money, file_rez)
+            hh.find_vacancy(args.request, args.period, args.money, file_rez)
         else:
-            hh.Find(args.request, args.period, args.money, '')
-elif (str(args.vacancy) != 'None'):
-    print 'Vacancy: ', args.vacancy
+            hh.find_vacancy(args.request, args.period, args.money, '')
+elif str(args.vacancy) != 'None':
+    print('Vacancy: ', args.vacancy)
     hh = HhSearcher()
     hh.VacancyInfo(args.vacancy)
 
