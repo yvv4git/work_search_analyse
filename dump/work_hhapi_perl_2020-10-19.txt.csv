@@ -1,0 +1,5 @@
+;addr_build;addr_lat;addr_lng;addr_metro;addr_street;city;employer_name;employer_url;employer_url_vacancy;vac_money_cur;vac_money_from;vac_money_to;vac_name
+0;83к3;59.985003;30.250013;Старая Деревня;улица Савушкина;Санкт-Петербург;Lenvendo;https://api.hh.ru/employers/1227460;https://hh.ru/vacancy/39022938;RUR;100000.0;140000.0;Системный linux-администратор 2й линии технической поддержки
+1;;;;;;Санкт-Петербург;NEOLAB;https://api.hh.ru/employers/1991184;https://hh.ru/vacancy/39831705;RUR;;100000.0;Junior+ / Middle DevOps engineer (Вьетнам)
+2;12;59.96584;30.292997;Чкаловская;Левашовский проспект;Санкт-Петербург;Группа Компаний MVS;https://api.hh.ru/employers/964957;https://hh.ru/vacancy/37859569;RUR;150000.0;230000.0;DevOps инженер
+3;;59.9962287847;30.3449310846;Лесная;Новороссийская улица;Санкт-Петербург;АрБуст;https://api.hh.ru/employers/1991550;https://hh.ru/vacancy/39782809;RUR;90000.0;;Golang разработчик
