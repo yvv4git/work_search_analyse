@@ -1,0 +1,7 @@
+;vac_name;vac_money_from;vac_money_to;vac_money_cur;city;employer_name;employer_url;employer_url_vacancy;addr_metro;addr_street;addr_build;addr_lng;addr_lat
+0;Программист Perl;70000.0;130000.0;RUR;Санкт-Петербург;MobTop Group;https://api.hh.ru/employers/878529;https://hh.ru/vacancy/40618109;Площадь Мужества;;;;
+1;PHP-программист;100000.0;120000.0;RUR;Санкт-Петербург;ОБИТ;https://api.hh.ru/employers/53676;https://hh.ru/vacancy/40261384;Площадь Восстания;;;;
+2;Инженер-программист;95000.0;;RUR;Санкт-Петербург;МИНИТЕХ;https://api.hh.ru/employers/335913;https://hh.ru/vacancy/40204612;;улица Курчатова;10;30.362212;60.008648
+3;Разработчик / системный инженер Linux, DevOps;100000.0;300000.0;RUR;Санкт-Петербург;Эшелон-Северо-Запад;https://api.hh.ru/employers/1737940;https://hh.ru/vacancy/40667724;Василеостровская;набережная реки Смоленки;14;30.268051;59.947991
+4;Junior, Middle DevOps engineer (Вьетнам, Удаленно);;100000.0;RUR;Санкт-Петербург;NEOLAB;https://api.hh.ru/employers/1991184;https://hh.ru/vacancy/40591908;;;;;
+5;DevOps инженер;150000.0;230000.0;RUR;Санкт-Петербург;Группа Компаний MVS;https://api.hh.ru/employers/964957;https://hh.ru/vacancy/37859569;Чкаловская;Левашовский проспект;12;30.292997;59.96584

@@ -9,8 +9,6 @@ import pandas as pd
 
 
 # from transliterate import translit
-
-
 class HhSearcher:
     def __init__(self):
         self.headers = {'user-agent': 'api-test-agent'}
@@ -34,13 +32,15 @@ class HhSearcher:
         self.list_addr_lat = []
         self.dict_data_pandas = []
 
-    # Парсим отдельную вакансию и добавляем в массив вакансий
+    # Парсим вакансии на странице
     def req_parse_page(self, page_num):
-        url = 'https://api.hh.ru/vacancies?text=%s&area=%s&salary=%s&period=%s&only_with_salary=true&per_page=1&page=%s&type=open' % (
+        url = 'https://api.hh.ru/vacancies?text=%s&area=%s&salary=%s&period=%s&only_with_salary=true&per_page=10&page=%s&type=open' % (
             self.q, self.area, self.money, self.period, page_num)
         r = requests.get(url, headers=self.headers)
         vac_dic = json.loads(r.text)
-        # ar_table = []
+        print('Parse page #', page_num, ' Vacancy count:', len(vac_dic['items']))
+        
+        # Проходим по всем вакансиям.
         for vac in vac_dic['items']:
             employer = vac['employer']
             employer_name = vac['employer']['name']
@@ -75,7 +75,7 @@ class HhSearcher:
             if (addr != None) and ('building' in addr):
                 addr_build = addr['building']
             # print addr
-            # print "%s) %s [%s - %s]" % (str(page_num+1), vac_name, vac_money_from, vac_money_to)
+            #print("%s) %s [%s - %s]" % (str(page_num+1), vac_name, vac_money_from, vac_money_to))
             # snip_req, snip_res
             vac_num = page_num + 1
             self.ar_vac.append(
@@ -126,11 +126,17 @@ class HhSearcher:
             self.q, self.area, self.money, self.period)
         r = requests.get(url, headers=headers)
         vac_dic = json.loads(r.text)
-        pages_count = vac_dic['found']
-        return pages_count
+        vac_count = vac_dic['found']
+        return vac_count
 
     # Проходим по списку вакансий
-    def loop_pages(self, pages_count):
+    def loop_pages(self, vac_count):
+        pages_count = vac_count // 10   # целове число вакансий
+        div_count = vac_count % 10      # остаток от деления
+        
+        if div_count > 0:
+            pages_count = pages_count + 1
+        
         for p in range(0, pages_count):
             # print p
             self.req_parse_page(p)
@@ -148,44 +154,38 @@ class HhSearcher:
         print('Search:', self.q)
         print('Days spend:', self.period)
         print('Money:', self.money)
-        # print '#'*30
+        print('#'*30)
 
-        pages_count = self.req_get_count(self.headers, self.q, self.area, self.money, self.period)
+        vac_count = self.req_get_count(self.headers, self.q, self.area, self.money, self.period)
 
-        print("[*] Pages count = %s" % (pages_count))
+        print("[*] Number of vacancies = %d" % (vac_count))
         # ReqParseAllPages(headers, q, area, money, period, pages_count)
         print('Please wait...')
-        self.loop_pages(pages_count)
+        self.loop_pages(vac_count)
 
         # выводим в виде красивой таблици
         # сохраняем в файл
+        print('Save file:', file_rez)
         if file_rez != '':
             f = open(file_rez, 'w')
             for stroka in self.ar_vac:
                 # print stroka
                 stroka2 = ''
                 for s in stroka:
-                    if type(s) is unicode:
-                        # print 'Unicode', s.encode("utf8")
-                        s2 = s.encode("utf8")
-                        if stroka2 == '':
-                            stroka2 = s2
-                        else:
-                            stroka2 = stroka2 + ";\t" + s2
-                    elif isinstance(s, str):
+                    if isinstance(s, str):
                         # print 'String', s
                         s2 = s.encode("utf8")
                         if stroka2 == '':
                             stroka2 = s2
                         else:
-                            stroka2 = stroka2 + ";\t" + s2
+                            stroka2 = str(stroka2) + ";\t" + str(s2)
                     elif isinstance(s, int):
                         s2 = str(s)
                         s2 = s2.encode("utf8")
                         if stroka2 == '':
                             stroka2 = s2
                         else:
-                            stroka2 = stroka2 + ";\t" + s2
+                            stroka2 = stroka2 + ";\t" + str(s2)
                 f.write(str(stroka2) + '\n')
             f.close()
 

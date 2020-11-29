@@ -1,0 +1,10 @@
+FROM python:latest
+
+RUN mkdir -p /app
+ADD . /app
+WORKDIR /app
+
+#RUN pip install requests tabulate pandas
+RUN pip install --trusted-host=pypi.python.org --trusted-host=pypi.org --trusted-host=files.pythonhosted.org --proxy=http://privoxy:8118 requests tabulate pandas
+
+CMD ["./cmd/work_search_by_hhapi.sh"]
