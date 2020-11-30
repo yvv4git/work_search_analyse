@@ -1,0 +1,27 @@
+;vac_name;vac_money_from;vac_money_to;vac_money_cur;city;employer_name;employer_url;employer_url_vacancy;addr_metro;addr_street;addr_build;addr_lng;addr_lat
+0;Бэкенд-разработчик (Ruby on Rails);120000.0;;RUR;Санкт-Петербург;FunBox;https://api.hh.ru/employers/89953;https://hh.ru/vacancy/39837010;;;;;
+1;Ведущий Backend-разработчик (Ruby/Elixir);180000.0;220000.0;RUR;Санкт-Петербург;DNA Team;https://api.hh.ru/employers/4641786;https://hh.ru/vacancy/40258635;;;;;
+2;Middle Ruby on Rails Backend Developer;120000.0;150000.0;RUR;Санкт-Петербург;Яркий фотомаркет;https://api.hh.ru/employers/77872;https://hh.ru/vacancy/40270018;Горьковская;Петроградский район, улица Куйбышева;32У;30.331104;59.958142
+3;Ruby/Ruby On Rails программист;135000.0;250000.0;RUR;Санкт-Петербург;ЛЕНПРОМАУДИТ;https://api.hh.ru/employers/5035505;https://hh.ru/vacancy/40387499;;Либавский переулок;5;30.27265;59.914349
+4;Ruby on Rails developer – Middle - Retail/Recommendation Team;120000.0;180000.0;RUR;Санкт-Петербург;igooods;https://api.hh.ru/employers/1762038;https://hh.ru/vacancy/39239921;Технологический институт;;;;
+5;PHP-разработчик;80000.0;120000.0;RUR;Санкт-Петербург;Mygento eCommerce Solutions;https://api.hh.ru/employers/1643357;https://hh.ru/vacancy/35794682;Чернышевская;улица Чайковского;79;30.3656851865;59.9462288217
+6;Middle Frontend developer;80000.0;;RUR;Санкт-Петербург;Mygento eCommerce Solutions;https://api.hh.ru/employers/1643357;https://hh.ru/vacancy/34709741;Чернышевская;улица Чайковского;79;30.3656851865;59.9462288217
+7;Ruby Backend-разработчик;150000.0;;RUR;Санкт-Петербург;KUPIBILET.RU;https://api.hh.ru/employers/950613;https://hh.ru/vacancy/37479481;Гостиный двор;Литейный проспект;26;30.348998;59.941912
+8;Frontend developer (React);170000.0;;RUR;Санкт-Петербург;Mygento eCommerce Solutions;https://api.hh.ru/employers/1643357;https://hh.ru/vacancy/38781907;Чернышевская;улица Чайковского;79;30.3656851865;59.9462288217
+9;Rust Developer;2000.0;;EUR;Санкт-Петербург;TR Logic LLC;https://api.hh.ru/employers/2898081;https://hh.ru/vacancy/40287854;;;;;
+10;Full-Stack Developer to the UAE;8000.0;12000.0;USD;Санкт-Петербург;Soshace;https://api.hh.ru/employers/1738507;https://hh.ru/vacancy/40508619;;;;;
+11;Системный инженер / DevOps (удаленно);150000.0;200000.0;RUR;Санкт-Петербург;Git in Sky;https://api.hh.ru/employers/4606255;https://hh.ru/vacancy/40059375;;;;;
+12;Senior Java Developer (RubyMine);200000.0;;RUR;Санкт-Петербург;JetBrains;https://api.hh.ru/employers/9281;https://hh.ru/vacancy/38849169;Беговая;Приморский проспект;70;30.2147;59.981663
+13;Middle Magento developer;100000.0;;RUR;Санкт-Петербург;Mygento eCommerce Solutions;https://api.hh.ru/employers/1643357;https://hh.ru/vacancy/36071016;Чернышевская;улица Чайковского;79;30.3656851865;59.9462288217
+14;Junior, Middle DevOps engineer (Вьетнам, Удаленно);;100000.0;RUR;Санкт-Петербург;NEOLAB;https://api.hh.ru/employers/1991184;https://hh.ru/vacancy/40591908;;;;;
+15;IOS Developer;;250000.0;RUR;Санкт-Петербург;Foundook;https://api.hh.ru/employers/4377239;https://hh.ru/vacancy/40527207;;;;;
+16;Backend-разработчик (Middle);;250000.0;RUR;Санкт-Петербург;Латера;https://api.hh.ru/employers/1050345;https://hh.ru/vacancy/39493678;;;;;
+17;Software Developer (PhpStorm);220000.0;;RUR;Санкт-Петербург;JetBrains;https://api.hh.ru/employers/9281;https://hh.ru/vacancy/27193466;Беговая;Приморский проспект;70;30.2147;59.981663
+18;Senior Magento developer;180000.0;;RUR;Санкт-Петербург;Mygento eCommerce Solutions;https://api.hh.ru/employers/1643357;https://hh.ru/vacancy/39986754;Чернышевская;улица Чайковского;79;30.3656851865;59.9462288217
+19;Java Swing Developer (IntelliJ Platform UI Team);200000.0;;RUR;Санкт-Петербург;JetBrains;https://api.hh.ru/employers/9281;https://hh.ru/vacancy/26133511;Беговая;Приморский проспект;70;30.2147;59.981663
+20;Senior Software Developer (IntelliJ IDEA);200000.0;;RUR;Санкт-Петербург;JetBrains;https://api.hh.ru/employers/9281;https://hh.ru/vacancy/18562648;Беговая;Приморский проспект;70;30.2147;59.981663
+21;Senior Java Developer (Educational Products);200000.0;;RUR;Санкт-Петербург;JetBrains;https://api.hh.ru/employers/9281;https://hh.ru/vacancy/36863909;;;;;
+22;Разработчик платформы создания моделей МО;120000.0;;RUR;Санкт-Петербург;Университет ИТМО;https://api.hh.ru/employers/1795976;https://hh.ru/vacancy/37391427;Василеостровская;Биржевая линия;4;30.296752;59.942719
+23;Software Engineer (JVM Runtime);200000.0;;RUR;Санкт-Петербург;JetBrains;https://api.hh.ru/employers/9281;https://hh.ru/vacancy/31364469;;;;;
+24;Senior Software Developer (WebStorm);200000.0;;RUR;Санкт-Петербург;JetBrains;https://api.hh.ru/employers/9281;https://hh.ru/vacancy/38828307;Беговая;Приморский проспект;70;30.2147;59.981663
+25;DevOps Engineer (Business Applications Development);230000.0;;RUR;Санкт-Петербург;JetBrains;https://api.hh.ru/employers/9281;https://hh.ru/vacancy/36863771;Беговая;Приморский проспект;70;30.2147;59.981663
