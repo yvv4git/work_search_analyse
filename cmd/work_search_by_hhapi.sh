@@ -15,3 +15,6 @@ python	$DIR_CMD/hh_search.py -r 'golang' -m 100000 -p 10 -o $DIR_DUMP/work_hhapi
 python	$DIR_CMD/hh_search.py -r 'ruby' -m 100000 -p 10 -o $DIR_DUMP/work_hhapi_ruby_$DATE.txt;
 python	$DIR_CMD/hh_search.py -r 'data scince' -m 100000 -p 10 -o $DIR_DUMP/work_hhapi_data_science_$DATE.txt;
 python	$DIR_CMD/hh_search.py -r 'AI' -m 100000 -p 10 -o $DIR_DUMP/work_hhapi_ai_$DATE.txt;
+
+python3 cmd/analyse_salary.py work_hhapi_python_2017-12-11.txt.csv
+python3 cmd/analyse_salary.py work_hhapi_python_2020-12-03.txt.csv

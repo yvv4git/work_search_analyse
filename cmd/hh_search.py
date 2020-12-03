@@ -1,11 +1,12 @@
-#!/usr/bin/python2.7
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-import requests
-import json
 import argparse
+import json
+
 # from tabulate import tabulate
 import pandas as pd
+import requests
 
 
 # from transliterate import translit
@@ -42,7 +43,7 @@ class HhSearcher:
         
         # Проходим по всем вакансиям.
         for vac in vac_dic['items']:
-            employer = vac['employer']
+            #employer = vac['employer']
             employer_name = vac['employer']['name']
             # employer_name = employer_name.encode('utf8')
             employer_url = ''
@@ -56,10 +57,10 @@ class HhSearcher:
             vac_money_to = vac['salary']['to']
             vac_money_cur = vac['salary']['currency']
             city = vac['area']['name']
-            address = vac['address']
-            snip = vac['snippet']
-            snip_req = vac['snippet']['requirement']
-            snip_res = vac['snippet']['responsibility']
+            #address = vac['address']
+            #snip = vac['snippet']
+            #snip_req = vac['snippet']['requirement']
+            #snip_res = vac['snippet']['responsibility']
             addr = vac['address']
             addr_lng = ''
             addr_lat = ''
@@ -149,6 +150,7 @@ class HhSearcher:
             self.period = period
         if money != '':
             self.money = money
+        print("\n")
         print('#' * 30)
         print('#' * 11, 'SEARCH', '#' * 11)
         print('Search:', self.q)

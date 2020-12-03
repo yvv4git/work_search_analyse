@@ -1,12 +1,12 @@
-#!/usr/bin/python2.7
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
 import pandas as pd
 import matplotlib
 
-file_csv = '/home/pi/Documents/work_hh_search/work_hhapi_php_2017-11-05.txt.csv'
-reviews = pd.read_csv(file_csv, sep=';', encoding='utf-8')
-print reviews.head()
+# file_csv = '/home/pi/Documents/work_hh_search/work_hhapi_php_2017-11-05.txt.csv'
+# reviews = pd.read_csv(file_csv, sep=';', encoding='utf-8')
+# print reviews.head()
 # print reviews.shape
 # print reviews.iloc[0:5,:] # the first 5 rows, and all of the columns for those rows
 # print reviews.iloc[:,:] # the entire DataFrame
