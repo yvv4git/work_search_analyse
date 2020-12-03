@@ -1,3 +1,4 @@
+### DOCKER
 # Start http proxy for python pip install
 docker_proxy:
 	docker run -it --rm -p 8118:8118 -d dperson/torproxy
@@ -15,15 +16,17 @@ docker_push:
 docker_rmi_none:
 	docker images -a |grep none |awk '{print $3}' | xargs docker rmi
 
-# Run container and create it if necessary.
-docker_run:
-	docker-compose up
-
-# Stop container.
-docker_stop:
-	docker-compose stop
-
 # Delete image.
 docker_rm:
 	docker rm work_sa
 	docker rmi work_search_analyse_work_sa
+
+
+### DOCKER-COMPOSE
+# Run container and create it if necessary.
+compose_up:
+	docker-compose up
+
+# Stop container.
+compose_down:
+	docker-compose down
