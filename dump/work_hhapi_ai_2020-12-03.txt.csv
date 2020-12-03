@@ -1,0 +1,13 @@
+;vac_name;vac_money_from;vac_money_to;vac_money_cur;city;employer_name;employer_url;employer_url_vacancy;addr_metro;addr_street;addr_build;addr_lng;addr_lat
+0;Front-end developer React JS (удаленно);150000.0;;RUR;Санкт-Петербург;Helastel;https://api.hh.ru/employers/4166575;https://hh.ru/vacancy/40350471;;;;;
+1;Middle/Senior разработчик Flutter (удаленно);180000.0;280000.0;RUR;Санкт-Петербург;Инспектор Клауд;https://api.hh.ru/employers/2544353;https://hh.ru/vacancy/40738187;;;;;
+2;Видеоаналитика (computer vision);130000.0;300000.0;RUR;Санкт-Петербург;Медицинские Скрининг Системы;https://api.hh.ru/employers/4588942;https://hh.ru/vacancy/40782822;;Невский проспект;21;30.322111;59.935615
+3;PHP backend senior developer (Symfony/Laravel);160000.0;;RUR;Санкт-Петербург;Alyce;https://api.hh.ru/employers/2708927;https://hh.ru/vacancy/40577810;Чернышевская;Литейный проспект;22;30.348971;59.943196
+4;Senior Backend Developer PHP;180000.0;;RUR;Санкт-Петербург;Helastel;https://api.hh.ru/employers/4166575;https://hh.ru/vacancy/40220391;;;;;
+5;Data Scientist (Azure Team);180000.0;;RUR;Санкт-Петербург;SEMrush;https://api.hh.ru/employers/789662;https://hh.ru/vacancy/40765685;Московские ворота;Заставская улица;22к2;30.327672;59.888591
+6;Специалист по контекстной рекламе/Директолог;80000.0;;RUR;Санкт-Петербург;Правовед.RU;https://api.hh.ru/employers/788349;https://hh.ru/vacancy/39413402;Московские ворота;Цветочная улица;16П;30.331319;59.886311
+7;Python-разработчик;200000.0;;RUR;Санкт-Петербург;Новакид РУС;https://api.hh.ru/employers/851716;https://hh.ru/vacancy/39635173;;;;;
+8;Инженер-программист (цифровая обработка сигналов);1333.0;;USD;Санкт-Петербург;Торговый Отдел Посольства Республики Корея;https://api.hh.ru/employers/23777;https://hh.ru/vacancy/38005170;;;;;
+9;Senior Java Developer;250000.0;;RUR;Санкт-Петербург;Ammer Capital;https://api.hh.ru/employers/4514988;https://hh.ru/vacancy/39297442;Лесная;Аптекарская набережная;18;30.316425;59.978223
+10;Junior Embedded Software Engineer;;150000.0;RUR;Санкт-Петербург;АРЕС;https://api.hh.ru/employers/232489;https://hh.ru/vacancy/40641306;;;;;
+11;Инструктор Huawei;180000.0;250000.0;RUR;Санкт-Петербург;Фаст Лейн Столица;https://api.hh.ru/employers/1392157;https://hh.ru/vacancy/40585669;;улица Профессора Попова;37В;30.298773;59.972019
