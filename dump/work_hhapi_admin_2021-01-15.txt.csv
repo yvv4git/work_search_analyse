@@ -1,0 +1,35 @@
+;vac_name;vac_money_from;vac_money_to;vac_money_cur;city;employer_name;employer_url;employer_url_vacancy;addr_metro;addr_street;addr_build;addr_lng;addr_lat
+0;Системный администратор Linux/DevOPS;160000.0;250000.0;RUR;Санкт-Петербург;Karma8;https://api.hh.ru/employers/2207467;https://hh.ru/vacancy/41180535;;;;;
+1;Системный администратор Linux;150000.0;;RUR;Санкт-Петербург;DSP Labs;https://api.hh.ru/employers/2625959;https://hh.ru/vacancy/41560111;Выборгская;Гельсингфорсская улица;2;30.333745;59.973847
+2;Ведущий системный администратор / DevOps (Remote);140000.0;180000.0;RUR;Санкт-Петербург;Чиббис;https://api.hh.ru/employers/2695590;https://hh.ru/vacancy/40845692;;;;;
+3;Старший системный администратор;80000.0;;RUR;Санкт-Петербург;Росконгресс;https://api.hh.ru/employers/225858;https://hh.ru/vacancy/41520843;Василеостровская;;;;
+4;Системный администратор/DevOps;160000.0;;RUR;Санкт-Петербург;Смарт Лайн;https://api.hh.ru/employers/1528668;https://hh.ru/vacancy/39101755;Чёрная речка;Белоостровская улица;17к2;30.32115;59.986776
+5;Системный администратор Linux / DevOps;70000.0;150000.0;RUR;Санкт-Петербург;Fmedia;https://api.hh.ru/employers/2627417;https://hh.ru/vacancy/40095030;Василеостровская;18-я линия Васильевского острова;29;30.266128;59.937513
+6;Старший системный администратор;90000.0;;RUR;Санкт-Петербург;Априори;https://api.hh.ru/employers/2670291;https://hh.ru/vacancy/40582613;;;;;
+7;Дежурный системный администратор Linux;80000.0;120000.0;RUR;Санкт-Петербург;B2Broker;https://api.hh.ru/employers/2234168;https://hh.ru/vacancy/40616861;;;;;
+8;Системный администратор;100000.0;;RUR;Санкт-Петербург;ТрансМашХолдинг, Группа компаний;https://api.hh.ru/employers/3414;https://hh.ru/vacancy/41460513;;;;;
+9;Системный администратор Linux (DevOps);;230000.0;RUR;Санкт-Петербург;FBS Inc.;https://api.hh.ru/employers/681575;https://hh.ru/vacancy/40257606;;;;;
+10;Старший системный администратор;80500.0;;RUR;Санкт-Петербург;Машиностроительный завод «Арсенал»;https://api.hh.ru/employers/2451337;https://hh.ru/vacancy/41474709;Площадь Ленина;улица Михайлова;21;30.362221;59.957268
+11;Старший системный администратор;80000.0;100000.0;RUR;Санкт-Петербург;Петровский автоцентр;https://api.hh.ru/employers/91643;https://hh.ru/vacancy/41073011;Дунайская;Софийская улица;87;30.430035;59.844981
+12;Системный администратор Linux;;145000.0;RUR;Санкт-Петербург;ФАН;https://api.hh.ru/employers/2412618;https://hh.ru/vacancy/40778886;;Приморский проспект;78к5;30.186502;59.988055
+13;Старший системный администратор;110000.0;;RUR;Санкт-Петербург;Токио-Сити;https://api.hh.ru/employers/924205;https://hh.ru/vacancy/41421202;;Лисичанская улица;6;30.318303;59.984976
+14;Системный администратор Linux;60000.0;100000.0;RUR;Санкт-Петербург;Southbridge;https://api.hh.ru/employers/1193714;https://hh.ru/vacancy/40873696;;;;;
+15;Системный администратор Linux;60000.0;100000.0;RUR;Санкт-Петербург;Единая Информационная Система ЖКХ;https://api.hh.ru/employers/3719126;https://hh.ru/vacancy/41515556;;Тарасова улица;12/18;30.413964;59.949713
+16;Системный администратор Linux;70000.0;100000.0;RUR;Санкт-Петербург;ЦМРТ Петроградский;https://api.hh.ru/employers/1186709;https://hh.ru/vacancy/41082692;;улица Рентгена;5Б;30.317314;59.96312
+17;Системный администратор Linux / DevOps;100000.0;150000.0;RUR;Санкт-Петербург;Vilesse;https://api.hh.ru/employers/1510254;https://hh.ru/vacancy/37396546;;;;;
+18;Руководитель отдела технической поддержки;150000.0;200000.0;RUR;Санкт-Петербург;Lenvendo;https://api.hh.ru/employers/1227460;https://hh.ru/vacancy/40735152;Старая Деревня;улица Савушкина;83к3;30.250013;59.985003
+19;Руководитель отдела технической поддержки;80000.0;100000.0;RUR;Санкт-Петербург;Ай Ти Сервис;https://api.hh.ru/employers/3539265;https://hh.ru/vacancy/41502389;Чёрная речка;Торжковская улица;1к2;30.305762;59.986808
+20;DevOps;;180000.0;RUR;Санкт-Петербург;ЛИПТ Софт;https://api.hh.ru/employers/1741760;https://hh.ru/vacancy/41063769;;;;;
+21;Senior Technical Support Engineer (Remote);90000.0;110000.0;RUR;Санкт-Петербург;Plesk;https://api.hh.ru/employers/2199311;https://hh.ru/vacancy/41336578;;;;;
+22;System Administrator / DevOps Engineer (middle-senior level);170000.0;250000.0;RUR;Санкт-Петербург;Vallexsoftware;https://api.hh.ru/employers/2291011;https://hh.ru/vacancy/41048314;Парнас;улица Фёдора Абрамова;4;30.334948;60.07028
+23;Support Specialist / Support Engineer;80000.0;140000.0;RUR;Санкт-Петербург;ETNA;https://api.hh.ru/employers/120618;https://hh.ru/vacancy/41101129;Василеостровская;6-я линия Васильевского острова;63;30.271985;59.949231
+24;Программист 1С: ERP (с функциями системного администратора);100000.0;180000.0;RUR;Санкт-Петербург;АРТЕКС;https://api.hh.ru/employers/3205227;https://hh.ru/vacancy/41490481;;территория Большое Верево, Киевское шоссе;2;30.191892;59.634981
+25;Technical support engineer (Trading Platforms Department specialist);120000.0;;RUR;Санкт-Петербург;B2Broker;https://api.hh.ru/employers/2234168;https://hh.ru/vacancy/41480755;Горьковская;;;;
+26;Программист 1С: ERP/ Системный администратор;100000.0;180000.0;RUR;Санкт-Петербург;АРТЕКС;https://api.hh.ru/employers/3205227;https://hh.ru/vacancy/41478947;;территория Большое Верево, Киевское шоссе;2;30.191892;59.634981
+27;ИНЖЕНЕР ПО АВТОМАТИЗАЦИИ СБОРОЧНОЙ ИНФРАСТРУКТУРЫ.;100000.0;;RUR;Санкт-Петербург;СИРИУС;https://api.hh.ru/employers/1355705;https://hh.ru/vacancy/41640854;;2 линия;метро Пионерская;30.296662;60.002517
+28;Системный администратор (Обойная фабрика);100000.0;;RUR;Санкт-Петербург;АРТЕКС;https://api.hh.ru/employers/3205227;https://hh.ru/vacancy/41479186;;территория Большое Верево, Киевское шоссе;2;30.191892;59.634981
+29;Business Development Manager;150000.0;;RUR;Санкт-Петербург;АСД Технолоджиз;https://api.hh.ru/employers/5088268;https://hh.ru/vacancy/41102037;;;;;
+30;UI дизайнер;100000.0;;RUR;Санкт-Петербург;Давыдов Михаил Сергеевич;https://api.hh.ru/employers/4032636;https://hh.ru/vacancy/41570782;;;;;
+31;DevOps Engineer;200000.0;250000.0;RUR;Санкт-Петербург;Дженстек;https://api.hh.ru/employers/1128487;https://hh.ru/vacancy/41482366;Адмиралтейская;Университетская набережная;7-9-11к5;30.293662;59.942435
+32;Specialist DevOps/Linux;;170000.0;RUR;Санкт-Петербург;ALP Group;https://api.hh.ru/employers/16237;https://hh.ru/vacancy/38765399;;;;;
+33;Тестировщик программного обеспечения / QA Engineer (Mid/Senior);50000.0;120000.0;RUR;Санкт-Петербург;Siber Systems Inc;https://api.hh.ru/employers/230743;https://hh.ru/vacancy/41417797;;;;;

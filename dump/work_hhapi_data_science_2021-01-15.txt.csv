@@ -1,0 +1,11 @@
+;vac_name;vac_money_from;vac_money_to;vac_money_cur;city;employer_name;employer_url;employer_url_vacancy;addr_metro;addr_street;addr_build;addr_lng;addr_lat
+0;Head of Data Science;500000;700000.0;RUR;Санкт-Петербург;АРЕС;https://api.hh.ru/employers/232489;https://hh.ru/vacancy/41575965;Петроградская;;;30.311293;59.966389
+1;Data Scientist (NLP);3000;4000.0;USD;Санкт-Петербург;M-soft;https://api.hh.ru/employers/3507672;https://hh.ru/vacancy/41544948;;;;;
+2;Product Analyst at TransferWise (to Tallinn);2180;2890.0;EUR;Санкт-Петербург;TransferWise;https://api.hh.ru/employers/1168457;https://hh.ru/vacancy/41116989;;;;;
+3;Lead Quantitative Researcher;250000;300000.0;RUR;Санкт-Петербург;Нейронов Антон;https://api.hh.ru/employers/2160618;https://hh.ru/vacancy/41037599;;;;;
+4;Middle/Senior QA Engineer;80000;150000.0;RUR;Санкт-Петербург;Джуси Лабс;https://api.hh.ru/employers/2968394;https://hh.ru/vacancy/41163478;;;;;
+5;Python разработчик (Middle+/Senior);120000;;RUR;Санкт-Петербург;KOTELOV;https://api.hh.ru/employers/843093;https://hh.ru/vacancy/41481585;Владимирская;Загородный проспект;5;30.344884;59.927297
+6;Database Developer (MS SQL);3000;;USD;Санкт-Петербург;Broadridge;https://api.hh.ru/employers/79595;https://hh.ru/vacancy/40331446;Чкаловская;Лодейнопольская;5;30.29147;59.964007
+7;Senior Backend Secure Engeneer ( информационная безопасность, OWASP);400000;;RUR;Санкт-Петербург;АРЕС;https://api.hh.ru/employers/232489;https://hh.ru/vacancy/40618329;Петроградская;;;30.311293;59.966389
+8;Senior C#. Net Developer;3000;;USD;Санкт-Петербург;HazelTree;https://api.hh.ru/employers/2661749;https://hh.ru/vacancy/41641966;Площадь Восстания;2-я Советская улица;17;30.368096;59.931648
+9;Программист С++;200000;350000.0;RUR;Санкт-Петербург;AIPeople;https://api.hh.ru/employers/3367342;https://hh.ru/vacancy/41482542;Петроградская;;;;

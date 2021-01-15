@@ -1,0 +1,19 @@
+;vac_name;vac_money_from;vac_money_to;vac_money_cur;city;employer_name;employer_url;employer_url_vacancy;addr_metro;addr_street;addr_build;addr_lng;addr_lat
+0;Бэкенд-разработчик (Ruby on Rails);150000.0;;RUR;Санкт-Петербург;FunBox;https://api.hh.ru/employers/89953;https://hh.ru/vacancy/39837010;;;;;
+1;Ruby on Rails developer;120000.0;250000.0;RUR;Санкт-Петербург;Burning Buttons;https://api.hh.ru/employers/1386786;https://hh.ru/vacancy/40998212;;;;;
+2;Ruby Developer;250000.0;;RUR;Санкт-Петербург;SPB TV;https://api.hh.ru/employers/955257;https://hh.ru/vacancy/40931826;;;;;
+3;Программист Computer Vision;120000.0;180000.0;RUR;Санкт-Петербург;Аргуссофт;https://api.hh.ru/employers/4665148;https://hh.ru/vacancy/41068521;;улица Александра Блока;5;30.278678;59.924582
+4;Ruby on Rails Developer;140000.0;;RUR;Санкт-Петербург;Ambaha Solutions;https://api.hh.ru/employers/1553899;https://hh.ru/vacancy/41460036;;;;;
+5;PHP-разработчик;80000.0;120000.0;RUR;Санкт-Петербург;Mygento eCommerce Solutions;https://api.hh.ru/employers/1643357;https://hh.ru/vacancy/35794682;Чернышевская;улица Чайковского;79;30.3656851865;59.9462288217
+6;Frontend developer (React);170000.0;;RUR;Санкт-Петербург;Mygento eCommerce Solutions;https://api.hh.ru/employers/1643357;https://hh.ru/vacancy/38781907;Чернышевская;улица Чайковского;79;30.3656851865;59.9462288217
+7;Python-разработчик (Middle);;220000.0;RUR;Санкт-Петербург;Латера;https://api.hh.ru/employers/1050345;https://hh.ru/vacancy/41650810;;улица Юности;8;37.223832;55.999017
+8;Rust Developer;2000.0;;EUR;Санкт-Петербург;TR Logic LLC;https://api.hh.ru/employers/2898081;https://hh.ru/vacancy/40925132;;;;;
+9;Frontend разработчик (удаленно);80000.0;150000.0;RUR;Санкт-Петербург;Noorsoft;https://api.hh.ru/employers/2778644;https://hh.ru/vacancy/41586335;;;;;
+10;Full-Stack Developer to the UAE;8000.0;12000.0;USD;Санкт-Петербург;Soshace;https://api.hh.ru/employers/1738507;https://hh.ru/vacancy/41160562;;;;;
+11;Middle Magento developer;100000.0;;RUR;Санкт-Петербург;Mygento eCommerce Solutions;https://api.hh.ru/employers/1643357;https://hh.ru/vacancy/36071016;Чернышевская;улица Чайковского;79;30.3656851865;59.9462288217
+12;Системный инженер / DevOps (удаленная работа);100000.0;180000.0;RUR;Санкт-Петербург;Git in Sky;https://api.hh.ru/employers/4606255;https://hh.ru/vacancy/41158881;;;;;
+13;DevOps инженер;;200000.0;RUR;Санкт-Петербург;Ай Ти Сервис;https://api.hh.ru/employers/3539265;https://hh.ru/vacancy/40910006;Чёрная речка;Торжковская улица;1к2;30.305762;59.986808
+14;Senior Magento developer;180000.0;;RUR;Санкт-Петербург;Mygento eCommerce Solutions;https://api.hh.ru/employers/1643357;https://hh.ru/vacancy/39986754;Чернышевская;улица Чайковского;79;30.3656851865;59.9462288217
+15;Пентестер;1500.0;4500.0;USD;Санкт-Петербург;крупная азиатская компания;;https://hh.ru/vacancy/40832370;;;;;
+16;Senior iOS Developer в международный B2C-сервис;;300000.0;RUR;Санкт-Петербург;Anchous Drive Recruitment;https://api.hh.ru/employers/3239351;https://hh.ru/vacancy/41018146;;;;;
+17;Devops Specialist (системный инженер);;250000.0;RUR;Санкт-Петербург;Программный комплекс для приема и обработки платежей в интернете;;https://hh.ru/vacancy/41561919;;;;;

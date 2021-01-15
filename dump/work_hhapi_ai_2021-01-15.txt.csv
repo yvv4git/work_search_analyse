@@ -1,0 +1,15 @@
+;vac_name;vac_money_from;vac_money_to;vac_money_cur;city;employer_name;employer_url;employer_url_vacancy;addr_metro;addr_street;addr_build;addr_lng;addr_lat
+0;QA engineer / тестировщик ПО;80000;120000.0;RUR;Санкт-Петербург;rick.ai;https://api.hh.ru/employers/2460106;https://hh.ru/vacancy/41415316;;;;;
+1;Front-end developer React JS (удаленно);150000;;RUR;Санкт-Петербург;Helastel;https://api.hh.ru/employers/4166575;https://hh.ru/vacancy/40350471;;;;;
+2;QA Automation Engineer;100000;150000.0;RUR;Санкт-Петербург;Энерджи Софт;https://api.hh.ru/employers/1316284;https://hh.ru/vacancy/40990191;;Ковенский переулок;19-21;30.361449;59.937157
+3;Deep Learning Engineer;100000;200000.0;RUR;Санкт-Петербург;Intellogic;https://api.hh.ru/employers/1860557;https://hh.ru/vacancy/41525608;;;;;
+4;Инженер по тестированию;80000;;RUR;Санкт-Петербург;Новакид РУС;https://api.hh.ru/employers/851716;https://hh.ru/vacancy/41185253;;;;;
+5;Backend developer (Python);100000;150000.0;RUR;Санкт-Петербург;Энерджи Софт;https://api.hh.ru/employers/1316284;https://hh.ru/vacancy/40858154;;Ковенский переулок;19-21;30.361449;59.937157
+6;Python / C++ Developer (Robotics, AI);50000;150000.0;RUR;Санкт-Петербург;BrainGarden;https://api.hh.ru/employers/2932179;https://hh.ru/vacancy/41511016;Петроградская;улица Профессора Попова;23В;30.31267;59.971244
+7;UI дизайнер;100000;;RUR;Санкт-Петербург;Давыдов Михаил Сергеевич;https://api.hh.ru/employers/4032636;https://hh.ru/vacancy/41570782;;;;;
+8;Python-разработчик;200000;;RUR;Санкт-Петербург;Новакид РУС;https://api.hh.ru/employers/851716;https://hh.ru/vacancy/41620379;;;;;
+9;Senior Backend Developer PHP;180000;;RUR;Санкт-Петербург;Helastel;https://api.hh.ru/employers/4166575;https://hh.ru/vacancy/40220391;;;;;
+10;Senior / Lead PHP backend engineer (Symfony/Laravel);160000;;RUR;Санкт-Петербург;Alyce;https://api.hh.ru/employers/2708927;https://hh.ru/vacancy/41359178;Чернышевская;Литейный проспект;22;30.348971;59.943196
+11;Программист С++;200000;350000.0;RUR;Санкт-Петербург;AIPeople;https://api.hh.ru/employers/3367342;https://hh.ru/vacancy/41482542;Петроградская;;;;
+12;Специалист по контекстной рекламе/Директолог;80000;;RUR;Санкт-Петербург;Правовед.RU;https://api.hh.ru/employers/788349;https://hh.ru/vacancy/39413402;Московские ворота;Цветочная улица;16П;30.331319;59.886311
+13;Backend-разработчик Python (Django);100000;160000.0;RUR;Санкт-Петербург;Университет Иннополис;https://api.hh.ru/employers/1160188;https://hh.ru/vacancy/40836206;;;;48.7437506931;55.7533627497

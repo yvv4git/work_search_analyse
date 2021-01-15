@@ -1,0 +1,7 @@
+;vac_name;vac_money_from;vac_money_to;vac_money_cur;city;employer_name;employer_url;employer_url_vacancy;addr_metro;addr_street;addr_build;addr_lng;addr_lat
+0;Web-разработчик;160000.0;;RUR;Санкт-Петербург;Автоконтинент;https://api.hh.ru/employers/2598555;https://hh.ru/vacancy/41385727;Звёздная;2-й Бадаевский проезд;3к1;30.403463;59.803255
+1;DevOps инженер;;200000.0;RUR;Санкт-Петербург;Ай Ти Сервис;https://api.hh.ru/employers/3539265;https://hh.ru/vacancy/40910006;Чёрная речка;Торжковская улица;1к2;30.305762;59.986808
+2;Инженер-программист;95000.0;;RUR;Санкт-Петербург;МИНИТЕХ;https://api.hh.ru/employers/335913;https://hh.ru/vacancy/41503028;;улица Курчатова;10;30.362212;60.008648
+3;Разработчик баз данных;75000.0;100000.0;RUR;Санкт-Петербург;БАЛТБЕТ;https://api.hh.ru/employers/782901;https://hh.ru/vacancy/40959919;;;;;
+4;Системный администратор Linux;70000.0;100000.0;RUR;Санкт-Петербург;ЦМРТ Петроградский;https://api.hh.ru/employers/1186709;https://hh.ru/vacancy/41082692;;улица Рентгена;5Б;30.317314;59.96312
+5;PHP-программист;100000.0;120000.0;RUR;Санкт-Петербург;ОБИТ;https://api.hh.ru/employers/53676;https://hh.ru/vacancy/40261384;Площадь Восстания;;;;
